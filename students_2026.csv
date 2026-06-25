@@ -1,0 +1,1171 @@
+Student_ID,Roll_Number,Full_Name,Gender,Branch,Section,CGPA,SGPA,Backlogs,Sem_Status,Skills,Certifications_Count,Internship_Count,Eligible_For_Placements,Placement_Status
+STU0001,22311A0501,Madhuri Ramaiah,Female,CSE,A,9.09,9.08,0,PASS,"SQL, DSA",3,3,Yes,Placed
+STU0002,22311A0502,Teja Venkatesh,Male,CSE,B,7.17,6.96,1,FAIL,"MongoDB, AWS, React",3,0,Yes,Placed
+STU0003,22311A0503,Hemanth Raju,Male,CSE,C,6.35,6.6,2,FAIL,"Git, SQL, AWS, Node.js, Web Development",1,0,Yes,Not Placed
+STU0004,22311A0504,Vamshi Srinivas,Male,CSE,D,5.73,5.54,0,PASS,"SQL, AWS, Web Development",0,1,No,Not Placed
+STU0005,22311A0505,Pavani Lakshmi,Female,CSE,E,8.63,8.78,0,PASS,"Java, Docker, AWS",4,3,Yes,Placed
+STU0006,22311A0506,Srikanth Rathod,Male,CSE,F,6.55,6.39,0,PASS,"C++, React, DSA",1,0,Yes,Not Placed
+STU0007,22311A0507,Balaji Yadav,Male,CSE,A,9.58,10.0,0,PASS,"React, DSA, Java, Git, Docker",2,1,Yes,Placed
+STU0008,22311A0508,Praveen Shetty,Male,CSE,B,7.07,7.86,0,PASS,"Python, Node.js, SQL, Git, Web Development, AWS",3,0,Yes,Placed
+STU0009,22311A0509,Balaji Reddy,Male,CSE,C,7.25,6.9,2,FAIL,"Node.js, Git, C++, DSA",2,1,Yes,Placed
+STU0010,22311A0510,Kousalya Das,Female,CSE,D,8.36,9.14,0,PASS,"Python, DSA, C++",1,0,Yes,Not Placed
+STU0011,22311A0511,Dinesh Mandal,Male,CSE,E,5.98,6.15,0,PASS,"AWS, DSA, Git, Node.js, Web Development, C++",2,0,No,Not Placed
+STU0012,22311A0512,Omkar Bansal,Male,CSE,F,7.38,7.1,0,PASS,"MongoDB, Node.js",1,0,Yes,Not Placed
+STU0013,22311A0513,Nithish Singh,Male,CSE,A,9.72,10.0,0,PASS,"Docker, DSA, MongoDB, AWS, Node.js, Python",2,3,Yes,Placed
+STU0014,22311A0514,Akshay Joshi,Male,CSE,B,9.1,9.06,0,PASS,"SQL, DSA, Node.js, C++",6,2,Yes,Placed
+STU0015,22311A0515,Ishitha Bhuvanesh,Female,CSE,C,7.71,8.31,0,PASS,"Python, SQL, DSA, Java, AWS, C++",4,0,Yes,Placed
+STU0016,22311A0516,Deepak Pillai,Male,CSE,D,7.68,7.72,0,PASS,"Node.js, Docker, Java, DSA, Web Development, SQL",1,1,Yes,Placed
+STU0017,22311A0517,Prudhvi Varma,Male,CSE,E,9.06,9.17,0,PASS,"SQL, C++, MongoDB",3,2,Yes,Placed
+STU0018,22311A0518,Tanuja Ramaiah,Female,CSE,F,5.58,5.9,1,FAIL,"Web Development, DSA, React, Node.js",0,0,No,Not Placed
+STU0019,22311A0519,Balaji Saidulu,Male,CSE,A,7.43,7.62,0,PASS,"DSA, Git, Web Development, Java, React, Python",2,1,Yes,Placed
+STU0020,22311A0520,Padmaja Dey,Female,CSE,B,9.01,9.55,0,PASS,"Node.js, SQL, Java, Web Development",2,1,Yes,Placed
+STU0021,22311A0521,Praveen Natarajan,Male,CSE,C,7.53,8.12,0,PASS,"Python, SQL, AWS, Web Development",1,0,Yes,Not Placed
+STU0022,22311A0522,Venkat Shetty,Male,CSE,D,6.51,6.02,1,FAIL,"Git, Python, React",1,0,Yes,Not Placed
+STU0023,22311A0523,Mounika Kadam,Female,CSE,E,9.21,8.96,0,PASS,"React, Git",5,3,Yes,Placed
+STU0024,22311A0524,Tarun Shetty,Male,CSE,F,8.74,8.61,0,PASS,"Node.js, DSA, Web Development, Java, SQL",5,1,Yes,Placed
+STU0025,22311A0525,Srikanth Venkatesh,Male,CSE,A,7.69,7.41,0,PASS,"AWS, React, Web Development",1,2,Yes,Placed
+STU0026,22311A0526,Sreshta Roy,Female,CSE,B,9.12,9.88,0,PASS,"C++, Web Development, Python",2,3,Yes,Placed
+STU0027,22311A0527,Prudhvi Agarwal,Male,CSE,C,7.36,7.12,0,PASS,"Git, MongoDB",2,1,Yes,Placed
+STU0028,22311A0528,Ankita Bhargav,Female,CSE,D,7.85,7.96,0,PASS,"AWS, Web Development, Git, Java",2,1,Yes,Placed
+STU0029,22311A0529,Rajesh Balakrishna,Male,CSE,E,6.82,7.32,0,PASS,"Docker, MongoDB, Node.js, DSA",1,1,Yes,Placed
+STU0030,22311A0530,Rahul Patel,Male,CSE,F,8.95,8.68,0,PASS,"DSA, MongoDB, Java, Python",2,1,Yes,Placed
+STU0031,22311A0531,Ganesh Malhotra,Male,CSE,A,7.54,7.63,0,PASS,"SQL, AWS",2,0,Yes,Placed
+STU0032,22311A0532,Omkar Kapoor,Male,CSE,B,9.8,10.0,0,PASS,"C++, React, Docker, Git, AWS, MongoDB",6,2,Yes,Placed
+STU0033,22311A0533,Dhanush Bansal,Male,CSE,C,9.52,9.8,0,PASS,"Docker, SQL, Web Development, DSA",4,2,Yes,Placed
+STU0034,22311A0534,Tejaswini Patel,Female,CSE,D,9.06,9.03,0,PASS,"Docker, AWS, Python, DSA, Node.js, Git",6,3,Yes,Placed
+STU0035,22311A0535,Tanuja Dubey,Female,CSE,E,7.08,7.73,1,FAIL,"MongoDB, Git, C++, DSA, Docker, SQL",3,1,Yes,Placed
+STU0036,22311A0536,Niharika Shukla,Female,CSE,F,9.53,10.0,0,PASS,"C++, Node.js, Python, SQL, AWS, Git",5,1,Yes,Placed
+STU0037,22311A0537,Pratyusha Rathod,Female,CSE,A,9.75,10.0,0,PASS,"SQL, Docker, Python, Git",2,2,Yes,Placed
+STU0038,22311A0538,Apoorva Goud,Female,CSE,B,6.53,6.14,0,PASS,"C++, DSA",0,0,Yes,Not Placed
+STU0039,22311A0539,Varsha Krishnan,Female,CSE,C,5.81,6.02,3,FAIL,"Node.js, AWS, MongoDB, DSA, SQL, Web Development",1,0,No,Not Placed
+STU0040,22311A0540,Kousalya Balakrishna,Female,CSE,D,7.98,8.48,0,PASS,"Node.js, React, SQL, Git, MongoDB",1,2,Yes,Placed
+STU0041,22311A0541,Krishna Agarwal,Male,CSE,E,9.44,9.87,0,PASS,"C++, Git, Docker, MongoDB",5,3,Yes,Placed
+STU0042,22311A0542,Surya Ramaiah,Male,CSE,F,6.38,6.12,0,PASS,"Node.js, AWS, React, Python, Docker, MongoDB",0,0,Yes,Not Placed
+STU0043,22311A0543,Lasya Jangam,Female,CSE,A,9.52,9.19,0,PASS,"MongoDB, AWS, Docker",6,1,Yes,Placed
+STU0044,22311A0544,Goutham Bansal,Male,CSE,B,5.72,6.09,0,PASS,"React, Docker, Git, C++, MongoDB, DSA",2,0,No,Not Placed
+STU0045,22311A0545,Sai Natarajan,Female,CSE,C,9.74,10.0,0,PASS,"DSA, MongoDB, Docker",4,3,Yes,Placed
+STU0046,22311A0546,Pranav Chandrasekhar,Male,CSE,D,7.04,6.86,0,PASS,"Web Development, Python, Node.js",3,1,Yes,Placed
+STU0047,22311A0547,Sameera Mukherjee,Female,CSE,E,5.78,5.85,0,PASS,"Web Development, Docker",0,0,No,Not Placed
+STU0048,22311A0548,Vamshi Chowdary,Male,CSE,F,8.25,8.43,0,PASS,"C++, DSA, Git, AWS, Docker, Node.js",3,2,Yes,Placed
+STU0049,22311A0549,Vishal Varma,Male,CSE,A,8.21,8.53,0,PASS,"Git, SQL, Java",1,1,Yes,Not Placed
+STU0050,22311A0550,Dhanush Raghunath,Male,CSE,B,4.43,4.23,5,FAIL,"Node.js, DSA",2,1,No,Not Placed
+STU0051,22311A0551,Sai Shah,Male,CSE,C,6.9,6.5,0,PASS,"C++, MongoDB, Web Development, Docker",0,0,Yes,Not Placed
+STU0052,22311A0552,Vikram Ghosh,Male,CSE,D,9.73,9.98,0,PASS,"SQL, DSA",6,3,Yes,Placed
+STU0053,22311A0553,Vikram Goud,Male,CSE,E,6.02,6.04,0,PASS,"AWS, Node.js, Docker, SQL, C++, Java",0,0,Yes,Not Placed
+STU0054,22311A0554,Haritha Bhargav,Female,CSE,F,9.76,9.21,0,PASS,"React, Web Development",4,1,Yes,Placed
+STU0055,22311A0555,Shiva Roy,Male,CSE,A,6.37,6.42,0,PASS,"React, C++, Docker, Node.js, Python, SQL",0,0,Yes,Not Placed
+STU0056,22311A0556,Tanuja Mukherjee,Female,CSE,B,8.16,8.33,0,PASS,"DSA, SQL",4,2,Yes,Placed
+STU0057,22311A0557,Praveen Sen,Male,CSE,C,9.48,9.54,0,PASS,"Git, Java, AWS, DSA, Node.js",2,2,Yes,Placed
+STU0058,22311A0558,Revanth Jangam,Male,CSE,D,9.3,9.52,0,PASS,"Java, Docker, Git, Node.js, React",4,3,Yes,Placed
+STU0059,22311A0559,Suraj Malhotra,Male,CSE,E,8.38,8.98,0,PASS,"MongoDB, Docker, AWS, C++",2,1,Yes,Placed
+STU0060,22311A0560,Sravani Bhargav,Female,CSE,F,7.29,7.33,0,PASS,"Node.js, Java, SQL, Docker, Web Development",3,1,Yes,Placed
+STU0061,22311A0561,Girish Bhargav,Male,CSE,A,6.97,7.38,1,FAIL,"Python, C++, SQL, DSA, Web Development, Node.js",1,0,Yes,Not Placed
+STU0062,22311A0562,Yamini Iyer,Female,CSE,B,8.8,8.61,0,PASS,"AWS, Java, DSA, Git",5,3,Yes,Placed
+STU0063,22311A0563,Ravi Pillai,Male,CSE,C,7.52,7.62,0,PASS,"Docker, Node.js, Web Development",4,0,Yes,Placed
+STU0064,22311A0564,Meghana Kapoor,Female,CSE,D,7.16,7.04,0,PASS,"MongoDB, Web Development, Docker, Node.js, DSA",4,2,Yes,Placed
+STU0065,22311A0565,Pratyusha Waghmare,Female,CSE,E,7.97,8.29,0,PASS,"Node.js, Python, C++, Docker, Web Development, AWS",2,1,Yes,Placed
+STU0066,22311A0566,Yamini Srinivas,Female,CSE,F,9.84,10.0,0,PASS,"Web Development, Docker",2,3,Yes,Placed
+STU0067,22311A0567,Divya Nair,Female,CSE,A,6.8,7.3,1,FAIL,"Git, MongoDB, Web Development, Java",0,1,Yes,Not Placed
+STU0068,22311A0568,Vivek Jangam,Male,CSE,B,7.63,7.35,0,PASS,"Git, React, SQL, AWS, Python",3,1,Yes,Placed
+STU0069,22311A0569,Venkat Dubey,Male,CSE,C,6.85,6.29,1,FAIL,"React, C++, DSA, SQL, Docker, MongoDB",0,0,Yes,Placed
+STU0070,22311A0570,Ananya Balakrishna,Female,CSE,D,5.73,5.88,0,PASS,"Node.js, Git, AWS, Java",2,0,No,Not Placed
+STU0071,22311A0571,Tej Bhuvanesh,Male,CSE,E,4.56,4.58,6,FAIL,"SQL, Node.js, React, Git",2,0,No,Not Placed
+STU0072,22311A0572,Madhuri Srinivas,Female,CSE,F,8.21,8.51,1,FAIL,"React, DSA",2,1,Yes,Placed
+STU0073,22311A0573,Padmaja Paul,Female,CSE,A,9.15,9.81,0,PASS,"Web Development, Java",3,3,Yes,Placed
+STU0074,22311A0574,Ishitha Krishnan,Female,CSE,B,5.51,6.02,0,PASS,"Python, Java, Web Development, MongoDB",0,0,No,Not Placed
+STU0075,22311A0575,Apoorva Bose,Female,CSE,C,9.22,9.48,0,PASS,"Web Development, Docker, Python, C++, Node.js, AWS",5,2,Yes,Placed
+STU0076,22311A0576,Goutham Chopra,Male,CSE,D,6.11,5.6,0,PASS,"Git, React, AWS, MongoDB, Web Development, DSA",1,0,Yes,Not Placed
+STU0077,22311A0577,Lokesh Paul,Male,CSE,E,8.34,8.37,0,PASS,"React, AWS",3,1,Yes,Placed
+STU0078,22311A0578,Gayathri Bose,Female,CSE,F,6.64,7.07,1,FAIL,"Python, C++, Git, Node.js, React, Docker",0,0,Yes,Not Placed
+STU0079,22311A0579,Akshay Chowdary,Male,CSE,A,7.37,7.07,0,PASS,"SQL, React, Git",3,0,Yes,Placed
+STU0080,22311A0580,Kavya Shah,Female,CSE,B,9.64,9.08,0,PASS,"Python, Java, Web Development, C++",4,2,Yes,Placed
+STU0081,22311A0581,Sameera Yadav,Female,CSE,C,7.45,6.89,0,PASS,"AWS, MongoDB, Docker",3,0,Yes,Placed
+STU0082,22311A0582,Nandini Patel,Female,CSE,D,6.25,5.72,0,PASS,"Node.js, AWS, Docker, C++, MongoDB",0,1,Yes,Not Placed
+STU0083,22311A0583,Rekha Krishnan,Female,CSE,E,9.05,9.0,0,PASS,"Python, MongoDB, DSA, Web Development, C++, AWS",3,2,Yes,Placed
+STU0084,22311A0584,Deepthi Reddy,Female,CSE,F,7.3,7.02,0,PASS,"SQL, AWS, Python, Node.js",1,1,Yes,Not Placed
+STU0085,22311A0585,Nandini Shah,Female,CSE,A,6.67,6.1,0,PASS,"Docker, React, SQL, AWS, C++, MongoDB",0,0,Yes,Not Placed
+STU0086,22311A0586,Sameera Jagadeesh,Female,CSE,B,8.63,8.77,0,PASS,"React, MongoDB, Java",3,1,Yes,Placed
+STU0087,22311A0587,Jhansi Nayak,Female,CSE,C,8.77,8.86,0,PASS,"C++, Docker, MongoDB, React, Git, SQL",5,1,Yes,Placed
+STU0088,22311A0588,Yashwanth Bhuvanesh,Male,CSE,D,7.19,6.64,0,PASS,"SQL, Node.js, MongoDB, Git",4,1,Yes,Placed
+STU0089,22311A0589,Bharath Bansal,Male,CSE,E,7.41,7.51,2,FAIL,"SQL, React, MongoDB, Git, Java",1,0,Yes,Placed
+STU0090,22311A0590,Abhishek Das,Male,CSE,F,5.87,5.67,0,PASS,"Node.js, C++, Python, React",0,0,No,Not Placed
+STU0091,22311A0591,Vineeth Venkatarao,Male,CSE,A,9.33,9.55,0,PASS,"React, Web Development, AWS",3,3,Yes,Placed
+STU0092,22311A0592,Girish Jagadeesh,Male,CSE,B,6.69,7.07,2,FAIL,"SQL, Node.js, AWS, Git, React, Python",0,0,Yes,Not Placed
+STU0093,22311A0593,Kousalya Mukherjee,Female,CSE,C,6.94,7.44,0,PASS,"MongoDB, Git, Python, React, Java, Web Development",0,0,Yes,Placed
+STU0094,22311A0594,Rahul Chopra,Male,CSE,D,4.55,4.96,6,FAIL,"Web Development, Docker, DSA, Git, C++, Java",2,1,No,Not Placed
+STU0095,22311A0595,Rohit Thakur,Male,CSE,E,7.65,8.14,0,PASS,"Java, DSA, C++, MongoDB, Web Development",1,1,Yes,Not Placed
+STU0096,22311A0596,Sandeep Raju,Male,CSE,F,6.63,6.25,0,PASS,"Java, AWS, SQL, DSA, Docker, MongoDB",2,0,Yes,Not Placed
+STU0097,22311A0597,Ajay Sekhar,Male,CSE,A,5.72,5.57,0,PASS,"Java, MongoDB, Python, Web Development",2,0,No,Not Placed
+STU0098,22311A0598,Dhanush Bansal,Male,CSE,B,6.82,6.43,2,FAIL,"Git, AWS, SQL, Web Development, DSA, Java",0,0,Yes,Not Placed
+STU0099,22311A0599,Balaji Gupta,Male,CSE,C,8.52,8.26,0,PASS,"Web Development, AWS, Python",6,2,Yes,Placed
+STU0100,22311A05100,Ranjitha Devi,Female,CSE,D,6.47,5.96,1,FAIL,"Git, MongoDB, Python, AWS, Docker, C++",1,1,Yes,Not Placed
+STU0101,22311A05101,Alekhya Waghmare,Female,CSE,E,9.77,10.0,0,PASS,"Java, Python, React, Git",4,3,Yes,Placed
+STU0102,22311A05102,Kousalya Kapoor,Female,CSE,F,6.7,7.1,2,FAIL,"Web Development, DSA",0,0,Yes,Not Placed
+STU0103,22311A05103,Mounika Roy,Female,CSE,A,8.65,8.45,0,PASS,"Node.js, React",4,1,Yes,Placed
+STU0104,22311A05104,Shashank Shukla,Male,CSE,B,7.96,8.05,0,PASS,"Web Development, SQL, AWS, Node.js, C++, MongoDB",2,1,Yes,Placed
+STU0105,22311A05105,Bhavana Rathod,Female,CSE,C,9.69,9.58,0,PASS,"MongoDB, React",6,2,Yes,Placed
+STU0106,22311A05106,Lavanya Varma,Female,CSE,D,7.7,8.05,1,FAIL,"C++, Node.js, Docker",1,0,Yes,Not Placed
+STU0107,22311A05107,Sreshta Kadam,Female,CSE,E,6.73,6.76,0,PASS,"SQL, C++, Java, Git, React",0,0,Yes,Not Placed
+STU0108,22311A05108,Deepthi Naidu,Female,CSE,F,7.34,7.11,0,PASS,"DSA, C++, Web Development, Docker, MongoDB",1,0,Yes,Placed
+STU0109,22311A05109,Ishitha Chopra,Female,CSE,A,9.67,10.0,0,PASS,"Git, Web Development, Node.js, Java, MongoDB, AWS",4,3,Yes,Placed
+STU0110,22311A05110,Jhansi Babu,Female,CSE,B,7.36,7.41,3,FAIL,"C++, SQL, Node.js",3,1,No,Not Placed
+STU0111,22311A05111,Eshwar Das,Male,CSE,C,8.32,7.82,0,PASS,"React, Java, Git, Node.js, C++, DSA",1,2,Yes,Placed
+STU0112,22311A05112,Yashwanth Pillai,Male,CSE,D,7.92,8.05,0,PASS,"Web Development, DSA",3,0,Yes,Placed
+STU0113,22311A05113,Tejaswini Nair,Female,CSE,E,6.44,6.06,1,FAIL,"React, C++, Python, Node.js, SQL, Git",2,1,Yes,Not Placed
+STU0114,22311A05114,Kalyani Mehta,Female,CSE,F,6.39,6.55,1,FAIL,"Docker, DSA, AWS, Web Development",0,0,Yes,Not Placed
+STU0115,22311A05115,Ranjitha Chatterjee,Female,CSE,A,7.79,7.64,2,FAIL,"AWS, Java, React, Git",1,0,Yes,Not Placed
+STU0116,22311A05116,Vikram Bansal,Male,CSE,B,5.79,5.73,1,FAIL,"Java, React, C++",1,0,No,Not Placed
+STU0117,22311A05117,Sravani Kapoor,Female,CSE,C,7.92,8.03,1,FAIL,"C++, React, Python",1,0,Yes,Placed
+STU0118,22311A05118,Dhanush Chandrasekhar,Male,CSE,D,7.82,8.24,0,PASS,"Python, AWS, MongoDB, Git",2,1,Yes,Placed
+STU0119,22311A05119,Pratyusha Ghosh,Female,CSE,E,9.61,9.19,0,PASS,"AWS, React",4,3,Yes,Placed
+STU0120,22311A05120,Nikhil Venkatesh,Male,CSE,F,6.56,6.96,1,FAIL,"Docker, Java, C++, Git, Node.js, MongoDB",2,0,Yes,Not Placed
+STU0121,22311A05121,Yashwanth Jangam,Male,CSE,A,9.47,8.89,0,PASS,"Node.js, SQL, AWS, Web Development",2,3,Yes,Placed
+STU0122,22311A05122,Waseem Mohan,Male,CSE,B,7.44,7.71,1,FAIL,"Node.js, DSA, Python",1,0,Yes,Not Placed
+STU0123,22311A05123,Revanth Patil,Male,CSE,C,9.47,10.0,0,PASS,"MongoDB, Java",6,1,Yes,Placed
+STU0124,22311A05124,Eshwar Das,Male,CSE,D,9.55,9.9,0,PASS,"C++, Docker, DSA, MongoDB",4,3,Yes,Placed
+STU0125,22311A05125,Mounika Chandrasekhar,Female,CSE,E,9.56,10.0,0,PASS,"Web Development, SQL, C++, Git",5,2,Yes,Placed
+STU0126,22311A05126,Nikhil Raghunath,Male,CSE,F,5.43,4.94,5,FAIL,"MongoDB, Docker, DSA, C++",1,0,No,Not Placed
+STU0127,22311A05127,Vikram Babu,Male,CSE,A,6.58,7.25,0,PASS,"Python, SQL, AWS",0,0,Yes,Not Placed
+STU0128,22311A05128,Naveen Reddy,Male,CSE,B,7.48,8.11,0,PASS,"Web Development, React, MongoDB",1,2,Yes,Placed
+STU0129,22311A05129,Uma Mohan,Female,CSE,C,9.18,9.82,0,PASS,"Python, AWS, Docker",3,3,Yes,Placed
+STU0130,22311A05130,Vivek Rao,Male,CSE,D,4.85,4.4,6,FAIL,"Docker, Node.js, Git, C++",0,1,No,Not Placed
+STU0131,22311A05131,Chandra Natarajan,Male,CSE,E,5.66,5.7,0,PASS,"Python, React, Web Development",1,1,No,Not Placed
+STU0132,22311A05132,Radhika Shukla,Female,CSE,F,7.5,7.16,0,PASS,"DSA, Python, Web Development, AWS",2,1,Yes,Placed
+STU0133,22311A05133,Niharika Balakrishna,Female,CSE,A,7.04,6.77,0,PASS,"Web Development, Java, AWS, Git, MongoDB",1,1,Yes,Not Placed
+STU0134,22311A05134,Ajay Das,Male,CSE,B,5.65,6.1,1,FAIL,"MongoDB, Git, Docker, Node.js, DSA",1,0,No,Not Placed
+STU0135,22311A05135,Girish Das,Male,CSE,C,7.35,6.84,0,PASS,"DSA, C++, Git, Java, Node.js, Docker",4,0,Yes,Placed
+STU0136,22311A05136,Vaishnavi Mukherjee,Female,CSE,D,9.51,9.55,0,PASS,"Git, Docker",4,3,Yes,Placed
+STU0137,22311A05137,Lasya Reddy,Female,CSE,E,7.02,6.51,3,FAIL,"Docker, Python",3,1,No,Not Placed
+STU0138,22311A05138,Revanth Thakur,Male,CSE,F,9.38,9.74,0,PASS,"Java, Node.js, React, SQL, MongoDB, Web Development",5,3,Yes,Placed
+STU0139,22311A05139,Kavya Reddy,Female,CSE,A,9.42,9.35,0,PASS,"DSA, Docker, React",3,2,Yes,Placed
+STU0140,22311A05140,Tanuja Krishnan,Female,CSE,B,4.99,5.25,5,FAIL,"DSA, MongoDB",0,0,No,Not Placed
+STU0141,22311A05141,Charan Ramaiah,Male,CSE,C,6.83,7.44,0,PASS,"Web Development, DSA, C++, React, Git, SQL",0,0,Yes,Not Placed
+STU0142,22311A05142,Srikanth Joshi,Male,CSE,D,6.45,7.08,3,FAIL,"Git, Docker, Python, React, AWS",1,0,No,Not Placed
+STU0143,22311A05143,Praveen Balakrishna,Male,CSE,E,9.3,9.69,0,PASS,"Python, Git, AWS, C++, Java",5,1,Yes,Placed
+STU0144,22311A05144,Niharika Patel,Female,CSE,F,7.59,7.26,0,PASS,"C++, Python, SQL, DSA, Git, Docker",2,2,Yes,Placed
+STU0145,22311A05145,Vasudha Kumar,Female,CSE,A,9.75,10.0,0,PASS,"MongoDB, DSA, AWS, Node.js, React, C++",4,2,Yes,Placed
+STU0146,22311A05146,Nitin Jagadeesh,Male,CSE,B,8.98,9.04,0,PASS,"DSA, React, Node.js, AWS",2,3,Yes,Placed
+STU0147,22311A05147,Nikhil Sharma,Male,CSE,C,9.15,9.01,0,PASS,"C++, DSA, Docker, Git, React",4,2,Yes,Placed
+STU0148,22311A05148,Goutham Malhotra,Male,CSE,D,7.58,7.66,1,FAIL,"Node.js, Python, Git, MongoDB, SQL, AWS",1,1,Yes,Placed
+STU0149,22311A05149,Suresh Gupta,Male,CSE,E,6.01,5.93,1,FAIL,"Docker, Node.js, MongoDB, Python, Git, Web Development",1,0,Yes,Not Placed
+STU0150,22311A05150,Vignesh Mandal,Male,CSE,F,6.31,6.65,2,FAIL,"SQL, MongoDB, Git",0,0,Yes,Not Placed
+STU0151,22311A05151,Nitin Natarajan,Male,CSE,A,6.46,6.5,0,PASS,"Web Development, Node.js, SQL",1,1,Yes,Not Placed
+STU0152,22311A05152,Harish Shukla,Male,CSE,B,6.51,6.15,0,PASS,"Node.js, React, C++, SQL, Python",0,1,Yes,Not Placed
+STU0153,22311A05153,Umesh Bose,Male,CSE,C,9.54,9.86,0,PASS,"React, Python, DSA",6,1,Yes,Placed
+STU0154,22311A05154,Pavan Singh,Male,CSE,D,9.68,9.84,0,PASS,"MongoDB, Java, SQL, Git, React",2,1,Yes,Placed
+STU0155,22311A05155,Ganesh Jangam,Male,CSE,E,9.33,9.62,0,PASS,"Docker, DSA, React, Git, AWS",5,1,Yes,Placed
+STU0156,22311A05156,Suraj Patel,Male,CSE,F,6.61,6.39,0,PASS,"MongoDB, AWS, React",0,0,Yes,Not Placed
+STU0157,22311A05157,Abhishek Kadam,Male,CSE,A,5.59,5.59,1,FAIL,"AWS, SQL, Python, Node.js, React, Web Development",0,0,No,Not Placed
+STU0158,22311A05158,Pratyusha Kumar,Female,CSE,B,7.85,8.52,1,FAIL,"Git, Java, AWS, Node.js, MongoDB, Docker",3,0,Yes,Placed
+STU0159,22311A05159,Haritha Agarwal,Female,CSE,C,9.94,10.0,0,PASS,"C++, MongoDB, DSA, Docker, SQL",3,2,Yes,Placed
+STU0160,22311A05160,Priyanka Bhargav,Female,CSE,D,9.43,9.98,0,PASS,"Java, Web Development, React, DSA, Docker, MongoDB",3,2,Yes,Placed
+STU0161,22311A05161,Vivek Mukherjee,Male,CSE,E,6.92,7.42,0,PASS,"DSA, C++, Git, Java, Python, React",0,1,Yes,Not Placed
+STU0162,22311A05162,Vivek Gupta,Male,CSE,F,7.25,7.54,0,PASS,"MongoDB, AWS, Node.js",1,1,Yes,Placed
+STU0163,22311A05163,Waseem Shukla,Male,CSE,A,9.04,9.8,0,PASS,"C++, Node.js, SQL, MongoDB, DSA, React",4,1,Yes,Placed
+STU0164,22311A05164,Bharath Shukla,Male,CSE,B,8.1,7.81,0,PASS,"C++, MongoDB, DSA, Docker, React, Node.js",4,1,Yes,Placed
+STU0165,22311A05165,Madhav Patil,Male,CSE,C,5.6,5.58,3,FAIL,"MongoDB, Java",0,0,No,Not Placed
+STU0166,22311A05166,Omkar Chatterjee,Male,CSE,D,6.22,6.25,0,PASS,"MongoDB, SQL",0,0,Yes,Not Placed
+STU0167,22311A05167,Meghana Pillai,Female,CSE,E,9.33,9.33,0,PASS,"DSA, AWS, Java, C++, Node.js",5,1,Yes,Placed
+STU0168,22311A05168,Sai Bansal,Male,CSE,F,8.75,9.28,0,PASS,"C++, SQL",6,1,Yes,Placed
+STU0169,22311A05169,Jhansi Malhotra,Female,CSE,A,9.31,9.25,0,PASS,"C++, SQL, React, MongoDB, Docker",6,1,Yes,Placed
+STU0170,22311A05170,Yashwanth Patel,Male,CSE,B,6.68,6.6,0,PASS,"AWS, C++, Java, MongoDB, Git",0,0,Yes,Not Placed
+STU0171,22311A05171,Rajesh Pillai,Male,CSE,C,5.81,5.84,0,PASS,"Python, Docker, Java, DSA",1,1,No,Not Placed
+STU0172,22311A05172,Kalyan Joshi,Male,CSE,D,9.08,8.52,0,PASS,"Web Development, Python, MongoDB",3,3,Yes,Placed
+STU0173,22311A05173,Kousalya Malhotra,Female,CSE,E,9.57,9.35,0,PASS,"React, Git, Python, Docker, DSA, Node.js",2,3,Yes,Placed
+STU0174,22311A05174,Uday Balakrishna,Male,CSE,F,5.76,6.37,0,PASS,"DSA, MongoDB",1,0,No,Not Placed
+STU0175,22311A05175,Deepika Shah,Female,CSE,A,5.71,5.4,0,PASS,"Git, Web Development, C++, MongoDB",0,1,No,Not Placed
+STU0176,22311A05176,Uma Natarajan,Female,CSE,B,9.14,9.59,0,PASS,"Python, Web Development, Java, C++, DSA",3,3,Yes,Placed
+STU0177,22311A05177,Keerthi Tiwari,Female,CSE,C,7.12,7.15,0,PASS,"AWS, Git",3,1,Yes,Placed
+STU0178,22311A05178,Balaji Mukherjee,Male,CSE,D,6.27,6.7,1,FAIL,"Node.js, MongoDB, React, SQL, AWS",0,0,Yes,Not Placed
+STU0179,22311A05179,Madhuri Rathod,Female,CSE,E,9.49,9.37,0,PASS,"Python, SQL",5,1,Yes,Placed
+STU0180,22311A05180,Radhika Shetty,Female,CSE,F,6.46,6.14,1,FAIL,"Node.js, Web Development, Java",2,1,Yes,Placed
+STU0181,22311A05181,Pooja Venkatarao,Female,CSE,A,8.63,9.05,0,PASS,"AWS, Node.js, SQL",2,1,Yes,Placed
+STU0182,22311A05182,Apoorva Murthy,Female,CSE,B,6.51,6.39,0,PASS,"MongoDB, Java, Docker, SQL, DSA",0,1,Yes,Not Placed
+STU0183,22311A05183,Nandini Thakur,Female,CSE,C,6.27,6.72,0,PASS,"SQL, Git, C++",0,0,Yes,Not Placed
+STU0184,22311A05184,Srikar Patil,Male,CSE,D,6.83,7.49,0,PASS,"C++, AWS",0,0,Yes,Not Placed
+STU0185,22311A05185,Uday Bhuvanesh,Male,CSE,E,9.28,10.0,0,PASS,"Node.js, Web Development",3,3,Yes,Placed
+STU0186,22311A05186,Rohit Tiwari,Male,CSE,F,6.4,7.14,0,PASS,"DSA, Docker",1,0,Yes,Not Placed
+STU0187,22311A05187,Akash Kadam,Male,CSE,A,6.36,6.56,0,PASS,"Docker, SQL, Python",1,0,Yes,Not Placed
+STU0188,22311A05188,Anjali Tiwari,Female,CSE,B,9.7,9.22,0,PASS,"Git, C++, Java, Web Development, SQL, Node.js",2,3,Yes,Placed
+STU0189,22311A05189,Praveen Mandal,Male,CSE,C,9.64,9.47,0,PASS,"MongoDB, DSA, Python, Node.js, SQL",5,1,Yes,Placed
+STU0190,22311A05190,Zuber Varma,Male,CSE,D,8.71,9.09,0,PASS,"Docker, React, Git",6,3,Yes,Placed
+STU0191,22311A05191,Pooja Murthy,Female,CSE,E,8.9,8.77,0,PASS,"Web Development, Git, SQL, MongoDB, C++",5,2,Yes,Placed
+STU0192,22311A05192,Deepak Sen,Male,CSE,F,5.66,6.14,2,FAIL,"DSA, Git",0,1,No,Not Placed
+STU0193,22311A05193,Ananya Bose,Female,CSE,A,7.94,7.39,0,PASS,"DSA, React, MongoDB, AWS, Node.js",3,2,Yes,Placed
+STU0194,22311A05194,Mahesh Ghosh,Male,CSE,B,5.72,5.84,0,PASS,"SQL, Docker, Web Development, C++, React",0,0,No,Not Placed
+STU0195,22311A05195,Manasa Balakrishna,Female,CSE,C,7.96,8.76,0,PASS,"DSA, Java, Python, AWS, C++, SQL",3,1,Yes,Placed
+STU0196,22311A05196,Akash Bhargav,Male,CSE,D,4.99,5.58,4,FAIL,"DSA, Git",2,0,No,Not Placed
+STU0197,22311A05197,Nikhil Bhuvanesh,Male,CSE,E,9.7,9.62,0,PASS,"C++, SQL",6,1,Yes,Placed
+STU0198,22311A05198,Pavan Singh,Male,CSE,F,6.16,5.74,0,PASS,"AWS, React, Node.js, Docker",0,0,Yes,Not Placed
+STU0199,22311A05199,Kousalya Raju,Female,CSE,A,5.97,5.94,1,FAIL,"Docker, Web Development, MongoDB",0,0,No,Not Placed
+STU0200,22311A05200,Bhargavi Balakrishna,Female,CSE,B,7.75,7.61,0,PASS,"React, AWS, Git",1,1,Yes,Placed
+STU0201,22311A05201,Ishitha Naidu,Female,CSE,C,9.09,8.63,0,PASS,"SQL, Python, Node.js",3,1,Yes,Placed
+STU0202,22311A05202,Priyanka Thakur,Female,CSE,D,7.38,8.06,0,PASS,"DSA, Node.js",4,2,Yes,Placed
+STU0203,22311A05203,Radhika Bhargav,Female,CSE,E,7.89,7.9,0,PASS,"Python, AWS, Node.js, Java, React",2,2,Yes,Placed
+STU0204,22311A05204,Sahithi Patil,Female,CSE,F,4.93,4.67,2,FAIL,"Git, Docker, Python, SQL, Web Development",0,0,No,Not Placed
+STU0205,22311A05205,Pranav Ramaiah,Male,CSE,A,9.78,9.68,0,PASS,"Docker, React, C++, Git, Node.js, DSA",4,1,Yes,Placed
+STU0206,22311A05206,Varsha Das,Female,CSE,B,5.22,5.01,4,FAIL,"Git, React, C++, DSA, Java",0,0,No,Not Placed
+STU0207,22311A05207,Namratha Varma,Female,CSE,C,9.39,10.0,0,PASS,"Java, DSA, C++",4,3,Yes,Placed
+STU0208,22311A05208,Xitij Naidu,Male,CSE,D,8.95,9.52,0,PASS,"Git, Web Development, Java, Docker, Python",2,1,Yes,Placed
+STU0209,22311A05209,Kavya Sharma,Female,CSE,E,6.42,6.1,0,PASS,"React, Python, Node.js",0,1,Yes,Not Placed
+STU0210,22311A05210,Deepthi Das,Female,CSE,F,7.91,7.86,0,PASS,"React, Java, Node.js, AWS",4,1,Yes,Placed
+STU0211,22311A05211,Trisha Waghmare,Female,CSE,A,6.96,7.32,0,PASS,"MongoDB, C++",0,1,Yes,Placed
+STU0212,22311A05212,Ashwin Devi,Male,CSE,B,8.57,9.28,0,PASS,"React, SQL, DSA",4,2,Yes,Placed
+STU0213,22311A05213,Tanuja Nair,Female,CSE,C,9.01,8.7,0,PASS,"React, Web Development",2,3,Yes,Placed
+STU0214,22311A05214,Pratyusha Chopra,Female,CSE,D,9.38,9.54,0,PASS,"Docker, C++",3,1,Yes,Placed
+STU0215,22311A05215,Ashwin Raghunath,Male,CSE,E,4.39,3.94,2,FAIL,"Java, SQL, Git, Node.js, React",1,0,No,Not Placed
+STU0216,22311A05216,Arjun Agarwal,Male,CSE,F,6.39,6.01,0,PASS,"DSA, AWS, Git",1,1,Yes,Placed
+STU0217,22311A05217,Manasa Balakrishna,Female,CSE,A,6.07,6.65,0,PASS,"Python, AWS, SQL, Web Development",1,0,Yes,Not Placed
+STU0218,22311A05218,Karthik Naidu,Male,CSE,B,9.12,9.62,0,PASS,"Docker, Node.js, Web Development, SQL, AWS",3,2,Yes,Placed
+STU0219,22311A05219,Ajay Devi,Male,CSE,C,8.27,7.76,0,PASS,"SQL, Node.js",3,2,Yes,Placed
+STU0220,22311A05220,Xitij Mohan,Male,CSE,D,9.54,10.0,0,PASS,"C++, DSA, Docker, Web Development, SQL",5,3,Yes,Placed
+STU0221,22311A05221,Uma Biswas,Female,CSE,E,8.76,8.4,0,PASS,"DSA, MongoDB, Java",2,2,Yes,Placed
+STU0222,22311A05222,Bhargavi Agarwal,Female,CSE,F,7.39,7.24,0,PASS,"SQL, AWS",4,1,Yes,Placed
+STU0223,22311A05223,Omkar Malhotra,Male,CSE,A,6.2,6.42,2,FAIL,"AWS, Java",0,0,Yes,Not Placed
+STU0224,22311A05224,Karthik Raju,Male,CSE,B,5.79,5.94,0,PASS,"Web Development, AWS, Docker, C++, Python",0,0,No,Not Placed
+STU0225,22311A05225,Shiva Rao,Male,CSE,C,8.48,8.26,0,PASS,"Web Development, MongoDB, Node.js, Docker",1,2,Yes,Placed
+STU0226,22311A05226,Mounika Chopra,Female,CSE,D,9.09,9.11,0,PASS,"MongoDB, Docker, Git, React, Python",6,1,Yes,Placed
+STU0227,22311A05227,Deepika Ghosh,Female,CSE,E,9.17,9.8,0,PASS,"Python, DSA, MongoDB",5,1,Yes,Placed
+STU0228,22311A05228,Sai Bhuvanesh,Male,CSE,F,7.88,8.23,0,PASS,"C++, Docker, Java, Node.js, React",3,0,Yes,Placed
+STU0229,22311A05229,Harish Chandrasekhar,Male,CSE,A,4.07,4.67,4,FAIL,"DSA, Node.js, MongoDB",1,0,No,Not Placed
+STU0230,22311A05230,Akhil Kumar,Male,CSE,B,5.67,6.19,0,PASS,"Web Development, Node.js, MongoDB, AWS, Git, Docker",0,0,No,Not Placed
+STU0231,22311A05231,Omkar Tiwari,Male,CSE,C,6.5,7.25,1,FAIL,"Node.js, C++, MongoDB, Web Development, Git, React",0,0,Yes,Not Placed
+STU0232,22311A05232,Surya Bhuvanesh,Male,CSE,D,9.15,9.62,0,PASS,"C++, AWS",4,3,Yes,Placed
+STU0233,22311A05233,Alekhya Sen,Female,CSE,E,7.08,6.53,0,PASS,"DSA, React, MongoDB, Git, Docker, Node.js",3,1,Yes,Placed
+STU0234,22311A05234,Teja Devi,Male,CSE,F,9.56,10.0,0,PASS,"Node.js, SQL, DSA, React",3,3,Yes,Placed
+STU0235,22311A05235,Revanth Bhargav,Male,CSE,A,8.05,8.34,0,PASS,"SQL, Docker, DSA, Git, MongoDB, AWS",4,1,Yes,Placed
+STU0236,22311A05236,Praveen Babu,Male,CSE,B,9.99,9.59,0,PASS,"SQL, Docker, React",3,2,Yes,Placed
+STU0237,22311A05237,Aditya Bansal,Male,CSE,C,7.65,7.74,0,PASS,"Java, C++",4,1,Yes,Placed
+STU0238,22311A05238,Eshwar Mishra,Male,CSE,D,4.8,5.22,6,FAIL,"Git, DSA, Python, C++",1,0,No,Not Placed
+STU0239,22311A05239,Dileep Jagadeesh,Male,CSE,E,8.82,8.64,0,PASS,"Docker, Git, C++, Node.js",4,2,Yes,Placed
+STU0240,22311A05240,Naveen Jangam,Male,CSE,F,8.91,9.45,0,PASS,"DSA, MongoDB",3,1,Yes,Placed
+STU0241,22311A05241,Xitij Ghosh,Male,CSE,A,8.88,8.64,0,PASS,"C++, Python, MongoDB, Node.js, SQL, React",2,1,Yes,Placed
+STU0242,22311A05242,Revanth Chopra,Male,CSE,B,8.7,8.98,0,PASS,"AWS, Node.js, SQL, Git",4,3,Yes,Placed
+STU0243,22311A05243,Naveen Mehta,Male,CSE,C,6.22,5.78,0,PASS,"Docker, DSA",1,1,Yes,Not Placed
+STU0244,22311A05244,Sai Waghmare,Male,CSE,D,7.24,6.93,2,FAIL,"DSA, Python, Node.js, SQL",1,2,Yes,Placed
+STU0245,22311A05245,Praveen Nair,Male,CSE,E,6.22,6.89,1,FAIL,"Web Development, MongoDB, Docker, Python, SQL",1,1,Yes,Not Placed
+STU0246,22311A05246,Harsha Saidulu,Male,CSE,F,6.35,7.0,0,PASS,"Node.js, MongoDB, Java",0,1,Yes,Not Placed
+STU0247,22311A05247,Vikram Nair,Male,CSE,A,7.1,7.14,1,FAIL,"AWS, Node.js, Java, SQL, C++",1,2,Yes,Placed
+STU0248,22311A05248,Krishna Mehta,Male,CSE,B,9.61,10.0,0,PASS,"Python, Node.js, Java, Docker, Git, MongoDB",5,2,Yes,Placed
+STU0249,22311A05249,Lasya Saidulu,Female,CSE,C,5.3,5.43,4,FAIL,"DSA, Node.js, React, Git, SQL, MongoDB",1,0,No,Not Placed
+STU0250,22311A05250,Bhargavi Mishra,Female,CSE,D,9.01,9.72,0,PASS,"Docker, MongoDB, Java, SQL, Node.js, C++",3,2,Yes,Placed
+STU0251,22311A05251,Charan Ghosh,Male,CSE,E,6.85,6.89,1,FAIL,"SQL, Docker, Node.js, React, MongoDB",2,1,Yes,Placed
+STU0252,22311A05252,Priyanka Joshi,Female,CSE,F,4.82,5.38,4,FAIL,"Node.js, Web Development, Git, C++, DSA, React",1,1,No,Not Placed
+STU0253,22311A05253,Anjali Das,Female,CSE,A,9.72,9.63,0,PASS,"SQL, MongoDB, DSA, Python, React",4,3,Yes,Placed
+STU0254,22311A05254,Vivek Paul,Male,CSE,B,6.75,6.35,0,PASS,"SQL, Web Development, C++, DSA, Git",0,1,Yes,Not Placed
+STU0255,22311A05255,Namratha Srinivas,Female,CSE,C,5.91,6.61,2,FAIL,"SQL, Docker, Node.js, Git, Java, DSA",0,1,No,Not Placed
+STU0256,22311A05256,Shashank Chatterjee,Male,CSE,D,9.17,9.71,0,PASS,"AWS, Node.js",6,3,Yes,Placed
+STU0257,22311A05257,Madhav Mishra,Male,CSE,E,8.4,8.28,0,PASS,"Java, AWS, C++",3,2,Yes,Placed
+STU0258,22311A05258,Prudhvi Paul,Male,CSE,F,9.35,9.69,0,PASS,"Git, MongoDB, React",2,2,Yes,Placed
+STU0259,22311A05259,Waseem Mehta,Male,CSE,A,9.42,8.84,0,PASS,"Python, AWS",3,1,Yes,Placed
+STU0260,22311A05260,Sai Natarajan,Male,CSE,B,5.79,5.54,2,FAIL,"DSA, Git, Python, React",1,0,No,Not Placed
+STU0261,22311A05261,Teja Das,Male,CSE,C,7.68,8.2,0,PASS,"AWS, MongoDB",4,2,Yes,Placed
+STU0262,22311A05262,Prudhvi Paul,Male,CSE,D,7.8,8.4,0,PASS,"Node.js, MongoDB, React",2,1,Yes,Placed
+STU0263,22311A05263,Vivek Bansal,Male,CSE,E,6.76,6.88,0,PASS,"Web Development, Git, MongoDB, Java, Node.js",1,0,Yes,Placed
+STU0264,22311A05264,Deepika Patil,Female,CSE,F,5.39,5.63,4,FAIL,"Node.js, Web Development, Docker, Git, React, Python",1,0,No,Not Placed
+STU0265,22311A05265,Ishitha Biswas,Female,CSE,A,7.31,6.84,0,PASS,"Node.js, React, MongoDB",3,0,Yes,Placed
+STU0266,22311A05266,Pranav Bose,Male,CSE,B,8.67,8.69,0,PASS,"C++, DSA, Python, React, AWS, Docker",2,2,Yes,Placed
+STU0267,22311A05267,Harika Chandrasekhar,Female,CSE,C,4.78,5.26,3,FAIL,"Docker, MongoDB, Python, Web Development, DSA, Java",1,1,No,Not Placed
+STU0268,22311A05268,Kousalya Mandal,Female,CSE,D,7.44,7.14,0,PASS,"DSA, Git",4,1,Yes,Placed
+STU0269,22311A05269,Praveen Naidu,Male,CSE,E,6.58,7.09,0,PASS,"DSA, Web Development, AWS, C++, Docker, React",0,0,Yes,Not Placed
+STU0270,22311A05270,Mahesh Mandal,Male,CSE,F,5.08,4.57,4,FAIL,"MongoDB, SQL",0,0,No,Not Placed
+STU0271,22311A05271,Bhargavi Balakrishna,Female,CSE,A,9.82,9.26,0,PASS,"Git, DSA, Java",5,3,Yes,Placed
+STU0272,22311A05272,Yamini Yadav,Female,CSE,B,9.65,10.0,0,PASS,"Git, MongoDB",3,1,Yes,Placed
+STU0273,22311A05273,Uma Tiwari,Female,CSE,C,7.62,8.28,0,PASS,"Node.js, Git, Java, C++, MongoDB",2,1,Yes,Placed
+STU0274,22311A05274,Deepthi Devi,Female,CSE,D,7.63,8.42,0,PASS,"SQL, Web Development, MongoDB, Node.js, C++, Docker",4,2,Yes,Placed
+STU0275,22311A05275,Ankita Sekhar,Female,CSE,E,9.45,9.71,0,PASS,"MongoDB, C++, Java, React",4,2,Yes,Placed
+STU0276,22311A05276,Nandini Ramaiah,Female,CSE,F,9.36,9.71,0,PASS,"Docker, MongoDB, Node.js, React",4,2,Yes,Placed
+STU0277,22311A05277,Rajesh Patel,Male,CSE,A,7.31,7.08,1,FAIL,"MongoDB, SQL",1,2,Yes,Placed
+STU0278,22311A05278,Waseem Shukla,Male,CSE,B,6.89,7.54,0,PASS,"React, AWS, DSA",2,0,Yes,Not Placed
+STU0279,22311A05279,Naveen Kapoor,Male,CSE,C,5.86,5.27,0,PASS,"Node.js, Java, Git, MongoDB, Docker, SQL",0,1,No,Not Placed
+STU0280,22311A05280,Nikhil Chatterjee,Male,CSE,D,6.26,5.98,0,PASS,"Python, Node.js, DSA",1,1,Yes,Not Placed
+STU0281,22311A05281,Balaji Goud,Male,CSE,E,4.97,4.51,6,FAIL,"MongoDB, Web Development, C++, Git",1,0,No,Not Placed
+STU0282,22311A05282,Vaishnavi Singh,Female,CSE,F,9.35,9.96,0,PASS,"Docker, C++, Python, Git, Java",5,1,Yes,Placed
+STU0283,22311A05283,Sravani Bhuvanesh,Female,CSE,A,7.58,7.15,0,PASS,"MongoDB, SQL, Docker, C++",4,0,Yes,Placed
+STU0284,22311A05284,Padmaja Joshi,Female,CSE,B,4.06,4.26,1,FAIL,"Python, C++, Java, MongoDB, Node.js, Docker",2,0,No,Not Placed
+STU0285,22311A05285,Umesh Sharma,Male,CSE,C,9.22,9.47,0,PASS,"Docker, Java, DSA, AWS, Node.js",6,1,Yes,Placed
+STU0286,22311A05286,Naresh Subramaniam,Male,CSE,D,9.07,9.0,0,PASS,"SQL, Python, DSA",6,3,Yes,Placed
+STU0287,22311A05287,Praveen Iyer,Male,CSE,E,9.53,9.98,0,PASS,"Docker, Node.js",3,3,Yes,Placed
+STU0288,22311A05288,Aditya Agarwal,Male,CSE,F,7.29,7.01,1,FAIL,"React, C++, Node.js, SQL, AWS",2,0,Yes,Placed
+STU0289,22311A05289,Girish Chandrasekhar,Male,CSE,A,6.51,6.95,0,PASS,"SQL, Git, Python, AWS, DSA, React",1,0,Yes,Not Placed
+STU0290,22311A05290,Rekha Venkatarao,Female,CSE,B,9.99,9.95,0,PASS,"AWS, Git, Node.js",5,1,Yes,Placed
+STU0291,22311A05291,Trisha Chatterjee,Female,CSE,C,7.56,7.99,0,PASS,"MongoDB, DSA",4,1,Yes,Placed
+STU0292,22311A05292,Karthik Anjaiah,Male,CSE,D,9.68,9.15,0,PASS,"Node.js, Python, SQL, Java, Docker",6,2,Yes,Placed
+STU0293,22311A05293,Lasya Das,Female,CSE,E,9.4,9.72,0,PASS,"MongoDB, C++, Python, Java",5,2,Yes,Placed
+STU0294,22311A05294,Radhika Biswas,Female,CSE,F,6.1,6.22,0,PASS,"Node.js, Python, React",0,0,Yes,Not Placed
+STU0295,22311A05295,Madhuri Shukla,Female,CSE,A,9.74,9.24,0,PASS,"Git, Web Development",6,3,Yes,Placed
+STU0296,22311A05296,Namratha Bhuvanesh,Female,CSE,B,9.0,8.65,0,PASS,"SQL, Git, MongoDB, Node.js, Web Development, Java",2,3,Yes,Placed
+STU0297,22311A05297,Qasim Venkatarao,Male,CSE,C,9.76,10.0,0,PASS,"Node.js, Docker, C++, Python, MongoDB",2,2,Yes,Placed
+STU0298,22311A05298,Yamini Das,Female,CSE,D,7.93,8.05,0,PASS,"DSA, Web Development, SQL, AWS",3,0,Yes,Placed
+STU0299,22311A05299,Dhanush Saidulu,Male,CSE,E,7.92,8.28,1,FAIL,"MongoDB, DSA, Node.js, C++, Web Development",2,0,Yes,Placed
+STU0300,22311A05300,Nitin Patil,Male,CSE,F,5.58,6.32,0,PASS,"Git, Python",1,0,No,Not Placed
+STU0301,22311A05301,Usha Bhuvanesh,Female,CSE,A,9.22,9.43,0,PASS,"Git, AWS",5,3,Yes,Placed
+STU0302,22311A05302,Pavani Tiwari,Female,CSE,B,8.52,8.36,0,PASS,"Python, Node.js",3,2,Yes,Placed
+STU0303,22311A05303,Surya Kadam,Male,CSE,C,8.47,8.73,0,PASS,"AWS, DSA, MongoDB, React, Git",4,0,Yes,Placed
+STU0304,22311A05304,Divya Mohan,Female,CSE,D,9.86,9.53,0,PASS,"Docker, Python, Java",5,2,Yes,Placed
+STU0305,22311A05305,Usha Biswas,Female,CSE,E,9.86,9.33,0,PASS,"MongoDB, Java",2,1,Yes,Placed
+STU0306,22311A05306,Dhanush Iyer,Male,CSE,F,7.34,8.04,0,PASS,"AWS, SQL",3,2,Yes,Placed
+STU0307,22311A05307,Sai Mandal,Male,CSE,A,7.51,7.59,0,PASS,"AWS, C++",3,1,Yes,Placed
+STU0308,22311A05308,Rahul Jangam,Male,CSE,B,7.86,7.37,0,PASS,"React, Node.js, Web Development, C++",4,0,Yes,Placed
+STU0309,22311A05309,Harsha Biswas,Male,CSE,C,6.53,6.95,0,PASS,"DSA, Java",0,0,Yes,Not Placed
+STU0310,22311A05310,Dhanush Paul,Male,CSE,D,9.1,9.37,0,PASS,"Node.js, AWS",4,1,Yes,Placed
+STU0311,22311A05311,Manasa Chopra,Female,CSE,E,6.34,5.78,1,FAIL,"Docker, MongoDB, Git, Web Development",1,0,Yes,Placed
+STU0312,22311A05312,Roshan Nayak,Male,CSE,F,9.43,9.73,0,PASS,"Web Development, React, Docker, Git, DSA, AWS",2,2,Yes,Placed
+STU0313,22311A05313,Ranjitha Subramaniam,Female,CSE,A,6.02,6.48,0,PASS,"Docker, Git, Python, MongoDB",2,0,Yes,Not Placed
+STU0314,22311A05314,Rekha Raghunath,Female,CSE,B,8.88,8.89,0,PASS,"Java, Node.js, AWS",5,1,Yes,Placed
+STU0315,22311A05315,Rekha Sekhar,Female,CSE,C,9.27,9.58,0,PASS,"Web Development, AWS, DSA, SQL, Java, Git",4,1,Yes,Placed
+STU0316,22311A05316,Anand Natarajan,Male,CSE,D,6.73,7.49,0,PASS,"Web Development, MongoDB",0,0,Yes,Not Placed
+STU0317,22311A05317,Bhavana Patil,Female,CSE,E,4.33,4.32,4,FAIL,"React, Docker, Python, MongoDB, SQL",1,1,No,Not Placed
+STU0318,22311A05318,Kousalya Tiwari,Female,CSE,F,7.76,8.3,0,PASS,"MongoDB, DSA",4,1,Yes,Placed
+STU0319,22311A05319,Ashwin Venkatesh,Male,CSE,A,9.47,9.82,0,PASS,"React, Java, Python, Git",6,1,Yes,Placed
+STU0320,22311A05320,Yamini Balakrishna,Female,CSE,B,8.11,8.4,0,PASS,"Web Development, C++, SQL",4,1,Yes,Placed
+STU0321,22311A05321,Ananya Bose,Female,CSE,C,6.27,6.02,0,PASS,"React, Node.js, Python, C++, MongoDB, Docker",0,0,Yes,Not Placed
+STU0322,22311A05322,Shreya Mohan,Female,CSE,D,9.89,10.0,0,PASS,"MongoDB, AWS",4,3,Yes,Placed
+STU0323,22311A05323,Usha Goud,Female,CSE,E,7.55,7.22,0,PASS,"React, Docker, Web Development, Git",2,0,Yes,Not Placed
+STU0324,22311A05324,Manasa Subramaniam,Female,CSE,F,9.73,10.0,0,PASS,"React, C++, DSA, MongoDB, SQL, Git",6,2,Yes,Placed
+STU0325,22311A05325,Bhargavi Sen,Female,CSE,A,5.78,5.75,0,PASS,"Git, Node.js",0,1,No,Not Placed
+STU0326,22311A05326,Sameera Rao,Female,CSE,B,7.36,7.93,0,PASS,"C++, MongoDB, Web Development, Python, React, SQL",1,0,Yes,Placed
+STU0327,22311A05327,Goutham Patel,Male,CSE,C,7.62,8.27,0,PASS,"C++, Web Development",1,1,Yes,Placed
+STU0328,22311A05328,Ganesh Anjaiah,Male,CSE,D,6.23,6.37,0,PASS,"Node.js, DSA, C++, Java, AWS, React",0,0,Yes,Not Placed
+STU0329,22311A05329,Sai Shah,Female,CSE,E,5.68,5.64,0,PASS,"Git, C++, Docker",2,1,No,Not Placed
+STU0330,22311A05330,Surya Thakur,Male,CSE,F,9.24,9.4,0,PASS,"Git, Web Development, React, Docker, MongoDB",5,1,Yes,Placed
+STU0331,22311A05331,Vineeth Sharma,Male,CSE,A,6.95,6.66,1,FAIL,"MongoDB, Web Development",2,0,Yes,Placed
+STU0332,22311A05332,Vamshi Patil,Male,CSE,B,6.9,7.55,0,PASS,"Web Development, SQL, C++, AWS",1,0,Yes,Not Placed
+STU0333,22311A05333,Nandini Chatterjee,Female,CSE,C,9.91,10.0,0,PASS,"Python, C++, AWS, SQL",2,2,Yes,Placed
+STU0334,22311A05334,Namratha Agarwal,Female,CSE,D,8.65,8.89,0,PASS,"Node.js, MongoDB",5,1,Yes,Placed
+STU0335,22311A05335,Ananya Saidulu,Female,CSE,E,6.0,5.71,0,PASS,"Docker, C++, Node.js, Git, SQL",0,0,Yes,Not Placed
+STU0336,22311A05336,Manoj Jangam,Male,CSE,F,7.1,6.62,0,PASS,"Java, Docker, Git",2,1,Yes,Placed
+STU0337,22311A05337,Sai Das,Male,CSE,A,6.28,6.13,3,FAIL,"SQL, Node.js",0,0,No,Not Placed
+STU0338,22311A05338,Pavani Naidu,Female,CSE,B,5.85,6.4,2,FAIL,"Java, Docker, Python, DSA, Git, React",0,1,No,Not Placed
+STU0339,22311A05339,Lokesh Chowdary,Male,CSE,C,7.75,7.55,0,PASS,"Web Development, Docker",4,0,Yes,Placed
+STU0340,22311A05340,Tejaswini Anjaiah,Female,CSE,D,7.22,7.64,0,PASS,"AWS, C++",1,0,Yes,Not Placed
+STU0341,22311A05341,Jhansi Natarajan,Female,CSE,E,7.08,6.86,1,FAIL,"SQL, Python, Web Development, AWS",2,2,Yes,Placed
+STU0342,22311A05342,Karthik Saidulu,Male,CSE,F,6.8,7.55,0,PASS,"Python, DSA",2,0,Yes,Placed
+STU0343,22311A05343,Pradeep Sharma,Male,CSE,A,8.98,9.08,0,PASS,"Node.js, Web Development",5,1,Yes,Placed
+STU0344,22311A05344,Vignesh Das,Male,CSE,B,8.38,9.12,0,PASS,"AWS, DSA, C++",2,1,Yes,Placed
+STU0345,22311A05345,Varsha Bhargav,Female,CSE,C,6.15,6.36,1,FAIL,"Java, Web Development, Git",2,0,Yes,Not Placed
+STU0346,22311A05346,Nikhil Shetty,Male,CSE,D,8.32,8.95,0,PASS,"AWS, MongoDB, Web Development, Docker",3,0,Yes,Placed
+STU0347,22311A05347,Divya Devi,Female,CSE,E,5.48,5.74,3,FAIL,"DSA, C++, MongoDB, Node.js, Python, Java",0,1,No,Not Placed
+STU0348,22311A05348,Radhika Bose,Female,CSE,F,9.14,8.81,0,PASS,"AWS, Python",4,2,Yes,Placed
+STU0349,22311A05349,Ankita Venkatesh,Female,CSE,A,6.43,7.21,2,FAIL,"MongoDB, React, Docker, DSA, AWS",0,0,Yes,Not Placed
+STU0350,22311A05350,Suraj Saidulu,Male,CSE,B,9.64,10.0,0,PASS,"Git, SQL",5,2,Yes,Placed
+STU0351,22311A05351,Bharath Ramaiah,Male,CSE,C,9.52,9.8,0,PASS,"DSA, Web Development",5,2,Yes,Placed
+STU0352,22311A05352,Vineeth Kapoor,Male,CSE,D,9.9,9.95,0,PASS,"SQL, Git, MongoDB, Java, Node.js",5,2,Yes,Placed
+STU0353,22311A05353,Alekhya Nayak,Female,CSE,E,9.09,8.94,0,PASS,"MongoDB, SQL, Node.js",2,3,Yes,Placed
+STU0354,22311A05354,Harsha Patel,Male,CSE,F,9.95,9.88,0,PASS,"Python, Java, React, Node.js, Git",3,1,Yes,Placed
+STU0355,22311A05355,Charan Mehta,Male,CSE,A,9.18,9.84,0,PASS,"Python, C++, Web Development",2,2,Yes,Placed
+STU0356,22311A05356,Kalyan Dey,Male,CSE,B,8.66,8.7,0,PASS,"SQL, C++, Node.js, Python, DSA",6,2,Yes,Placed
+STU0357,22311A05357,Teja Lakshmi,Male,CSE,C,4.22,4.53,1,FAIL,"Node.js, C++",1,0,No,Not Placed
+STU0358,22311A05358,Charan Raju,Male,CSE,D,6.17,6.43,1,FAIL,"C++, Git, Java, Docker, React, Python",0,0,Yes,Not Placed
+STU0359,22311A05359,Pratyusha Gupta,Female,CSE,E,7.21,6.78,1,FAIL,"Git, AWS, MongoDB, DSA",2,1,Yes,Placed
+STU0360,22311A05360,Harika Das,Female,CSE,F,9.99,9.79,0,PASS,"React, Web Development, Git, MongoDB, Java, Node.js",6,2,Yes,Placed
+STU0361,22311A6601,Kalyan Devi,Male,AIML,A,6.79,6.36,0,PASS,"OpenCV, SQL",1,1,Yes,Not Placed
+STU0362,22311A6602,Nithish Pawar,Male,AIML,B,6.8,6.59,1,FAIL,"TensorFlow, AWS, Scikit-learn, NLP",1,0,Yes,Not Placed
+STU0363,22311A6603,Priyanka Naidu,Female,AIML,C,9.48,9.54,0,PASS,"Scikit-learn, Deep Learning",5,1,Yes,Placed
+STU0364,22311A6604,Qasim Bhargav,Male,AIML,A,8.52,8.71,0,PASS,"AWS, OpenCV, Python, SQL",6,3,Yes,Placed
+STU0365,22311A6605,Vasudha Waghmare,Female,AIML,B,6.34,6.21,0,PASS,"Deep Learning, Data Analysis, Scikit-learn, Power BI, OpenCV, TensorFlow",0,1,Yes,Not Placed
+STU0366,22311A6606,Radhika Saidulu,Female,AIML,C,7.82,7.74,0,PASS,"SQL, AWS, TensorFlow, Deep Learning",1,1,Yes,Placed
+STU0367,22311A6607,Jhansi Nair,Female,AIML,A,5.98,6.08,0,PASS,"OpenCV, AWS, TensorFlow, NLP, Deep Learning",1,0,No,Not Placed
+STU0368,22311A6608,Omkar Murthy,Male,AIML,B,5.89,6.5,0,PASS,"Python, Scikit-learn, Data Analysis, Machine Learning",0,1,No,Not Placed
+STU0369,22311A6609,Kousalya Jagadeesh,Female,AIML,C,5.14,5.43,2,FAIL,"SQL, TensorFlow, Scikit-learn",1,1,No,Not Placed
+STU0370,22311A6610,Vikram Patil,Male,AIML,A,6.46,6.64,0,PASS,"NLP, AWS, OpenCV, TensorFlow, Deep Learning, Data Analysis",1,0,Yes,Not Placed
+STU0371,22311A6611,Mounika Jangam,Female,AIML,B,5.53,6.19,0,PASS,"Python, Machine Learning, Power BI, Data Analysis, Deep Learning",1,1,No,Not Placed
+STU0372,22311A6612,Anand Waghmare,Male,AIML,C,9.53,10.0,0,PASS,"Data Analysis, Deep Learning, Machine Learning, Tableau, OpenCV",5,2,Yes,Placed
+STU0373,22311A6613,Chandra Bose,Male,AIML,A,9.91,9.86,0,PASS,"NLP, Tableau, Scikit-learn, Python",2,2,Yes,Placed
+STU0374,22311A6614,Shravya Kapoor,Female,AIML,B,7.36,7.47,0,PASS,"NLP, AWS",1,1,Yes,Not Placed
+STU0375,22311A6615,Shiva Joshi,Male,AIML,C,7.22,6.71,0,PASS,"Power BI, OpenCV, Data Analysis, NLP, SQL, Machine Learning",1,1,Yes,Placed
+STU0376,22311A6616,Goutham Krishnan,Male,AIML,A,9.18,9.92,0,PASS,"Data Analysis, Machine Learning",6,2,Yes,Placed
+STU0377,22311A6617,Sreshta Varma,Female,AIML,B,9.64,9.04,0,PASS,"Scikit-learn, Deep Learning, Tableau",6,2,Yes,Placed
+STU0378,22311A6618,Vamshi Bansal,Male,AIML,C,7.36,8.04,0,PASS,"OpenCV, NLP, Machine Learning, Python, Power BI",2,2,Yes,Placed
+STU0379,22311A6619,Usha Paul,Female,AIML,A,6.06,6.83,0,PASS,"Python, SQL, Power BI, Data Analysis",1,1,Yes,Placed
+STU0380,22311A6620,Shashank Dey,Male,AIML,B,5.64,5.82,2,FAIL,"Power BI, Deep Learning, TensorFlow, Scikit-learn",0,0,No,Not Placed
+STU0381,22311A6621,Harika Mukherjee,Female,AIML,C,6.71,7.24,1,FAIL,"Power BI, Data Analysis, Deep Learning, Tableau, OpenCV, TensorFlow",1,0,Yes,Not Placed
+STU0382,22311A6622,Rekha Reddy,Female,AIML,A,7.25,7.23,0,PASS,"Python, OpenCV, Data Analysis, Tableau",3,0,Yes,Placed
+STU0383,22311A6623,Girish Yadav,Male,AIML,B,9.28,9.4,0,PASS,"Data Analysis, Machine Learning, SQL, Tableau, Scikit-learn, NLP",6,3,Yes,Placed
+STU0384,22311A6624,Anjali Jangam,Female,AIML,C,5.95,6.62,1,FAIL,"Power BI, NLP, TensorFlow, Data Analysis",0,0,No,Not Placed
+STU0385,22311A6625,Yashwanth Subramaniam,Male,AIML,A,6.58,7.37,1,FAIL,"Python, TensorFlow, Tableau, Machine Learning, Deep Learning, Scikit-learn",0,1,Yes,Not Placed
+STU0386,22311A6626,Vidya Bhuvanesh,Female,AIML,B,9.91,10.0,0,PASS,"NLP, Deep Learning, TensorFlow, SQL, Tableau",3,3,Yes,Placed
+STU0387,22311A6627,Hemanth Patel,Male,AIML,C,9.75,9.73,0,PASS,"SQL, Scikit-learn, Tableau, Deep Learning, OpenCV",6,3,Yes,Placed
+STU0388,22311A6628,Charan Subramaniam,Male,AIML,A,5.67,5.63,0,PASS,"SQL, Power BI, Scikit-learn, Tableau, TensorFlow, Machine Learning",1,0,No,Not Placed
+STU0389,22311A6629,Meghana Bansal,Female,AIML,B,9.1,9.24,0,PASS,"Power BI, Data Analysis, TensorFlow, NLP",4,2,Yes,Placed
+STU0390,22311A6630,Varun Tiwari,Male,AIML,C,7.51,7.99,0,PASS,"NLP, AWS, Python",1,2,Yes,Placed
+STU0391,22311A6631,Chaitanya Das,Female,AIML,A,6.92,6.59,0,PASS,"Python, Data Analysis",1,1,Yes,Placed
+STU0392,22311A6632,Mahesh Prasad,Male,AIML,B,7.65,7.96,0,PASS,"Machine Learning, Deep Learning, TensorFlow",3,1,Yes,Placed
+STU0393,22311A6633,Balaji Bhuvanesh,Male,AIML,C,9.26,9.75,0,PASS,"Python, Power BI, Scikit-learn, NLP",2,2,Yes,Placed
+STU0394,22311A6634,Venkat Nayak,Male,AIML,A,9.18,9.27,0,PASS,"AWS, Power BI, SQL",6,3,Yes,Placed
+STU0395,22311A6635,Sahithi Subramaniam,Female,AIML,B,6.07,5.82,0,PASS,"Deep Learning, Scikit-learn, Python, Data Analysis, Power BI",0,1,Yes,Not Placed
+STU0396,22311A6636,Vamshi Reddy,Male,AIML,C,9.84,10.0,0,PASS,"AWS, SQL",2,2,Yes,Placed
+STU0397,22311A6637,Eshwar Prasad,Male,AIML,A,7.52,7.48,0,PASS,"NLP, AWS",3,0,Yes,Placed
+STU0398,22311A6638,Vivek Venkatesh,Male,AIML,B,5.88,5.55,1,FAIL,"Scikit-learn, NLP",0,1,No,Not Placed
+STU0399,22311A6639,Rohit Babu,Male,AIML,C,4.04,4.83,2,FAIL,"Machine Learning, AWS, TensorFlow, Tableau, Scikit-learn",2,0,No,Not Placed
+STU0400,22311A6640,Niharika Goud,Female,AIML,A,9.94,10.0,0,PASS,"Deep Learning, Data Analysis, SQL, Machine Learning, Python, NLP",3,2,Yes,Placed
+STU0401,22311A6641,Dhanush Goud,Male,AIML,B,7.45,8.12,1,FAIL,"Tableau, Data Analysis",2,2,Yes,Placed
+STU0402,22311A6642,Namratha Raju,Female,AIML,C,8.2,8.07,0,PASS,"NLP, Machine Learning, Data Analysis, AWS, Deep Learning",3,2,Yes,Placed
+STU0403,22311A6643,Bharath Nayak,Male,AIML,A,5.64,5.62,1,FAIL,"Deep Learning, Tableau, SQL, Python, OpenCV, AWS",1,0,No,Not Placed
+STU0404,22311A6644,Haritha Sharma,Female,AIML,B,5.51,6.21,1,FAIL,"TensorFlow, Power BI, Tableau, Deep Learning, SQL, Machine Learning",1,0,No,Not Placed
+STU0405,22311A6645,Rajesh Rao,Male,AIML,C,8.83,8.65,0,PASS,"Python, AWS, SQL, Data Analysis, Machine Learning",6,1,Yes,Placed
+STU0406,22311A6646,Roshan Ghosh,Male,AIML,A,9.19,9.71,0,PASS,"Tableau, Deep Learning, Scikit-learn, Python, AWS",4,2,Yes,Placed
+STU0407,22311A6647,Lasya Bhargav,Female,AIML,B,8.05,8.2,0,PASS,"Tableau, AWS",1,0,Yes,Placed
+STU0408,22311A6648,Sahithi Rathod,Female,AIML,C,8.11,7.83,0,PASS,"SQL, Power BI, OpenCV, Machine Learning, Tableau",4,0,Yes,Placed
+STU0409,22311A6649,Srikar Malhotra,Male,AIML,A,8.36,8.14,0,PASS,"OpenCV, Data Analysis",1,0,Yes,Placed
+STU0410,22311A6650,Sai Malhotra,Female,AIML,B,6.94,6.56,1,FAIL,"Deep Learning, Data Analysis, AWS, SQL, Machine Learning, Scikit-learn",2,0,Yes,Placed
+STU0411,22311A6651,Xitij Bose,Male,AIML,C,9.25,9.11,0,PASS,"SQL, Data Analysis, Deep Learning, Python, Power BI, AWS",2,2,Yes,Placed
+STU0412,22311A6652,Madhav Rao,Male,AIML,A,9.1,9.19,0,PASS,"AWS, Python",5,1,Yes,Placed
+STU0413,22311A6653,Manasa Sekhar,Female,AIML,B,5.98,5.81,1,FAIL,"OpenCV, Data Analysis, Python, Tableau, AWS, Power BI",0,1,No,Not Placed
+STU0414,22311A6654,Sameera Thakur,Female,AIML,C,7.44,7.38,0,PASS,"Python, TensorFlow, Power BI, Scikit-learn, SQL, Data Analysis",1,1,Yes,Not Placed
+STU0415,22311A6655,Anjali Roy,Female,AIML,A,8.37,8.64,0,PASS,"Scikit-learn, AWS, Machine Learning",2,0,Yes,Placed
+STU0416,22311A6656,Tejaswini Krishnan,Female,AIML,B,9.7,10.0,0,PASS,"NLP, OpenCV, TensorFlow",6,3,Yes,Placed
+STU0417,22311A6657,Charan Gupta,Male,AIML,C,9.47,9.61,0,PASS,"TensorFlow, Tableau, Data Analysis, NLP, Machine Learning, Scikit-learn",5,1,Yes,Placed
+STU0418,22311A6658,Usha Nayak,Female,AIML,A,6.91,7.29,0,PASS,"AWS, Scikit-learn, Python",0,1,Yes,Not Placed
+STU0419,22311A6659,Manoj Bose,Male,AIML,B,9.06,9.68,0,PASS,"AWS, Scikit-learn, NLP",5,3,Yes,Placed
+STU0420,22311A6660,Sreshta Rathod,Female,AIML,C,9.46,9.65,0,PASS,"Deep Learning, TensorFlow, SQL, Tableau",4,2,Yes,Placed
+STU0421,22311A6661,Charan Yadav,Male,AIML,A,7.89,8.29,0,PASS,"OpenCV, Scikit-learn, Deep Learning",2,0,Yes,Placed
+STU0422,22311A6662,Nandini Murthy,Female,AIML,B,7.56,7.89,1,FAIL,"NLP, Tableau, AWS",2,1,Yes,Placed
+STU0423,22311A6663,Alekhya Shukla,Female,AIML,C,9.16,9.92,0,PASS,"AWS, NLP, TensorFlow, Tableau, Data Analysis, Power BI",6,3,Yes,Placed
+STU0424,22311A6664,Uma Chopra,Female,AIML,A,5.98,5.44,1,FAIL,"TensorFlow, Python",0,1,No,Not Placed
+STU0425,22311A6665,Harish Rathod,Male,AIML,B,8.94,8.73,0,PASS,"Machine Learning, AWS",5,3,Yes,Placed
+STU0426,22311A6666,Harish Roy,Male,AIML,C,9.06,9.39,0,PASS,"Deep Learning, Power BI, NLP, Scikit-learn, Data Analysis",2,2,Yes,Placed
+STU0427,22311A6667,Mounika Bansal,Female,AIML,A,6.23,6.25,4,FAIL,"TensorFlow, Deep Learning, Power BI, Data Analysis, Scikit-learn",1,0,No,Not Placed
+STU0428,22311A6668,Mounika Bose,Female,AIML,B,7.9,8.13,0,PASS,"Power BI, Scikit-learn",3,1,Yes,Placed
+STU0429,22311A6669,Umesh Babu,Male,AIML,C,7.24,7.79,0,PASS,"TensorFlow, Tableau, AWS, Scikit-learn, SQL, Python",1,0,Yes,Not Placed
+STU0430,22311A6670,Yamini Bose,Female,AIML,A,6.77,7.44,0,PASS,"Machine Learning, TensorFlow",0,1,Yes,Not Placed
+STU0431,22311A6671,Harsha Chatterjee,Male,AIML,B,9.69,9.26,0,PASS,"OpenCV, Data Analysis, Python, TensorFlow, Deep Learning, AWS",2,1,Yes,Placed
+STU0432,22311A6672,Tanuja Babu,Female,AIML,C,5.86,6.15,3,FAIL,"TensorFlow, OpenCV",1,1,No,Not Placed
+STU0433,22311A6673,Ravi Iyer,Male,AIML,A,5.82,5.66,2,FAIL,"TensorFlow, Scikit-learn, NLP, Machine Learning",1,0,No,Not Placed
+STU0434,22311A6674,Divya Biswas,Female,AIML,B,7.88,7.51,0,PASS,"SQL, OpenCV, AWS, Data Analysis, Machine Learning, Scikit-learn",4,2,Yes,Placed
+STU0435,22311A6675,Divya Sharma,Female,AIML,C,7.73,8.38,0,PASS,"Deep Learning, TensorFlow, Python, Machine Learning",2,0,Yes,Placed
+STU0436,22311A6676,Suresh Jagadeesh,Male,AIML,A,5.58,5.95,2,FAIL,"Python, Tableau",1,0,No,Not Placed
+STU0437,22311A6677,Lavanya Roy,Female,AIML,B,8.3,7.71,0,PASS,"Data Analysis, SQL",2,0,Yes,Placed
+STU0438,22311A6678,Bhavana Yadav,Female,AIML,C,9.16,9.26,0,PASS,"SQL, AWS, Data Analysis, Machine Learning, Scikit-learn, Power BI",6,1,Yes,Placed
+STU0439,22311A6679,Rohit Chandrasekhar,Male,AIML,A,7.59,8.28,1,FAIL,"NLP, Data Analysis, Deep Learning, Tableau, Machine Learning",2,2,Yes,Placed
+STU0440,22311A6680,Akshay Anjaiah,Male,AIML,B,9.47,9.6,0,PASS,"NLP, TensorFlow, AWS, Python, Machine Learning",4,2,Yes,Placed
+STU0441,22311A6681,Manasa Malhotra,Female,AIML,C,9.55,9.36,0,PASS,"SQL, Machine Learning, Tableau, NLP, Deep Learning",2,3,Yes,Placed
+STU0442,22311A6682,Krishna Tiwari,Male,AIML,A,6.72,6.68,0,PASS,"OpenCV, Deep Learning",0,1,Yes,Not Placed
+STU0443,22311A6683,Varsha Shukla,Female,AIML,B,9.71,9.92,0,PASS,"Scikit-learn, Power BI, NLP, Tableau",6,2,Yes,Placed
+STU0444,22311A6684,Naresh Bhuvanesh,Male,AIML,C,7.23,6.95,2,FAIL,"Machine Learning, Python",1,1,Yes,Placed
+STU0445,22311A6685,Ishitha Dubey,Female,AIML,A,7.43,7.89,0,PASS,"Tableau, OpenCV, SQL, TensorFlow, Scikit-learn, Data Analysis",3,1,Yes,Placed
+STU0446,22311A6686,Roshan Dey,Male,AIML,B,5.15,5.94,5,FAIL,"Power BI, Tableau",0,0,No,Not Placed
+STU0447,22311A6687,Ashwin Nayak,Male,AIML,C,7.56,7.65,0,PASS,"Tableau, Machine Learning, Data Analysis, OpenCV, AWS",4,1,Yes,Placed
+STU0448,22311A6688,Anjali Tiwari,Female,AIML,A,7.51,7.98,0,PASS,"Python, Data Analysis",1,0,Yes,Not Placed
+STU0449,22311A6689,Meghana Naidu,Female,AIML,B,7.14,7.93,0,PASS,"Scikit-learn, SQL",2,0,Yes,Placed
+STU0450,22311A6690,Bhavana Gupta,Female,AIML,C,5.67,5.82,0,PASS,"Data Analysis, AWS, Power BI, TensorFlow, Python",1,0,No,Not Placed
+STU0451,22311A6691,Suraj Mishra,Male,AIML,A,5.99,6.36,0,PASS,"AWS, Scikit-learn, NLP, Deep Learning, TensorFlow",0,0,No,Not Placed
+STU0452,22311A6692,Ganesh Mandal,Male,AIML,B,7.36,7.89,0,PASS,"OpenCV, Data Analysis",1,1,Yes,Not Placed
+STU0453,22311A6693,Uma Das,Female,AIML,C,9.3,9.83,0,PASS,"Scikit-learn, AWS, NLP, SQL, Power BI",5,2,Yes,Placed
+STU0454,22311A6694,Balaji Paul,Male,AIML,A,6.2,6.81,1,FAIL,"Scikit-learn, Tableau, TensorFlow",2,0,Yes,Not Placed
+STU0455,22311A6695,Shashank Varma,Male,AIML,B,6.73,7.09,0,PASS,"Power BI, NLP, Machine Learning, SQL, OpenCV",0,0,Yes,Not Placed
+STU0456,22311A6696,Bhargavi Sekhar,Female,AIML,C,5.69,5.43,2,FAIL,"Tableau, AWS, Power BI, Data Analysis, Python",0,0,No,Not Placed
+STU0457,22311A6697,Lavanya Bhuvanesh,Female,AIML,A,6.35,7.1,0,PASS,"Python, Machine Learning",0,0,Yes,Not Placed
+STU0458,22311A6698,Ranjitha Kadam,Female,AIML,B,7.76,8.34,0,PASS,"OpenCV, AWS, Machine Learning, Scikit-learn, TensorFlow, SQL",1,0,Yes,Not Placed
+STU0459,22311A6699,Meghana Saidulu,Female,AIML,C,7.62,7.35,0,PASS,"Machine Learning, Deep Learning, SQL",3,1,Yes,Placed
+STU0460,22311A66100,Vaishnavi Varma,Female,AIML,A,9.42,9.78,0,PASS,"Deep Learning, NLP, Tableau, Scikit-learn",4,1,Yes,Placed
+STU0461,22311A66101,Zuber Rao,Male,AIML,B,9.79,9.53,0,PASS,"Power BI, TensorFlow, NLP, Machine Learning, SQL, OpenCV",5,2,Yes,Placed
+STU0462,22311A66102,Priyanka Venkatarao,Female,AIML,C,9.86,9.48,0,PASS,"Scikit-learn, NLP, Power BI, Python, TensorFlow",2,2,Yes,Placed
+STU0463,22311A66103,Tej Bhargav,Male,AIML,A,9.7,9.81,0,PASS,"Power BI, Data Analysis, AWS, NLP",5,3,Yes,Placed
+STU0464,22311A66104,Anjali Devi,Female,AIML,B,7.1,7.38,0,PASS,"Machine Learning, Deep Learning",2,1,Yes,Placed
+STU0465,22311A66105,Manoj Joshi,Male,AIML,C,9.26,9.62,0,PASS,"TensorFlow, SQL, Machine Learning, Power BI",4,1,Yes,Placed
+STU0466,22311A66106,Suraj Das,Male,AIML,A,4.03,4.21,3,FAIL,"Machine Learning, Tableau, SQL",0,1,No,Not Placed
+STU0467,22311A66107,Vidya Shah,Female,AIML,B,6.46,6.1,1,FAIL,"OpenCV, AWS",0,1,Yes,Not Placed
+STU0468,22311A66108,Kalyan Prasad,Male,AIML,C,9.27,9.72,0,PASS,"Deep Learning, Power BI, SQL, Data Analysis, TensorFlow",3,2,Yes,Placed
+STU0469,22311A66109,Lavanya Yadav,Female,AIML,A,5.46,5.19,3,FAIL,"NLP, Data Analysis, Tableau",0,0,No,Not Placed
+STU0470,22311A66110,Pavan Anjaiah,Male,AIML,B,9.1,8.58,0,PASS,"SQL, Tableau, NLP, Python",2,2,Yes,Placed
+STU0471,22311A66111,Suraj Balakrishna,Male,AIML,C,7.84,7.3,0,PASS,"AWS, Tableau, NLP",4,0,Yes,Placed
+STU0472,22311A66112,Swathi Agarwal,Female,AIML,A,5.54,5.12,2,FAIL,"OpenCV, NLP, Power BI, TensorFlow",2,0,No,Not Placed
+STU0473,22311A66113,Venkat Biswas,Male,AIML,B,7.99,8.46,0,PASS,"Python, SQL, Deep Learning, OpenCV, Scikit-learn",2,0,Yes,Placed
+STU0474,22311A66114,Deepika Kapoor,Female,AIML,C,8.36,8.75,0,PASS,"Machine Learning, Deep Learning, OpenCV, NLP, Data Analysis",2,2,Yes,Placed
+STU0475,22311A66115,Haritha Roy,Female,AIML,A,9.0,8.41,0,PASS,"Deep Learning, Power BI, Machine Learning, SQL, Tableau, NLP",2,2,Yes,Placed
+STU0476,22311A66116,Bhargavi Prasad,Female,AIML,B,9.15,8.66,0,PASS,"Tableau, Scikit-learn, TensorFlow, Python, NLP",2,3,Yes,Placed
+STU0477,22311A66117,Anand Rathod,Male,AIML,C,9.13,9.74,0,PASS,"NLP, Python, Machine Learning, AWS",6,2,Yes,Placed
+STU0478,22311A66118,Lasya Nayak,Female,AIML,A,6.53,6.22,0,PASS,"TensorFlow, Scikit-learn, Deep Learning, Machine Learning, OpenCV",0,0,Yes,Not Placed
+STU0479,22311A66119,Vishal Murthy,Male,AIML,B,5.87,5.55,0,PASS,"Tableau, TensorFlow, Data Analysis, Power BI, Machine Learning",1,1,No,Not Placed
+STU0480,22311A66120,Shashank Shah,Male,AIML,C,9.65,10.0,0,PASS,"AWS, Scikit-learn, OpenCV, Machine Learning, TensorFlow",5,2,Yes,Placed
+STU0481,22311A66121,Meghana Chatterjee,Female,AIML,A,9.25,9.25,0,PASS,"Python, AWS, Machine Learning, OpenCV, Data Analysis, TensorFlow",5,2,Yes,Placed
+STU0482,22311A66122,Ankita Venkatarao,Female,AIML,B,8.74,8.79,0,PASS,"Power BI, Python, Machine Learning",5,3,Yes,Placed
+STU0483,22311A66123,Vaishnavi Malhotra,Female,AIML,C,9.92,10.0,0,PASS,"Deep Learning, Machine Learning, Data Analysis",4,3,Yes,Placed
+STU0484,22311A66124,Tejaswini Sharma,Female,AIML,A,4.18,3.82,3,FAIL,"Scikit-learn, Data Analysis, Tableau, TensorFlow, NLP",1,1,No,Not Placed
+STU0485,22311A66125,Yashwanth Nair,Male,AIML,B,5.61,5.03,4,FAIL,"SQL, Tableau",1,0,No,Not Placed
+STU0486,22311A66126,Qasim Srinivas,Male,AIML,C,7.13,6.69,2,FAIL,"Tableau, OpenCV, Python, Scikit-learn, SQL",2,0,Yes,Not Placed
+STU0487,22311A66127,Pavan Chowdary,Male,AIML,A,6.35,6.35,0,PASS,"OpenCV, Data Analysis, Scikit-learn, AWS, TensorFlow",0,0,Yes,Not Placed
+STU0488,22311A66128,Goutham Mohan,Male,AIML,B,6.97,6.46,1,FAIL,"Tableau, Machine Learning, OpenCV, NLP, Data Analysis",1,0,Yes,Not Placed
+STU0489,22311A66129,Jhansi Bose,Female,AIML,C,7.86,7.73,0,PASS,"Deep Learning, TensorFlow, Power BI, Data Analysis, NLP",4,1,Yes,Placed
+STU0490,22311A66130,Santhosh Chandrasekhar,Male,AIML,A,5.98,5.62,0,PASS,"Machine Learning, Power BI, Tableau, TensorFlow, SQL",0,0,No,Not Placed
+STU0491,22311A66131,Tanuja Subramaniam,Female,AIML,B,6.33,6.98,0,PASS,"NLP, Power BI",0,0,Yes,Not Placed
+STU0492,22311A66132,Goutham Subramaniam,Male,AIML,C,9.56,10.0,0,PASS,"Data Analysis, Scikit-learn, Machine Learning, Python, Tableau, Power BI",5,1,Yes,Placed
+STU0493,22311A66133,Krishna Goud,Male,AIML,A,5.62,5.31,0,PASS,"OpenCV, Tableau, AWS, Scikit-learn",1,0,No,Not Placed
+STU0494,22311A66134,Nithish Babu,Male,AIML,B,9.01,9.58,0,PASS,"NLP, TensorFlow, AWS, Deep Learning, Machine Learning",4,2,Yes,Placed
+STU0495,22311A66135,Revanth Kadam,Male,AIML,C,9.79,9.38,0,PASS,"Power BI, OpenCV, Tableau, AWS, NLP",2,2,Yes,Placed
+STU0496,22311A66136,Akanksha Biswas,Female,AIML,A,5.81,6.58,0,PASS,"Power BI, Python",1,0,No,Not Placed
+STU0497,22311A66137,Deepak Biswas,Male,AIML,B,9.87,10.0,0,PASS,"NLP, Python, TensorFlow, AWS",6,1,Yes,Placed
+STU0498,22311A66138,Anand Lakshmi,Male,AIML,C,9.35,9.89,0,PASS,"SQL, TensorFlow, Machine Learning, Python, NLP",5,3,Yes,Placed
+STU0499,22311A66139,Manoj Biswas,Male,AIML,A,7.33,7.46,1,FAIL,"Python, OpenCV, AWS",3,0,Yes,Placed
+STU0500,22311A66140,Akshay Ghosh,Male,AIML,B,5.87,6.15,0,PASS,"Scikit-learn, Machine Learning",0,0,No,Not Placed
+STU0501,22311A66141,Niharika Sekhar,Female,AIML,C,9.63,9.78,0,PASS,"SQL, NLP, TensorFlow, Data Analysis, Deep Learning, Scikit-learn",5,3,Yes,Placed
+STU0502,22311A66142,Krishna Rathod,Male,AIML,A,9.15,9.15,0,PASS,"Machine Learning, OpenCV, Python, Power BI, Deep Learning",5,1,Yes,Placed
+STU0503,22311A66143,Ajay Das,Male,AIML,B,9.58,9.87,0,PASS,"OpenCV, Tableau, Power BI, Deep Learning, AWS",6,1,Yes,Placed
+STU0504,22311A66144,Balaji Murthy,Male,AIML,C,9.46,8.91,0,PASS,"AWS, NLP, Machine Learning",6,2,Yes,Placed
+STU0505,22311A66145,Pooja Raghunath,Female,AIML,A,4.23,4.15,6,FAIL,"TensorFlow, Tableau, Python, Deep Learning",0,0,No,Not Placed
+STU0506,22311A66146,Usha Jagadeesh,Female,AIML,B,9.12,9.01,0,PASS,"Power BI, Tableau",6,2,Yes,Placed
+STU0507,22311A66147,Hemanth Dubey,Male,AIML,C,9.5,9.55,0,PASS,"Scikit-learn, Tableau, Deep Learning, NLP, Machine Learning",6,3,Yes,Placed
+STU0508,22311A66148,Ritesh Mohan,Male,AIML,A,7.51,7.53,0,PASS,"Deep Learning, Python",3,1,Yes,Placed
+STU0509,22311A66149,Trisha Patel,Female,AIML,B,8.57,8.24,0,PASS,"AWS, Python, Machine Learning, OpenCV, Deep Learning",2,2,Yes,Placed
+STU0510,22311A66150,Uday Chopra,Male,AIML,C,7.38,7.47,2,FAIL,"Power BI, Deep Learning, OpenCV, Python",3,1,Yes,Placed
+STU0511,22311A66151,Chaitanya Dey,Female,AIML,A,5.76,5.29,0,PASS,"Scikit-learn, Deep Learning, Python, NLP, OpenCV",0,0,No,Not Placed
+STU0512,22311A66152,Prudhvi Yadav,Male,AIML,B,7.74,7.31,0,PASS,"Data Analysis, SQL, Tableau, AWS, Power BI, Python",3,0,Yes,Placed
+STU0513,22311A66153,Tej Gupta,Male,AIML,C,7.83,7.61,1,FAIL,"SQL, AWS",2,0,Yes,Placed
+STU0514,22311A66154,Girish Ghosh,Male,AIML,A,7.98,8.47,0,PASS,"AWS, Tableau, Python, Data Analysis, Scikit-learn",3,1,Yes,Placed
+STU0515,22311A66155,Anjali Chatterjee,Female,AIML,B,9.84,9.54,0,PASS,"TensorFlow, Python, Deep Learning, AWS, Machine Learning, Data Analysis",2,2,Yes,Placed
+STU0516,22311A66156,Naveen Bhuvanesh,Male,AIML,C,9.88,10.0,0,PASS,"OpenCV, Tableau, TensorFlow, SQL",4,2,Yes,Placed
+STU0517,22311A66157,Varsha Bhargav,Female,AIML,A,5.04,5.35,1,FAIL,"Python, OpenCV, Deep Learning, Power BI, Tableau",1,0,No,Not Placed
+STU0518,22311A66158,Ganesh Mandal,Male,AIML,B,5.25,5.59,4,FAIL,"Power BI, Data Analysis, NLP, OpenCV",0,1,No,Not Placed
+STU0519,22311A66159,Akash Prasad,Male,AIML,C,6.83,6.26,0,PASS,"SQL, Machine Learning, Data Analysis, TensorFlow",1,0,Yes,Not Placed
+STU0520,22311A66160,Harsha Rao,Male,AIML,A,8.2,8.75,0,PASS,"Data Analysis, AWS, Tableau, Deep Learning",2,1,Yes,Placed
+STU0521,22311A66161,Zuber Nayak,Male,AIML,B,5.57,5.33,1,FAIL,"AWS, TensorFlow, SQL",1,0,No,Not Placed
+STU0522,22311A66162,Qasim Venkatarao,Male,AIML,C,7.14,7.48,0,PASS,"Power BI, OpenCV, TensorFlow, Machine Learning",4,1,Yes,Placed
+STU0523,22311A66163,Bharath Das,Male,AIML,A,5.38,5.53,2,FAIL,"SQL, NLP, Machine Learning, Python, OpenCV",2,0,No,Not Placed
+STU0524,22311A66164,Keerthi Venkatesh,Female,AIML,B,8.48,9.01,0,PASS,"TensorFlow, SQL, Machine Learning, Tableau",2,2,Yes,Placed
+STU0525,22311A66165,Nithish Biswas,Male,AIML,C,9.76,10.0,0,PASS,"Machine Learning, OpenCV, Python, Data Analysis, Power BI, Deep Learning",2,1,Yes,Placed
+STU0526,22311A66166,Meghana Chopra,Female,AIML,A,6.65,6.13,0,PASS,"Power BI, Machine Learning, Data Analysis, OpenCV, SQL",2,1,Yes,Placed
+STU0527,22311A66167,Balaji Mishra,Male,AIML,B,8.65,9.0,0,PASS,"Tableau, AWS",4,3,Yes,Placed
+STU0528,22311A66168,Chaitanya Kumar,Female,AIML,C,6.29,5.96,1,FAIL,"TensorFlow, NLP, Power BI, Tableau, AWS, Machine Learning",0,1,Yes,Not Placed
+STU0529,22311A66169,Mounika Agarwal,Female,AIML,A,7.38,7.54,0,PASS,"TensorFlow, Data Analysis, NLP, OpenCV, Scikit-learn",1,1,Yes,Placed
+STU0530,22311A66170,Nikhil Varma,Male,AIML,B,8.34,9.11,0,PASS,"Machine Learning, NLP, SQL",4,1,Yes,Placed
+STU0531,22311A66171,Yashas Bhargav,Male,AIML,C,6.95,6.81,0,PASS,"Tableau, SQL",2,0,Yes,Placed
+STU0532,22311A66172,Chandra Anjaiah,Male,AIML,A,9.74,9.43,0,PASS,"Python, NLP, OpenCV",2,2,Yes,Placed
+STU0533,22311A66173,Deepthi Yadav,Female,AIML,B,9.04,8.48,0,PASS,"TensorFlow, Deep Learning, SQL",4,3,Yes,Placed
+STU0534,22311A66174,Radhika Paul,Female,AIML,C,6.89,6.43,1,FAIL,"Power BI, Scikit-learn, Machine Learning",0,0,Yes,Not Placed
+STU0535,22311A66175,Ajay Thakur,Male,AIML,A,9.88,10.0,0,PASS,"Machine Learning, Deep Learning",3,1,Yes,Placed
+STU0536,22311A66176,Pratyusha Thakur,Female,AIML,B,9.76,9.98,0,PASS,"TensorFlow, Deep Learning, NLP, SQL, Python, Data Analysis",4,1,Yes,Placed
+STU0537,22311A66177,Waseem Mukherjee,Male,AIML,C,5.97,6.3,0,PASS,"Power BI, Scikit-learn, AWS, NLP, Tableau, TensorFlow",0,0,No,Not Placed
+STU0538,22311A66178,Charishma Chatterjee,Female,AIML,A,7.1,7.79,0,PASS,"SQL, OpenCV",2,1,Yes,Placed
+STU0539,22311A66179,Kalyani Jagadeesh,Female,AIML,B,7.76,7.52,0,PASS,"TensorFlow, Tableau",3,0,Yes,Placed
+STU0540,22311A66180,Sravani Jangam,Female,AIML,C,7.71,7.55,0,PASS,"Tableau, SQL, TensorFlow",1,1,Yes,Placed
+STU0541,22311A1201,Naresh Dey,Male,IT,A,8.07,7.52,0,PASS,"Angular, Node.js, React",3,1,Yes,Placed
+STU0542,22311A1202,Vignesh Srinivas,Male,IT,B,9.74,10.0,0,PASS,"React, REST APIs",4,2,Yes,Placed
+STU0543,22311A1203,Waseem Kumar,Male,IT,A,8.4,8.12,0,PASS,"Web Development, Git, Power BI, Angular, Docker",4,0,Yes,Placed
+STU0544,22311A1204,Radhika Srinivas,Female,IT,B,7.16,7.75,0,PASS,"Power BI, Java, React",1,1,Yes,Placed
+STU0545,22311A1205,Nitin Jangam,Male,IT,A,9.69,9.51,0,PASS,"Python, Power BI, REST APIs, Java, Git, Docker",6,3,Yes,Placed
+STU0546,22311A1206,Zuber Tiwari,Male,IT,B,7.3,6.96,0,PASS,"Docker, Angular, React, SQL, Java, Python",2,0,Yes,Placed
+STU0547,22311A1207,Goutham Naidu,Male,IT,A,6.46,6.26,0,PASS,"SQL, Docker, Python, Node.js, Power BI, REST APIs",0,1,Yes,Not Placed
+STU0548,22311A1208,Lokesh Murthy,Male,IT,B,7.93,8.54,0,PASS,"React, AWS, Docker",2,1,Yes,Placed
+STU0549,22311A1209,Xitij Venkatesh,Male,IT,A,6.51,6.11,0,PASS,"Power BI, Web Development, Git, Node.js, Docker",0,0,Yes,Not Placed
+STU0550,22311A1210,Vineeth Malhotra,Male,IT,B,9.82,10.0,0,PASS,"Web Development, Java, Power BI, AWS, Docker",5,3,Yes,Placed
+STU0551,22311A1211,Uma Iyer,Female,IT,A,7.81,7.59,0,PASS,"Angular, SQL, Web Development, Docker",4,2,Yes,Placed
+STU0552,22311A1212,Ajay Singh,Male,IT,B,9.16,8.85,0,PASS,"Docker, Python",2,3,Yes,Placed
+STU0553,22311A1213,Chandra Dubey,Male,IT,A,6.56,6.31,0,PASS,"Node.js, Angular, Docker",0,0,Yes,Not Placed
+STU0554,22311A1214,Uday Chopra,Male,IT,B,8.02,7.56,0,PASS,"REST APIs, AWS, Java, SQL, Python, Node.js",3,0,Yes,Placed
+STU0555,22311A1215,Kalyani Rao,Female,IT,A,6.57,6.86,0,PASS,"AWS, React",0,0,Yes,Not Placed
+STU0556,22311A1216,Pratyusha Venkatesh,Female,IT,B,6.64,6.63,3,FAIL,"Web Development, Angular, SQL, REST APIs",2,0,No,Not Placed
+STU0557,22311A1217,Rahul Pillai,Male,IT,A,4.77,5.31,2,FAIL,"Power BI, Web Development, Git",0,0,No,Not Placed
+STU0558,22311A1218,Chaitanya Waghmare,Female,IT,B,6.15,5.57,0,PASS,"SQL, Angular, React",1,0,Yes,Not Placed
+STU0559,22311A1219,Kalyani Joshi,Female,IT,A,8.54,9.33,0,PASS,"Java, React, SQL, Node.js, AWS, Git",3,2,Yes,Placed
+STU0560,22311A1220,Jyothi Saidulu,Female,IT,B,6.53,7.21,0,PASS,"Angular, Web Development, Git, Python, REST APIs, Power BI",1,1,Yes,Not Placed
+STU0561,22311A1221,Isha Shah,Female,IT,A,7.06,6.88,0,PASS,"Angular, Python, Web Development",4,1,Yes,Placed
+STU0562,22311A1222,Madhuri Saidulu,Female,IT,B,9.65,9.45,0,PASS,"Web Development, Node.js",4,1,Yes,Placed
+STU0563,22311A1223,Anjali Ramaiah,Female,IT,A,7.81,7.94,0,PASS,"SQL, Docker",1,2,Yes,Placed
+STU0564,22311A1224,Gayathri Lakshmi,Female,IT,B,6.05,6.56,0,PASS,"SQL, AWS, Docker, React, Java, Node.js",0,0,Yes,Not Placed
+STU0565,22311A1225,Yashwanth Chandrasekhar,Male,IT,A,7.79,7.86,1,FAIL,"AWS, REST APIs, Java, Docker",4,1,Yes,Placed
+STU0566,22311A1226,Shashank Patil,Male,IT,B,7.07,7.67,1,FAIL,"Power BI, Git, Java, Angular",2,0,Yes,Not Placed
+STU0567,22311A1227,Balaji Chandrasekhar,Male,IT,A,6.7,6.76,0,PASS,"Python, REST APIs, Git",1,0,Yes,Not Placed
+STU0568,22311A1228,Revanth Tiwari,Male,IT,B,9.59,9.56,0,PASS,"SQL, AWS",6,1,Yes,Placed
+STU0569,22311A1229,Rekha Venkatarao,Female,IT,A,7.56,7.85,0,PASS,"Angular, AWS",4,1,Yes,Placed
+STU0570,22311A1230,Ananya Kadam,Female,IT,B,9.26,9.3,0,PASS,"React, Web Development, Power BI",6,3,Yes,Placed
+STU0571,22311A1231,Akash Krishnan,Male,IT,A,9.59,10.0,0,PASS,"Web Development, AWS, Java, Angular, React, Node.js",4,3,Yes,Placed
+STU0572,22311A1232,Suraj Jagadeesh,Male,IT,B,9.11,9.31,0,PASS,"Java, React, Web Development, AWS",4,1,Yes,Placed
+STU0573,22311A1233,Goutham Reddy,Male,IT,A,7.13,6.93,0,PASS,"Node.js, Java, Angular",2,1,Yes,Placed
+STU0574,22311A1234,Lokesh Bansal,Male,IT,B,7.62,8.15,0,PASS,"Docker, Angular, Power BI, SQL, Java",1,0,Yes,Placed
+STU0575,22311A1235,Madhuri Gupta,Female,IT,A,9.1,8.59,0,PASS,"Angular, Power BI",2,1,Yes,Placed
+STU0576,22311A1236,Lavanya Reddy,Female,IT,B,9.49,9.95,0,PASS,"AWS, Node.js, Angular, Power BI, Git, REST APIs",3,2,Yes,Placed
+STU0577,22311A1237,Suraj Varma,Male,IT,A,8.87,8.83,0,PASS,"Python, Power BI, SQL",6,2,Yes,Placed
+STU0578,22311A1238,Uday Thakur,Male,IT,B,9.66,9.06,0,PASS,"Python, Angular, Node.js, REST APIs",4,3,Yes,Placed
+STU0579,22311A1239,Zuber Mukherjee,Male,IT,A,7.14,7.84,2,FAIL,"REST APIs, AWS",3,1,Yes,Placed
+STU0580,22311A1240,Omkar Ghosh,Male,IT,B,4.75,4.27,5,FAIL,"Docker, Java, REST APIs, SQL, Power BI, Node.js",1,0,No,Not Placed
+STU0581,22311A1241,Ankita Nair,Female,IT,A,7.89,7.75,0,PASS,"Web Development, React, Docker, SQL",2,2,Yes,Placed
+STU0582,22311A1242,Goutham Nair,Male,IT,B,7.36,8.05,0,PASS,"AWS, REST APIs, Git, Angular",2,0,Yes,Not Placed
+STU0583,22311A1243,Bhavana Krishnan,Female,IT,A,9.12,9.03,0,PASS,"AWS, Power BI, Python, React",2,3,Yes,Placed
+STU0584,22311A1244,Ritesh Shah,Male,IT,B,9.52,9.76,0,PASS,"SQL, AWS, Python",6,2,Yes,Placed
+STU0585,22311A1245,Namratha Raghunath,Female,IT,A,9.15,9.48,0,PASS,"Power BI, Node.js",4,3,Yes,Placed
+STU0586,22311A1246,Mahesh Bhuvanesh,Male,IT,B,9.5,9.89,0,PASS,"Python, Node.js, Java, Web Development, Git",2,1,Yes,Placed
+STU0587,22311A1247,Pavan Balakrishna,Male,IT,A,9.55,9.42,0,PASS,"Node.js, AWS, Angular, SQL, React",4,3,Yes,Placed
+STU0588,22311A1248,Sandeep Tiwari,Male,IT,B,9.05,9.76,0,PASS,"Docker, Angular, Java, Power BI",5,3,Yes,Placed
+STU0589,22311A1249,Nikhil Lakshmi,Male,IT,A,8.73,8.94,0,PASS,"AWS, REST APIs, Java",2,1,Yes,Placed
+STU0590,22311A1250,Shravya Nayak,Female,IT,B,6.02,5.89,0,PASS,"Angular, AWS, Web Development",0,0,Yes,Not Placed
+STU0591,22311A1251,Yashas Nayak,Male,IT,A,9.66,10.0,0,PASS,"React, Angular, Docker, Node.js, Python",2,1,Yes,Placed
+STU0592,22311A1252,Shreya Roy,Female,IT,B,9.69,9.22,0,PASS,"Java, AWS, Docker, Angular, React, Power BI",3,1,Yes,Placed
+STU0593,22311A1253,Deepika Mandal,Female,IT,A,7.33,7.48,1,FAIL,"SQL, Git, Power BI, Angular, REST APIs",2,2,Yes,Placed
+STU0594,22311A1254,Ravi Devi,Male,IT,B,4.67,4.51,1,FAIL,"Web Development, Angular, Java, SQL, React, AWS",1,0,No,Not Placed
+STU0595,22311A1255,Mounika Kadam,Female,IT,A,6.48,6.8,0,PASS,"Git, React",1,0,Yes,Not Placed
+STU0596,22311A1256,Prudhvi Biswas,Male,IT,B,9.69,10.0,0,PASS,"Web Development, Python",3,1,Yes,Placed
+STU0597,22311A1257,Padmaja Anjaiah,Female,IT,A,7.04,6.62,0,PASS,"Git, React",3,1,Yes,Placed
+STU0598,22311A1258,Shiva Malhotra,Male,IT,B,7.54,7.69,0,PASS,"Angular, REST APIs, Web Development, Node.js",2,1,Yes,Placed
+STU0599,22311A1259,Lavanya Agarwal,Female,IT,A,6.91,7.05,0,PASS,"SQL, Node.js, REST APIs, Angular, Git",1,0,Yes,Not Placed
+STU0600,22311A1260,Vignesh Kumar,Male,IT,B,7.93,8.43,0,PASS,"REST APIs, React, Power BI, Docker, SQL, Angular",3,1,Yes,Placed
+STU0601,22311A1261,Sandeep Natarajan,Male,IT,A,7.92,7.87,0,PASS,"Git, Power BI, AWS, Docker, Java, REST APIs",1,1,Yes,Placed
+STU0602,22311A1262,Manoj Yadav,Male,IT,B,7.59,8.35,0,PASS,"Angular, Power BI, AWS",4,0,Yes,Placed
+STU0603,22311A1263,Chandra Ghosh,Male,IT,A,9.92,9.64,0,PASS,"React, AWS",4,1,Yes,Placed
+STU0604,22311A1264,Ganesh Sekhar,Male,IT,B,5.56,6.0,1,FAIL,"Python, AWS, Git, Java, Docker",0,0,No,Not Placed
+STU0605,22311A1265,Qasim Prasad,Male,IT,A,9.71,10.0,0,PASS,"Web Development, Angular, Git, Python",6,2,Yes,Placed
+STU0606,22311A1266,Pranav Das,Male,IT,B,7.03,6.5,0,PASS,"Node.js, SQL, REST APIs",2,2,Yes,Placed
+STU0607,22311A1267,Mahesh Raghunath,Male,IT,A,7.61,7.81,0,PASS,"Angular, Git, Python, Docker",4,0,Yes,Placed
+STU0608,22311A1268,Sai Bhargav,Female,IT,B,5.85,6.26,0,PASS,"SQL, AWS",0,0,No,Not Placed
+STU0609,22311A1269,Praveen Joshi,Male,IT,A,7.48,7.2,0,PASS,"Node.js, AWS, Java, Git",3,0,Yes,Not Placed
+STU0610,22311A1270,Abhishek Shetty,Male,IT,B,7.83,8.22,0,PASS,"Python, Java, AWS, Power BI",3,2,Yes,Placed
+STU0611,22311A1271,Jhansi Chatterjee,Female,IT,A,7.23,7.32,0,PASS,"Node.js, AWS, Git",4,0,Yes,Placed
+STU0612,22311A1272,Akhil Murthy,Male,IT,B,8.68,8.56,0,PASS,"REST APIs, Python, AWS, Docker, React, Java",5,1,Yes,Placed
+STU0613,22311A1273,Uday Patil,Male,IT,A,6.67,6.44,0,PASS,"Web Development, Docker, SQL, Git, Java",0,1,Yes,Not Placed
+STU0614,22311A1274,Praveen Mohan,Male,IT,B,6.79,6.39,0,PASS,"SQL, Python, AWS",0,0,Yes,Not Placed
+STU0615,22311A1275,Suresh Das,Male,IT,A,9.3,9.08,0,PASS,"Node.js, AWS, Web Development, REST APIs",2,1,Yes,Placed
+STU0616,22311A1276,Anjali Rathod,Female,IT,B,8.18,8.91,0,PASS,"SQL, REST APIs, Python, Git",2,0,Yes,Placed
+STU0617,22311A1277,Harsha Das,Male,IT,A,7.38,6.9,0,PASS,"SQL, Python, Power BI, Web Development, Git, Node.js",4,2,Yes,Placed
+STU0618,22311A1278,Tejaswini Jangam,Female,IT,B,9.15,8.73,0,PASS,"Git, React, REST APIs, Node.js, Power BI",5,3,Yes,Placed
+STU0619,22311A1279,Shashank Gupta,Male,IT,A,9.17,8.95,0,PASS,"React, Python, Power BI",2,3,Yes,Placed
+STU0620,22311A1280,Namratha Tiwari,Female,IT,B,8.44,8.55,0,PASS,"AWS, Power BI, React, Web Development, Java",1,0,Yes,Placed
+STU0621,22311A1281,Charishma Kumar,Female,IT,A,9.53,9.35,0,PASS,"React, REST APIs, Git",2,1,Yes,Placed
+STU0622,22311A1282,Tejaswini Sekhar,Female,IT,B,9.13,9.75,0,PASS,"Angular, Web Development",3,3,Yes,Placed
+STU0623,22311A1283,Sreshta Pawar,Female,IT,A,7.92,8.56,0,PASS,"AWS, Power BI, React",3,2,Yes,Placed
+STU0624,22311A1284,Akash Waghmare,Male,IT,B,7.96,8.11,1,FAIL,"SQL, AWS, React, Git, Web Development, Angular",4,0,Yes,Placed
+STU0625,22311A1285,Vaishnavi Tiwari,Female,IT,A,9.9,9.43,0,PASS,"Docker, Java, Angular",3,3,Yes,Placed
+STU0626,22311A1286,Ravi Chandrasekhar,Male,IT,B,4.24,3.89,2,FAIL,"Web Development, SQL, Java, Angular, AWS, Git",0,0,No,Not Placed
+STU0627,22311A1287,Pranav Babu,Male,IT,A,9.02,9.58,0,PASS,"Java, Web Development",2,2,Yes,Placed
+STU0628,22311A1288,Yamini Kumar,Female,IT,B,6.29,6.45,2,FAIL,"Web Development, Java",0,0,Yes,Not Placed
+STU0629,22311A1289,Pradeep Jagadeesh,Male,IT,A,5.56,5.93,1,FAIL,"Python, REST APIs",0,0,No,Not Placed
+STU0630,22311A1290,Revanth Yadav,Male,IT,B,4.34,4.06,2,FAIL,"Angular, React, Web Development, AWS",1,1,No,Not Placed
+STU0631,22311A1291,Goutham Pillai,Male,IT,A,9.08,8.95,0,PASS,"SQL, Python, Power BI, Java",3,2,Yes,Placed
+STU0632,22311A1292,Yashas Devi,Male,IT,B,6.17,5.99,2,FAIL,"SQL, React, Docker, Node.js",2,1,Yes,Placed
+STU0633,22311A1293,Ganesh Reddy,Male,IT,A,8.15,8.18,0,PASS,"SQL, REST APIs, Power BI, AWS, React",2,0,Yes,Placed
+STU0634,22311A1294,Ravi Mishra,Male,IT,B,9.6,9.89,0,PASS,"Angular, Web Development, AWS",5,3,Yes,Placed
+STU0635,22311A1295,Qasim Sen,Male,IT,A,7.37,7.36,0,PASS,"REST APIs, SQL, Web Development",3,0,Yes,Placed
+STU0636,22311A1296,Akhil Kadam,Male,IT,B,8.35,8.94,0,PASS,"React, Docker, Java",4,0,Yes,Placed
+STU0637,22311A1297,Deepak Babu,Male,IT,A,7.6,7.97,0,PASS,"REST APIs, SQL",1,1,Yes,Not Placed
+STU0638,22311A1298,Pradeep Naidu,Male,IT,B,5.75,5.17,2,FAIL,"Java, REST APIs, Docker, Angular, React",0,1,No,Not Placed
+STU0639,22311A1299,Akash Chandrasekhar,Male,IT,A,6.14,6.39,0,PASS,"Python, AWS, Angular",1,1,Yes,Not Placed
+STU0640,22311A12100,Venkat Ghosh,Male,IT,B,9.09,9.02,0,PASS,"REST APIs, Web Development, AWS",6,1,Yes,Placed
+STU0641,22311A12101,Ishitha Singh,Female,IT,A,7.46,8.02,0,PASS,"Angular, AWS, Web Development, React",1,0,Yes,Not Placed
+STU0642,22311A12102,Kousalya Bhargav,Female,IT,B,4.42,4.58,1,FAIL,"Python, React, Web Development, Git, Power BI, Node.js",2,0,No,Not Placed
+STU0643,22311A12103,Uma Goud,Female,IT,A,6.97,7.69,0,PASS,"React, AWS, Git, Web Development",0,0,Yes,Not Placed
+STU0644,22311A12104,Divya Iyer,Female,IT,B,9.78,9.21,0,PASS,"Docker, Power BI, Python, React, Java",3,3,Yes,Placed
+STU0645,22311A12105,Harish Mohan,Male,IT,A,9.16,9.91,0,PASS,"REST APIs, Power BI, Git, Node.js, Docker, AWS",3,2,Yes,Placed
+STU0646,22311A12106,Vidya Agarwal,Female,IT,B,5.07,5.43,2,FAIL,"Power BI, SQL, Java, Docker, Angular, AWS",0,1,No,Not Placed
+STU0647,22311A12107,Sameera Nair,Female,IT,A,6.94,6.44,0,PASS,"SQL, REST APIs, Java, Docker",0,0,Yes,Not Placed
+STU0648,22311A12108,Tanuja Chopra,Female,IT,B,5.62,5.82,0,PASS,"AWS, REST APIs, Power BI, Java",0,0,No,Not Placed
+STU0649,22311A12109,Prudhvi Thakur,Male,IT,A,9.99,9.45,0,PASS,"REST APIs, Web Development",6,1,Yes,Placed
+STU0650,22311A12110,Chaitanya Raghunath,Female,IT,B,8.87,9.21,0,PASS,"Docker, REST APIs, Git, Angular",2,1,Yes,Placed
+STU0651,22311A12111,Chaitanya Tiwari,Female,IT,A,6.98,7.78,0,PASS,"SQL, React, Docker, Python, Java",2,0,Yes,Not Placed
+STU0652,22311A12112,Uma Rao,Female,IT,B,7.71,8.22,1,FAIL,"Python, Web Development, REST APIs",4,0,Yes,Placed
+STU0653,22311A12113,Girish Yadav,Male,IT,A,7.57,8.19,0,PASS,"Java, Python, SQL, AWS",3,2,Yes,Placed
+STU0654,22311A12114,Jhansi Pawar,Female,IT,B,9.97,9.98,0,PASS,"AWS, Python, Git, Web Development, SQL, Node.js",6,3,Yes,Placed
+STU0655,22311A12115,Ankita Saidulu,Female,IT,A,5.34,6.05,3,FAIL,"SQL, Angular, AWS, React",1,0,No,Not Placed
+STU0656,22311A12116,Manoj Bansal,Male,IT,B,7.62,7.28,0,PASS,"Power BI, AWS, Web Development",3,0,Yes,Placed
+STU0657,22311A12117,Bhargavi Kumar,Female,IT,A,6.96,7.51,0,PASS,"Angular, Docker, AWS, Power BI, Node.js",0,0,Yes,Not Placed
+STU0658,22311A12118,Nithish Krishnan,Male,IT,B,7.33,6.96,0,PASS,"Angular, REST APIs, AWS, React",1,2,Yes,Placed
+STU0659,22311A12119,Krishna Nair,Male,IT,A,7.24,7.69,2,FAIL,"Angular, Docker",1,1,Yes,Placed
+STU0660,22311A12120,Srikar Das,Male,IT,B,7.78,8.51,0,PASS,"AWS, Angular, REST APIs, Python, Node.js",2,1,Yes,Placed
+STU0661,22311A0401,Vishal Mehta,Male,ECE,A,6.41,5.86,0,PASS,"C++, Verilog, IoT, FPGA",0,0,Yes,Not Placed
+STU0662,22311A0402,Teja Tiwari,Male,ECE,B,9.58,9.16,0,PASS,"Microcontrollers, Python, Signal Processing, IoT, FPGA",5,1,Yes,Placed
+STU0663,22311A0403,Meghana Murthy,Female,ECE,C,9.63,9.39,0,PASS,"Python, IoT, MATLAB, VLSI, C++, Embedded C",5,1,Yes,Placed
+STU0664,22311A0404,Xitij Patil,Male,ECE,D,5.06,5.75,1,FAIL,"Embedded C, Python, PCB Design, IoT, FPGA",0,1,No,Not Placed
+STU0665,22311A0405,Tejaswini Ramaiah,Female,ECE,A,6.89,6.36,0,PASS,"FPGA, Embedded C, Verilog",2,0,Yes,Not Placed
+STU0666,22311A0406,Mahesh Raju,Male,ECE,B,6.62,7.2,2,FAIL,"Signal Processing, VLSI, PCB Design",1,0,Yes,Not Placed
+STU0667,22311A0407,Ganesh Lakshmi,Male,ECE,C,7.86,8.39,0,PASS,"Python, FPGA",1,0,Yes,Not Placed
+STU0668,22311A0408,Pavani Chatterjee,Female,ECE,D,7.28,7.04,0,PASS,"Embedded C, C++, Microcontrollers, FPGA, Python, VLSI",3,0,Yes,Placed
+STU0669,22311A0409,Nandini Babu,Female,ECE,A,9.48,10.0,0,PASS,"Microcontrollers, C++, Arduino, PCB Design",5,2,Yes,Placed
+STU0670,22311A0410,Shiva Srinivas,Male,ECE,B,9.96,9.5,0,PASS,"Arduino, Python, MATLAB, PCB Design, Signal Processing, Verilog",5,3,Yes,Placed
+STU0671,22311A0411,Prudhvi Raju,Male,ECE,C,9.63,9.12,0,PASS,"Embedded C, C++, Arduino",6,2,Yes,Placed
+STU0672,22311A0412,Namratha Das,Female,ECE,D,5.68,5.53,2,FAIL,"MATLAB, VLSI, Microcontrollers, IoT",0,1,No,Not Placed
+STU0673,22311A0413,Nandini Kumar,Female,ECE,A,9.23,8.72,0,PASS,"Verilog, MATLAB, C++, FPGA",2,3,Yes,Placed
+STU0674,22311A0414,Varsha Singh,Female,ECE,B,9.81,9.49,0,PASS,"PCB Design, Microcontrollers",2,2,Yes,Placed
+STU0675,22311A0415,Mahesh Bansal,Male,ECE,C,7.36,7.16,0,PASS,"Embedded C, PCB Design, Arduino, Python, Signal Processing, Microcontrollers",1,0,Yes,Not Placed
+STU0676,22311A0416,Shravya Iyer,Female,ECE,D,6.98,6.86,0,PASS,"PCB Design, Verilog, Embedded C, Signal Processing",0,1,Yes,Not Placed
+STU0677,22311A0417,Mahesh Thakur,Male,ECE,A,5.72,6.28,0,PASS,"Microcontrollers, Signal Processing, MATLAB, Python",0,1,No,Not Placed
+STU0678,22311A0418,Qasim Reddy,Male,ECE,B,7.68,7.24,1,FAIL,"Arduino, IoT",4,0,Yes,Placed
+STU0679,22311A0419,Divya Malhotra,Female,ECE,C,7.38,7.97,1,FAIL,"FPGA, VLSI, C++, Verilog, MATLAB",4,1,Yes,Placed
+STU0680,22311A0420,Surya Chatterjee,Male,ECE,D,6.62,6.8,1,FAIL,"Microcontrollers, VLSI, FPGA",2,0,Yes,Not Placed
+STU0681,22311A0421,Kalyani Kapoor,Female,ECE,A,6.81,7.04,0,PASS,"Arduino, PCB Design, Python, C++",0,0,Yes,Not Placed
+STU0682,22311A0422,Ritesh Bansal,Male,ECE,B,8.28,7.91,0,PASS,"FPGA, VLSI, Python, PCB Design, Microcontrollers, IoT",1,0,Yes,Not Placed
+STU0683,22311A0423,Ravi Natarajan,Male,ECE,C,4.99,5.02,2,FAIL,"VLSI, IoT, Signal Processing, MATLAB, Python, C++",1,0,No,Not Placed
+STU0684,22311A0424,Madhuri Thakur,Female,ECE,D,9.29,9.25,0,PASS,"Arduino, C++, Verilog, PCB Design, Signal Processing, Embedded C",2,3,Yes,Placed
+STU0685,22311A0425,Deepthi Das,Female,ECE,A,8.53,8.32,0,PASS,"Microcontrollers, Signal Processing, FPGA, Verilog, VLSI, PCB Design",4,2,Yes,Placed
+STU0686,22311A0426,Lavanya Lakshmi,Female,ECE,B,9.09,9.19,0,PASS,"PCB Design, Arduino, MATLAB, Python, IoT, Microcontrollers",2,1,Yes,Placed
+STU0687,22311A0427,Usha Malhotra,Female,ECE,C,5.97,5.84,0,PASS,"VLSI, Python, Embedded C, IoT",2,0,No,Not Placed
+STU0688,22311A0428,Uday Bose,Male,ECE,D,9.84,9.98,0,PASS,"Python, VLSI, FPGA",4,3,Yes,Placed
+STU0689,22311A0429,Shreya Pawar,Female,ECE,A,9.01,8.9,0,PASS,"C++, FPGA, Verilog, PCB Design",2,2,Yes,Placed
+STU0690,22311A0430,Akhil Yadav,Male,ECE,B,8.5,8.24,0,PASS,"IoT, MATLAB, VLSI, FPGA, Signal Processing",2,2,Yes,Placed
+STU0691,22311A0431,Roshan Bansal,Male,ECE,C,7.87,7.76,0,PASS,"Signal Processing, Arduino, FPGA, MATLAB, Embedded C, Verilog",3,2,Yes,Placed
+STU0692,22311A0432,Lavanya Malhotra,Female,ECE,D,6.67,6.08,2,FAIL,"PCB Design, FPGA, Python",1,0,Yes,Not Placed
+STU0693,22311A0433,Pradeep Balakrishna,Male,ECE,A,5.79,5.83,0,PASS,"VLSI, Embedded C, PCB Design, Arduino, FPGA, MATLAB",0,1,No,Not Placed
+STU0694,22311A0434,Divya Pawar,Female,ECE,B,9.56,10.0,0,PASS,"Python, MATLAB, Signal Processing, VLSI",4,1,Yes,Placed
+STU0695,22311A0435,Pavani Ramaiah,Female,ECE,C,7.95,7.49,0,PASS,"Verilog, Arduino, Python, Signal Processing",3,2,Yes,Placed
+STU0696,22311A0436,Kousalya Venkatesh,Female,ECE,D,6.96,6.78,2,FAIL,"C++, Python, Signal Processing, Verilog, VLSI",0,0,Yes,Not Placed
+STU0697,22311A0437,Bhargavi Waghmare,Female,ECE,A,7.12,6.56,0,PASS,"VLSI, Python, Verilog, Arduino, MATLAB",3,0,Yes,Placed
+STU0698,22311A0438,Umesh Raghunath,Male,ECE,B,7.51,7.56,0,PASS,"PCB Design, Embedded C, VLSI, FPGA, Arduino, Signal Processing",1,0,Yes,Not Placed
+STU0699,22311A0439,Manasa Chatterjee,Female,ECE,C,7.38,7.5,0,PASS,"C++, Python, Microcontrollers",4,0,Yes,Placed
+STU0700,22311A0440,Praveen Balakrishna,Male,ECE,D,9.62,9.3,0,PASS,"Embedded C, Python",6,1,Yes,Placed
+STU0701,22311A0441,Uday Lakshmi,Male,ECE,A,6.01,5.96,3,FAIL,"Signal Processing, PCB Design, Python, MATLAB",1,0,No,Not Placed
+STU0702,22311A0442,Abhishek Prasad,Male,ECE,B,7.73,8.05,0,PASS,"MATLAB, PCB Design, FPGA, Arduino, C++, IoT",1,2,Yes,Placed
+STU0703,22311A0443,Vignesh Tiwari,Male,ECE,C,9.15,8.95,0,PASS,"Verilog, Signal Processing",2,3,Yes,Placed
+STU0704,22311A0444,Sreshta Chopra,Female,ECE,D,5.36,6.11,3,FAIL,"Arduino, Embedded C, Python, IoT, MATLAB",0,1,No,Not Placed
+STU0705,22311A0445,Dinesh Nayak,Male,ECE,A,9.72,10.0,0,PASS,"FPGA, Arduino, Signal Processing, VLSI",5,2,Yes,Placed
+STU0706,22311A0446,Zuber Devi,Male,ECE,B,9.13,8.98,0,PASS,"IoT, Verilog, FPGA, Signal Processing, VLSI, Embedded C",2,3,Yes,Placed
+STU0707,22311A0447,Chaitanya Raju,Female,ECE,C,6.85,7.33,2,FAIL,"VLSI, Python, Signal Processing",1,0,Yes,Not Placed
+STU0708,22311A0448,Vidya Venkatarao,Female,ECE,D,7.65,7.9,0,PASS,"IoT, VLSI, PCB Design",4,0,Yes,Placed
+STU0709,22311A0449,Teja Venkatesh,Male,ECE,A,8.74,8.75,0,PASS,"MATLAB, VLSI, Verilog, Embedded C, FPGA, PCB Design",2,1,Yes,Placed
+STU0710,22311A0450,Harsha Joshi,Male,ECE,B,7.52,8.26,0,PASS,"PCB Design, MATLAB, FPGA, Microcontrollers, IoT, Python",2,2,Yes,Placed
+STU0711,22311A0451,Suraj Singh,Male,ECE,C,6.02,5.56,0,PASS,"Verilog, C++",0,0,Yes,Not Placed
+STU0712,22311A0452,Varun Mishra,Male,ECE,D,6.37,7.13,0,PASS,"MATLAB, C++, Verilog, FPGA, Arduino, Microcontrollers",1,0,Yes,Not Placed
+STU0713,22311A0453,Waseem Bose,Male,ECE,A,8.42,8.1,0,PASS,"Python, MATLAB",3,2,Yes,Placed
+STU0714,22311A0454,Deepak Sekhar,Male,ECE,B,9.84,10.0,0,PASS,"VLSI, Signal Processing, Verilog, Microcontrollers",6,2,Yes,Placed
+STU0715,22311A0455,Vikram Goud,Male,ECE,C,7.03,7.1,1,FAIL,"Embedded C, Microcontrollers, FPGA",2,1,Yes,Not Placed
+STU0716,22311A0456,Akhil Paul,Male,ECE,D,6.69,7.07,0,PASS,"PCB Design, VLSI",2,1,Yes,Not Placed
+STU0717,22311A0457,Jhansi Jangam,Female,ECE,A,5.73,5.95,0,PASS,"Verilog, Embedded C, FPGA, MATLAB, Microcontrollers, PCB Design",0,0,No,Not Placed
+STU0718,22311A0458,Nandini Pawar,Female,ECE,B,8.4,8.72,0,PASS,"Arduino, C++",2,1,Yes,Placed
+STU0719,22311A0459,Nitin Das,Male,ECE,C,7.33,7.95,0,PASS,"IoT, C++, FPGA, VLSI",1,0,Yes,Not Placed
+STU0720,22311A0460,Goutham Bhuvanesh,Male,ECE,D,9.3,9.47,0,PASS,"IoT, Python",2,1,Yes,Placed
+STU0721,22311A0461,Balaji Krishnan,Male,ECE,A,5.25,5.03,3,FAIL,"VLSI, Embedded C, Arduino, Signal Processing",0,1,No,Not Placed
+STU0722,22311A0462,Bharath Das,Male,ECE,B,6.58,6.41,0,PASS,"Embedded C, Verilog, IoT, Arduino",1,0,Yes,Not Placed
+STU0723,22311A0463,Hemanth Agarwal,Male,ECE,C,9.81,9.98,0,PASS,"C++, PCB Design, Signal Processing, Microcontrollers",4,1,Yes,Placed
+STU0724,22311A0464,Chandra Sekhar,Male,ECE,D,6.3,7.03,0,PASS,"C++, Arduino, IoT",1,0,Yes,Not Placed
+STU0725,22311A0465,Madhuri Venkatarao,Female,ECE,A,8.57,8.42,0,PASS,"Python, PCB Design, FPGA, Embedded C",5,1,Yes,Placed
+STU0726,22311A0466,Nitin Chatterjee,Male,ECE,B,7.37,6.88,1,FAIL,"IoT, VLSI, PCB Design, Python, Arduino, Signal Processing",3,0,Yes,Placed
+STU0727,22311A0467,Suresh Nayak,Male,ECE,C,6.67,6.12,0,PASS,"Verilog, IoT, Embedded C, C++, MATLAB",0,1,Yes,Not Placed
+STU0728,22311A0468,Lasya Sharma,Female,ECE,D,7.58,7.82,0,PASS,"C++, PCB Design",1,1,Yes,Not Placed
+STU0729,22311A0469,Nandini Thakur,Female,ECE,A,7.14,6.94,0,PASS,"IoT, Microcontrollers, Signal Processing, FPGA, PCB Design, Python",1,0,Yes,Not Placed
+STU0730,22311A0470,Gayathri Naidu,Female,ECE,B,7.57,8.01,0,PASS,"MATLAB, Signal Processing, Verilog, Embedded C",2,1,Yes,Placed
+STU0731,22311A0471,Girish Singh,Male,ECE,C,9.63,10.0,0,PASS,"Microcontrollers, VLSI, C++, Embedded C, PCB Design, IoT",6,3,Yes,Placed
+STU0732,22311A0472,Vikram Srinivas,Male,ECE,D,6.86,7.33,0,PASS,"IoT, VLSI, MATLAB, PCB Design, Signal Processing",0,0,Yes,Not Placed
+STU0733,22311A0473,Harsha Chatterjee,Male,ECE,A,7.35,7.91,0,PASS,"MATLAB, Signal Processing, Verilog, Python, Arduino, FPGA",3,0,Yes,Placed
+STU0734,22311A0474,Ranjitha Mehta,Female,ECE,B,5.99,6.62,0,PASS,"PCB Design, Embedded C, Python",0,0,No,Not Placed
+STU0735,22311A0475,Dhanush Iyer,Male,ECE,C,5.93,6.3,4,FAIL,"C++, Microcontrollers, Signal Processing",2,0,No,Not Placed
+STU0736,22311A0476,Teja Sekhar,Male,ECE,D,6.4,7.06,1,FAIL,"VLSI, Embedded C, Microcontrollers, IoT, PCB Design, MATLAB",1,1,Yes,Not Placed
+STU0737,22311A0477,Eshwar Babu,Male,ECE,A,9.51,9.12,0,PASS,"Verilog, Microcontrollers",4,3,Yes,Placed
+STU0738,22311A0478,Suraj Rathod,Male,ECE,B,9.1,8.92,0,PASS,"Embedded C, Verilog, C++, FPGA",6,3,Yes,Placed
+STU0739,22311A0479,Akshay Chandrasekhar,Male,ECE,C,6.71,7.25,0,PASS,"Signal Processing, C++, Arduino",1,0,Yes,Not Placed
+STU0740,22311A0480,Manasa Pillai,Female,ECE,D,7.83,7.63,1,FAIL,"VLSI, MATLAB, Arduino, Python, Microcontrollers, PCB Design",2,0,Yes,Placed
+STU0741,22311A0481,Roshan Mandal,Male,ECE,A,6.33,5.77,0,PASS,"Signal Processing, PCB Design, C++, Python, FPGA, Verilog",2,1,Yes,Not Placed
+STU0742,22311A0482,Mahesh Chopra,Male,ECE,B,6.71,6.5,0,PASS,"VLSI, MATLAB, Microcontrollers, IoT",0,0,Yes,Not Placed
+STU0743,22311A0483,Naresh Singh,Male,ECE,C,9.93,10.0,0,PASS,"MATLAB, C++, Embedded C, Verilog",3,1,Yes,Placed
+STU0744,22311A0484,Srikanth Venkatesh,Male,ECE,D,6.31,6.74,0,PASS,"FPGA, VLSI, C++",2,1,Yes,Placed
+STU0745,22311A0485,Apoorva Mukherjee,Female,ECE,A,7.13,6.9,0,PASS,"MATLAB, FPGA, IoT, PCB Design, Python, C++",2,2,Yes,Placed
+STU0746,22311A0486,Goutham Tiwari,Male,ECE,B,6.83,7.58,1,FAIL,"Signal Processing, PCB Design, IoT, MATLAB",1,0,Yes,Not Placed
+STU0747,22311A0487,Prudhvi Krishnan,Male,ECE,C,7.82,8.4,0,PASS,"Signal Processing, FPGA, MATLAB, Embedded C, Arduino, Python",2,2,Yes,Placed
+STU0748,22311A0488,Deepak Rathod,Male,ECE,D,7.16,7.12,2,FAIL,"PCB Design, MATLAB, IoT, Embedded C",3,1,Yes,Placed
+STU0749,22311A0489,Tanuja Pillai,Female,ECE,A,7.95,8.21,0,PASS,"Embedded C, Microcontrollers, Signal Processing, VLSI, IoT, Python",1,1,Yes,Placed
+STU0750,22311A0490,Harsha Mandal,Male,ECE,B,6.04,6.64,0,PASS,"IoT, Microcontrollers, Signal Processing",0,1,Yes,Not Placed
+STU0751,22311A0491,Ashwin Sharma,Male,ECE,C,9.04,8.84,0,PASS,"MATLAB, FPGA",3,1,Yes,Placed
+STU0752,22311A0492,Deepthi Dubey,Female,ECE,D,6.24,6.02,0,PASS,"C++, Signal Processing",0,1,Yes,Not Placed
+STU0753,22311A0493,Praveen Iyer,Male,ECE,A,7.41,7.25,0,PASS,"Microcontrollers, Embedded C, Arduino, Verilog, PCB Design, VLSI",1,0,Yes,Not Placed
+STU0754,22311A0494,Dhanush Dubey,Male,ECE,B,6.47,6.66,0,PASS,"C++, MATLAB, Signal Processing, Embedded C, PCB Design, IoT",0,0,Yes,Not Placed
+STU0755,22311A0495,Krishna Bansal,Male,ECE,C,6.85,6.77,0,PASS,"IoT, Python, VLSI, Verilog",1,0,Yes,Not Placed
+STU0756,22311A0496,Xitij Ramaiah,Male,ECE,D,9.84,10.0,0,PASS,"PCB Design, Arduino",5,2,Yes,Placed
+STU0757,22311A0497,Praveen Rao,Male,ECE,A,6.51,6.88,1,FAIL,"C++, PCB Design, IoT, MATLAB, Verilog",0,0,Yes,Not Placed
+STU0758,22311A0498,Girish Raju,Male,ECE,B,5.63,5.05,1,FAIL,"Python, MATLAB",0,1,No,Not Placed
+STU0759,22311A0499,Rekha Sen,Female,ECE,C,9.55,9.51,0,PASS,"VLSI, Signal Processing, Arduino, Verilog",6,2,Yes,Placed
+STU0760,22311A04100,Ajay Pillai,Male,ECE,D,7.42,7.82,0,PASS,"PCB Design, Microcontrollers, MATLAB, IoT",2,0,Yes,Placed
+STU0761,22311A04101,Dhanush Kumar,Male,ECE,A,5.97,6.76,0,PASS,"MATLAB, VLSI, C++",0,0,No,Not Placed
+STU0762,22311A04102,Yashas Shetty,Male,ECE,B,9.01,8.68,0,PASS,"Signal Processing, Verilog, Arduino, IoT",6,2,Yes,Placed
+STU0763,22311A04103,Teja Dey,Male,ECE,C,8.22,7.87,0,PASS,"C++, Verilog, Signal Processing",3,1,Yes,Placed
+STU0764,22311A04104,Zuber Bhuvanesh,Male,ECE,D,9.21,8.61,0,PASS,"MATLAB, VLSI, Verilog",3,1,Yes,Placed
+STU0765,22311A04105,Sameera Reddy,Female,ECE,A,7.27,7.29,0,PASS,"Arduino, C++, VLSI, MATLAB",4,1,Yes,Placed
+STU0766,22311A04106,Dhanush Waghmare,Male,ECE,B,9.84,10.0,0,PASS,"Microcontrollers, Python, Signal Processing, C++",5,2,Yes,Placed
+STU0767,22311A04107,Varun Prasad,Male,ECE,C,6.54,6.45,0,PASS,"Microcontrollers, Signal Processing, MATLAB, C++",2,1,Yes,Not Placed
+STU0768,22311A04108,Pooja Nayak,Female,ECE,D,7.04,6.71,0,PASS,"VLSI, IoT, Arduino, C++",1,1,Yes,Not Placed
+STU0769,22311A04109,Madhuri Chatterjee,Female,ECE,A,9.06,9.26,0,PASS,"Microcontrollers, PCB Design",6,3,Yes,Placed
+STU0770,22311A04110,Rajesh Bose,Male,ECE,B,8.37,8.63,0,PASS,"Python, VLSI, Signal Processing",1,0,Yes,Not Placed
+STU0771,22311A04111,Deepak Saidulu,Male,ECE,C,8.61,8.03,0,PASS,"Microcontrollers, Python, Verilog, IoT",6,1,Yes,Placed
+STU0772,22311A04112,Shiva Mehta,Male,ECE,D,7.74,7.84,0,PASS,"Python, PCB Design",1,0,Yes,Placed
+STU0773,22311A04113,Sravani Joshi,Female,ECE,A,8.27,8.16,0,PASS,"Microcontrollers, VLSI, Verilog, PCB Design, FPGA, Embedded C",1,0,Yes,Not Placed
+STU0774,22311A04114,Nandini Sharma,Female,ECE,B,7.06,6.57,0,PASS,"Arduino, FPGA, MATLAB",2,0,Yes,Not Placed
+STU0775,22311A04115,Manasa Nayak,Female,ECE,C,7.75,7.53,0,PASS,"Arduino, PCB Design, Microcontrollers, VLSI",4,1,Yes,Placed
+STU0776,22311A04116,Kousalya Biswas,Female,ECE,D,8.83,8.77,0,PASS,"Verilog, MATLAB, Signal Processing, IoT, Arduino, VLSI",4,3,Yes,Placed
+STU0777,22311A04117,Sandeep Natarajan,Male,ECE,A,7.2,6.64,0,PASS,"PCB Design, Python, Microcontrollers",3,1,Yes,Placed
+STU0778,22311A04118,Vaishnavi Rao,Female,ECE,B,5.86,6.52,0,PASS,"IoT, Microcontrollers, VLSI, Python, FPGA",0,0,No,Not Placed
+STU0779,22311A04119,Alekhya Chopra,Female,ECE,C,9.4,9.97,0,PASS,"Microcontrollers, IoT, Verilog, FPGA",5,3,Yes,Placed
+STU0780,22311A04120,Bharath Mohan,Male,ECE,D,9.77,10.0,0,PASS,"Verilog, Embedded C, Python, C++, Microcontrollers",4,3,Yes,Placed
+STU0781,22311A04121,Pranav Venkatesh,Male,ECE,A,7.5,8.0,0,PASS,"Arduino, Python",3,1,Yes,Placed
+STU0782,22311A04122,Akanksha Yadav,Female,ECE,B,5.81,5.47,2,FAIL,"VLSI, MATLAB, Python, C++, IoT",0,0,No,Not Placed
+STU0783,22311A04123,Trisha Tiwari,Female,ECE,C,9.71,10.0,0,PASS,"Signal Processing, Python",4,1,Yes,Placed
+STU0784,22311A04124,Surya Chandrasekhar,Male,ECE,D,7.09,6.59,0,PASS,"Embedded C, MATLAB, Verilog, Python, FPGA, C++",3,0,Yes,Placed
+STU0785,22311A04125,Yashas Tiwari,Male,ECE,A,6.78,6.48,0,PASS,"Signal Processing, FPGA, Python, Microcontrollers",0,0,Yes,Not Placed
+STU0786,22311A04126,Eshwar Rao,Male,ECE,B,7.1,7.22,0,PASS,"IoT, FPGA",1,1,Yes,Placed
+STU0787,22311A04127,Akash Shetty,Male,ECE,C,7.18,7.26,2,FAIL,"Signal Processing, Embedded C, Arduino, Microcontrollers, Verilog",1,1,Yes,Not Placed
+STU0788,22311A04128,Anand Ghosh,Male,ECE,D,7.3,7.21,1,FAIL,"C++, Signal Processing, VLSI, Python, Embedded C",3,2,Yes,Placed
+STU0789,22311A04129,Venkat Venkatesh,Male,ECE,A,9.46,8.92,0,PASS,"PCB Design, IoT, Embedded C, FPGA, Arduino",5,2,Yes,Placed
+STU0790,22311A04130,Arjun Dey,Male,ECE,B,7.17,6.99,0,PASS,"IoT, Embedded C",4,0,Yes,Not Placed
+STU0791,22311A04131,Chaitanya Murthy,Female,ECE,C,6.91,7.67,0,PASS,"Microcontrollers, C++, Verilog",0,0,Yes,Not Placed
+STU0792,22311A04132,Gayathri Iyer,Female,ECE,D,7.89,8.34,0,PASS,"Python, Arduino",1,2,Yes,Placed
+STU0793,22311A04133,Lokesh Srinivas,Male,ECE,A,9.79,10.0,0,PASS,"IoT, Verilog",5,1,Yes,Placed
+STU0794,22311A04134,Shashank Bhuvanesh,Male,ECE,B,7.51,7.76,1,FAIL,"Arduino, Embedded C, Signal Processing, MATLAB",1,1,Yes,Placed
+STU0795,22311A04135,Vignesh Natarajan,Male,ECE,C,8.22,8.61,0,PASS,"Arduino, Verilog, PCB Design, Signal Processing, IoT, Microcontrollers",4,1,Yes,Placed
+STU0796,22311A04136,Hemanth Jangam,Male,ECE,D,7.78,7.88,0,PASS,"FPGA, Signal Processing, Arduino",4,0,Yes,Placed
+STU0797,22311A04137,Girish Mukherjee,Male,ECE,A,7.98,7.9,0,PASS,"PCB Design, FPGA, Microcontrollers, Embedded C",2,1,Yes,Placed
+STU0798,22311A04138,Pavani Agarwal,Female,ECE,B,9.74,10.0,0,PASS,"C++, Python, Signal Processing, VLSI, Microcontrollers",5,1,Yes,Placed
+STU0799,22311A04139,Deepthi Raghunath,Female,ECE,C,6.28,6.71,0,PASS,"IoT, MATLAB, Signal Processing, Arduino, Microcontrollers",1,0,Yes,Not Placed
+STU0800,22311A04140,Prudhvi Ghosh,Male,ECE,D,9.46,10.0,0,PASS,"Python, Microcontrollers, Signal Processing, Arduino, Embedded C",6,2,Yes,Placed
+STU0801,22311A04141,Rajesh Iyer,Male,ECE,A,9.64,9.91,0,PASS,"Verilog, Microcontrollers, C++",2,3,Yes,Placed
+STU0802,22311A04142,Tej Sharma,Male,ECE,B,9.09,9.01,0,PASS,"FPGA, Signal Processing, C++, Verilog, MATLAB, Microcontrollers",3,2,Yes,Placed
+STU0803,22311A04143,Sameera Sekhar,Female,ECE,C,9.29,9.94,0,PASS,"Verilog, PCB Design, FPGA",3,3,Yes,Placed
+STU0804,22311A04144,Tarun Nayak,Male,ECE,D,7.41,7.27,2,FAIL,"MATLAB, PCB Design, VLSI",1,1,Yes,Placed
+STU0805,22311A04145,Tej Biswas,Male,ECE,A,7.13,6.89,0,PASS,"Microcontrollers, Verilog",1,1,Yes,Placed
+STU0806,22311A04146,Deepak Raghunath,Male,ECE,B,8.4,9.1,0,PASS,"Signal Processing, VLSI, FPGA, Python, Arduino",1,1,Yes,Placed
+STU0807,22311A04147,Ankita Jangam,Female,ECE,C,9.33,9.7,0,PASS,"Microcontrollers, PCB Design, MATLAB, Arduino, IoT",4,3,Yes,Placed
+STU0808,22311A04148,Anand Subramaniam,Male,ECE,D,8.29,8.0,0,PASS,"Microcontrollers, Arduino, FPGA, Python",3,1,Yes,Placed
+STU0809,22311A04149,Vivek Patil,Male,ECE,A,6.94,6.88,0,PASS,"MATLAB, Verilog",0,0,Yes,Not Placed
+STU0810,22311A04150,Harika Roy,Female,ECE,B,7.43,7.07,0,PASS,"Verilog, C++, IoT",3,1,Yes,Placed
+STU0811,22311A04151,Rahul Das,Male,ECE,C,7.5,6.99,0,PASS,"MATLAB, Python, Arduino",1,1,Yes,Not Placed
+STU0812,22311A04152,Sai Kumar,Female,ECE,D,9.23,8.91,0,PASS,"Signal Processing, FPGA",2,2,Yes,Placed
+STU0813,22311A04153,Vikram Paul,Male,ECE,A,8.8,8.83,0,PASS,"MATLAB, Microcontrollers, Arduino, Python, FPGA, VLSI",5,1,Yes,Placed
+STU0814,22311A04154,Varsha Natarajan,Female,ECE,B,5.69,6.25,0,PASS,"C++, Arduino, Embedded C",0,0,No,Not Placed
+STU0815,22311A04155,Eshwar Kapoor,Male,ECE,C,7.69,7.19,0,PASS,"VLSI, PCB Design, MATLAB, Microcontrollers, Verilog",4,0,Yes,Placed
+STU0816,22311A04156,Rekha Krishnan,Female,ECE,D,9.63,10.0,0,PASS,"Arduino, Signal Processing",6,2,Yes,Placed
+STU0817,22311A04157,Rajesh Bhargav,Male,ECE,A,9.87,9.62,0,PASS,"FPGA, C++, Microcontrollers, Arduino",5,1,Yes,Placed
+STU0818,22311A04158,Ravi Mukherjee,Male,ECE,B,5.34,5.45,3,FAIL,"VLSI, Signal Processing, Arduino",0,1,No,Not Placed
+STU0819,22311A04159,Bhargavi Mandal,Female,ECE,C,6.85,6.68,0,PASS,"PCB Design, VLSI, Arduino, MATLAB, Python, Microcontrollers",0,1,Yes,Not Placed
+STU0820,22311A04160,Pradeep Shetty,Male,ECE,D,9.42,9.84,0,PASS,"Arduino, PCB Design, Microcontrollers",4,1,Yes,Placed
+STU0821,22311A04161,Harika Waghmare,Female,ECE,A,7.34,7.81,0,PASS,"Embedded C, Signal Processing, IoT, Python, PCB Design",3,0,Yes,Placed
+STU0822,22311A04162,Santhosh Venkatarao,Male,ECE,B,7.69,7.55,0,PASS,"MATLAB, Verilog, C++",4,2,Yes,Placed
+STU0823,22311A04163,Keerthi Shetty,Female,ECE,C,9.97,9.43,0,PASS,"Microcontrollers, PCB Design, MATLAB, Arduino, Signal Processing",2,1,Yes,Placed
+STU0824,22311A04164,Niharika Bhuvanesh,Female,ECE,D,7.21,7.84,0,PASS,"Python, Microcontrollers, Verilog, Arduino, MATLAB",1,1,Yes,Not Placed
+STU0825,22311A04165,Tejaswini Subramaniam,Female,ECE,A,8.77,9.39,0,PASS,"IoT, PCB Design, MATLAB, Python",4,2,Yes,Placed
+STU0826,22311A04166,Pooja Bhargav,Female,ECE,B,7.41,8.12,0,PASS,"Signal Processing, Microcontrollers, PCB Design, Embedded C, C++",3,0,Yes,Placed
+STU0827,22311A04167,Ashwin Ghosh,Male,ECE,C,9.33,8.82,0,PASS,"Verilog, VLSI",6,1,Yes,Placed
+STU0828,22311A04168,Naresh Nair,Male,ECE,D,8.07,8.43,0,PASS,"PCB Design, Python, IoT, VLSI, FPGA",3,1,Yes,Placed
+STU0829,22311A04169,Shashank Sharma,Male,ECE,A,9.01,8.86,0,PASS,"Arduino, MATLAB, Verilog",4,3,Yes,Placed
+STU0830,22311A04170,Sai Waghmare,Male,ECE,B,8.15,7.98,0,PASS,"Verilog, Embedded C, Python, C++, IoT, FPGA",3,2,Yes,Placed
+STU0831,22311A04171,Santhosh Venkatesh,Male,ECE,C,7.9,7.6,0,PASS,"PCB Design, VLSI, Signal Processing",1,1,Yes,Placed
+STU0832,22311A04172,Santhosh Dubey,Male,ECE,D,4.66,4.34,4,FAIL,"VLSI, Microcontrollers, Python, C++, FPGA, PCB Design",1,0,No,Not Placed
+STU0833,22311A04173,Zuber Waghmare,Male,ECE,A,7.98,8.5,0,PASS,"C++, VLSI, PCB Design, Embedded C",1,1,Yes,Not Placed
+STU0834,22311A04174,Karthik Waghmare,Male,ECE,B,7.92,8.23,0,PASS,"FPGA, Microcontrollers",4,2,Yes,Placed
+STU0835,22311A04175,Madhuri Rathod,Female,ECE,C,5.27,4.92,1,FAIL,"Python, Microcontrollers, PCB Design, Embedded C, C++, Arduino",1,1,No,Not Placed
+STU0836,22311A04176,Ajay Mehta,Male,ECE,D,7.28,6.89,1,FAIL,"IoT, VLSI, Python",1,1,Yes,Not Placed
+STU0837,22311A04177,Yamini Thakur,Female,ECE,A,7.67,7.53,0,PASS,"Microcontrollers, Python",4,0,Yes,Placed
+STU0838,22311A04178,Varsha Das,Female,ECE,B,5.85,5.56,0,PASS,"VLSI, PCB Design",0,0,No,Not Placed
+STU0839,22311A04179,Abhishek Babu,Male,ECE,C,7.21,7.87,0,PASS,"FPGA, C++, IoT, VLSI",4,1,Yes,Placed
+STU0840,22311A04180,Vamshi Venkatesh,Male,ECE,D,8.66,9.1,0,PASS,"Arduino, Verilog, VLSI, MATLAB, C++",4,1,Yes,Placed
+STU0841,22311A04181,Yashwanth Bhargav,Male,ECE,A,9.99,9.76,0,PASS,"IoT, Signal Processing, Microcontrollers",3,3,Yes,Placed
+STU0842,22311A04182,Ashwin Mishra,Male,ECE,B,8.63,9.2,0,PASS,"Python, Signal Processing, IoT",2,3,Yes,Placed
+STU0843,22311A04183,Dileep Srinivas,Male,ECE,C,9.21,9.48,0,PASS,"PCB Design, VLSI, Arduino, C++, IoT, Python",3,2,Yes,Placed
+STU0844,22311A04184,Sameera Mukherjee,Female,ECE,D,7.78,8.25,0,PASS,"Signal Processing, FPGA, Embedded C, C++",2,0,Yes,Not Placed
+STU0845,22311A04185,Lokesh Prasad,Male,ECE,A,9.44,10.0,0,PASS,"C++, Python",5,3,Yes,Placed
+STU0846,22311A04186,Padmaja Das,Female,ECE,B,9.78,9.97,0,PASS,"C++, Embedded C, Microcontrollers, IoT, MATLAB, Verilog",6,1,Yes,Placed
+STU0847,22311A04187,Chaitanya Pillai,Female,ECE,C,7.9,8.3,0,PASS,"Signal Processing, MATLAB, Arduino, Embedded C, Microcontrollers, Python",4,2,Yes,Placed
+STU0848,22311A04188,Dhanush Kapoor,Male,ECE,D,6.61,7.0,0,PASS,"Microcontrollers, Verilog, FPGA",2,0,Yes,Not Placed
+STU0849,22311A04189,Nikhil Chatterjee,Male,ECE,A,9.24,9.74,0,PASS,"Signal Processing, Verilog, MATLAB, FPGA, IoT",2,1,Yes,Placed
+STU0850,22311A04190,Vignesh Babu,Male,ECE,B,6.24,6.96,0,PASS,"Python, FPGA, Arduino, IoT, Embedded C",1,0,Yes,Not Placed
+STU0851,22311A04191,Yashas Bose,Male,ECE,C,9.61,9.23,0,PASS,"Arduino, Embedded C, Signal Processing, Microcontrollers",2,3,Yes,Placed
+STU0852,22311A04192,Waseem Pillai,Male,ECE,D,9.22,8.76,0,PASS,"Verilog, IoT, MATLAB, PCB Design, Signal Processing, Microcontrollers",2,3,Yes,Placed
+STU0853,22311A04193,Kousalya Bhuvanesh,Female,ECE,A,9.33,9.66,0,PASS,"IoT, VLSI, Embedded C, FPGA",5,1,Yes,Placed
+STU0854,22311A04194,Srikanth Agarwal,Male,ECE,B,6.28,6.67,1,FAIL,"Signal Processing, Verilog, C++, Microcontrollers, Embedded C, Arduino",0,1,Yes,Not Placed
+STU0855,22311A04195,Karthik Iyer,Male,ECE,C,7.51,8.18,0,PASS,"Microcontrollers, Embedded C, IoT, PCB Design, C++",1,2,Yes,Placed
+STU0856,22311A04196,Shashank Naidu,Male,ECE,D,9.29,9.27,0,PASS,"Microcontrollers, PCB Design",4,2,Yes,Placed
+STU0857,22311A04197,Dileep Waghmare,Male,ECE,A,6.57,6.61,3,FAIL,"Python, MATLAB, C++, Verilog",1,1,No,Not Placed
+STU0858,22311A04198,Rajesh Sen,Male,ECE,B,9.84,9.56,0,PASS,"VLSI, Microcontrollers, Signal Processing, IoT",6,2,Yes,Placed
+STU0859,22311A04199,Suraj Venkatesh,Male,ECE,C,7.71,8.36,0,PASS,"IoT, Embedded C, VLSI",2,1,Yes,Placed
+STU0860,22311A04200,Teja Raghunath,Male,ECE,D,7.54,7.22,0,PASS,"FPGA, Signal Processing, Arduino, Python, IoT, Verilog",3,1,Yes,Placed
+STU0861,22311A04201,Krishna Raghunath,Male,ECE,A,6.84,7.4,0,PASS,"FPGA, Arduino, Embedded C",0,1,Yes,Not Placed
+STU0862,22311A04202,Uday Das,Male,ECE,B,6.95,7.7,1,FAIL,"PCB Design, Signal Processing, C++, Verilog, MATLAB",0,1,Yes,Placed
+STU0863,22311A04203,Vamshi Mishra,Male,ECE,C,9.26,9.18,0,PASS,"IoT, C++, Microcontrollers",2,3,Yes,Placed
+STU0864,22311A04204,Sameera Ramaiah,Female,ECE,D,7.88,8.66,0,PASS,"IoT, VLSI, Verilog, MATLAB, Microcontrollers, PCB Design",2,1,Yes,Placed
+STU0865,22311A04205,Charan Malhotra,Male,ECE,A,7.93,7.57,0,PASS,"FPGA, Embedded C, IoT, PCB Design, Python, Microcontrollers",3,0,Yes,Placed
+STU0866,22311A04206,Umesh Venkatarao,Male,ECE,B,9.7,10.0,0,PASS,"MATLAB, FPGA, PCB Design, Arduino, C++",4,1,Yes,Placed
+STU0867,22311A04207,Naresh Joshi,Male,ECE,C,9.01,9.26,0,PASS,"Verilog, VLSI, FPGA, Microcontrollers",6,2,Yes,Placed
+STU0868,22311A04208,Rohit Ramaiah,Male,ECE,D,9.03,9.73,0,PASS,"IoT, VLSI",2,2,Yes,Placed
+STU0869,22311A04209,Ritesh Joshi,Male,ECE,A,8.31,7.96,0,PASS,"PCB Design, VLSI, Python, Arduino",4,0,Yes,Placed
+STU0870,22311A04210,Sreshta Patel,Female,ECE,B,8.61,9.38,0,PASS,"FPGA, IoT",2,1,Yes,Placed
+STU0871,22311A04211,Swathi Kumar,Female,ECE,C,4.58,4.02,5,FAIL,"IoT, VLSI, Python, MATLAB, PCB Design, FPGA",1,1,No,Not Placed
+STU0872,22311A04212,Bhargavi Patil,Female,ECE,D,9.88,9.53,0,PASS,"PCB Design, Embedded C, Verilog",2,3,Yes,Placed
+STU0873,22311A04213,Mahesh Jagadeesh,Male,ECE,A,6.18,6.41,0,PASS,"PCB Design, MATLAB",1,1,Yes,Not Placed
+STU0874,22311A04214,Balaji Paul,Male,ECE,B,9.07,8.81,0,PASS,"MATLAB, PCB Design, Microcontrollers",5,1,Yes,Placed
+STU0875,22311A04215,Vasudha Chatterjee,Female,ECE,C,9.1,9.23,0,PASS,"C++, Verilog, FPGA, Microcontrollers",6,2,Yes,Placed
+STU0876,22311A04216,Sai Chandrasekhar,Male,ECE,D,7.92,7.92,0,PASS,"PCB Design, Embedded C",4,0,Yes,Placed
+STU0877,22311A04217,Ritesh Jagadeesh,Male,ECE,A,7.53,7.01,0,PASS,"VLSI, Arduino, Verilog",2,1,Yes,Placed
+STU0878,22311A04218,Qasim Naidu,Male,ECE,B,4.45,4.11,6,FAIL,"FPGA, Signal Processing",1,0,No,Not Placed
+STU0879,22311A04219,Pooja Goud,Female,ECE,C,6.45,7.1,1,FAIL,"Microcontrollers, MATLAB",0,0,Yes,Not Placed
+STU0880,22311A04220,Bharath Dubey,Male,ECE,D,8.24,8.78,0,PASS,"Signal Processing, MATLAB, IoT",4,0,Yes,Placed
+STU0881,22311A04221,Keerthi Subramaniam,Female,ECE,A,9.63,9.32,0,PASS,"Signal Processing, Embedded C, Microcontrollers, Verilog",5,2,Yes,Placed
+STU0882,22311A04222,Rohit Mukherjee,Male,ECE,B,6.19,5.65,2,FAIL,"FPGA, MATLAB, VLSI",1,0,Yes,Not Placed
+STU0883,22311A04223,Goutham Gupta,Male,ECE,C,9.68,10.0,0,PASS,"Arduino, C++, Microcontrollers, Verilog, FPGA",2,1,Yes,Placed
+STU0884,22311A04224,Sai Nair,Male,ECE,D,7.99,8.05,0,PASS,"Embedded C, Signal Processing, Python",1,1,Yes,Placed
+STU0885,22311A04225,Tarun Agarwal,Male,ECE,A,7.4,6.86,2,FAIL,"MATLAB, IoT, Embedded C",1,2,Yes,Placed
+STU0886,22311A04226,Lasya Nayak,Female,ECE,B,9.15,8.96,0,PASS,"MATLAB, Python",3,2,Yes,Placed
+STU0887,22311A04227,Abhishek Naidu,Male,ECE,C,5.75,5.89,1,FAIL,"C++, IoT, Embedded C",0,0,No,Not Placed
+STU0888,22311A04228,Akhil Pillai,Male,ECE,D,7.85,8.21,0,PASS,"Verilog, Embedded C",4,1,Yes,Placed
+STU0889,22311A04229,Kavya Rao,Female,ECE,A,6.15,6.83,3,FAIL,"Arduino, FPGA, Verilog, Signal Processing, PCB Design",2,0,No,Not Placed
+STU0890,22311A04230,Varun Pawar,Male,ECE,B,9.45,10.0,0,PASS,"Python, Arduino, Microcontrollers",5,2,Yes,Placed
+STU0891,22311A04231,Ajay Sharma,Male,ECE,C,7.12,7.75,1,FAIL,"Python, FPGA, IoT, MATLAB, Signal Processing",4,2,Yes,Placed
+STU0892,22311A04232,Anand Chopra,Male,ECE,D,7.5,7.09,0,PASS,"MATLAB, Microcontrollers, Verilog",2,2,Yes,Placed
+STU0893,22311A04233,Harsha Kapoor,Male,ECE,A,7.47,7.17,0,PASS,"C++, FPGA",4,0,Yes,Placed
+STU0894,22311A04234,Tej Chowdary,Male,ECE,B,9.94,9.94,0,PASS,"Embedded C, MATLAB, Signal Processing, Python, Arduino",6,1,Yes,Placed
+STU0895,22311A04235,Vamshi Venkatesh,Male,ECE,C,7.61,8.08,0,PASS,"Verilog, C++, Embedded C, VLSI, FPGA, Microcontrollers",1,0,Yes,Not Placed
+STU0896,22311A04236,Charan Bhargav,Male,ECE,D,8.15,7.85,0,PASS,"Verilog, IoT, Microcontrollers, PCB Design",4,0,Yes,Placed
+STU0897,22311A04237,Mounika Iyer,Female,ECE,A,6.38,6.01,0,PASS,"Signal Processing, Python, C++, Verilog, PCB Design, IoT",2,0,Yes,Not Placed
+STU0898,22311A04238,Lokesh Yadav,Male,ECE,B,5.54,6.17,0,PASS,"Python, Embedded C, Verilog, IoT, PCB Design",1,0,No,Not Placed
+STU0899,22311A04239,Goutham Pawar,Male,ECE,C,8.13,7.95,0,PASS,"VLSI, FPGA, MATLAB",3,0,Yes,Placed
+STU0900,22311A04240,Girish Waghmare,Male,ECE,D,7.84,7.82,0,PASS,"MATLAB, C++, Arduino, FPGA",1,1,Yes,Not Placed
+STU0901,22311A0201,Keerthi Jagadeesh,Female,EEE,A,6.91,7.7,0,PASS,"Power Systems, C",0,1,Yes,Not Placed
+STU0902,22311A0202,Akash Sharma,Male,EEE,B,9.7,9.48,0,PASS,"Power Systems, Simulink, C, SCADA, Excel",4,1,Yes,Placed
+STU0903,22311A0203,Venkat Paul,Male,EEE,A,7.17,7.51,1,FAIL,"C, AutoCAD, MATLAB, PLC",1,0,Yes,Not Placed
+STU0904,22311A0204,Apoorva Patil,Female,EEE,B,6.61,7.02,0,PASS,"Excel, AutoCAD, PLC, Circuit Design",1,0,Yes,Placed
+STU0905,22311A0205,Mahesh Varma,Male,EEE,A,8.09,8.82,0,PASS,"Electrical Design, MATLAB, AutoCAD",4,0,Yes,Not Placed
+STU0906,22311A0206,Dhanush Venkatesh,Male,EEE,B,9.73,9.96,0,PASS,"Circuit Design, PLC",6,1,Yes,Not Placed
+STU0907,22311A0207,Jhansi Subramaniam,Female,EEE,A,9.7,9.21,0,PASS,"Power Systems, Electrical Design, PLC",5,3,Yes,Not Placed
+STU0908,22311A0208,Vivek Joshi,Male,EEE,B,7.74,8.17,0,PASS,"Python, PLC, AutoCAD, MATLAB",1,1,Yes,Not Placed
+STU0909,22311A0209,Deepak Agarwal,Male,EEE,A,8.74,8.26,0,PASS,"Power Systems, ETAP, Excel, AutoCAD, Python, Simulink",4,2,Yes,Placed
+STU0910,22311A0210,Meghana Chatterjee,Female,EEE,B,9.74,9.46,0,PASS,"MATLAB, Power Systems, SCADA",5,2,Yes,Placed
+STU0911,22311A0211,Lavanya Shukla,Female,EEE,A,8.75,8.74,0,PASS,"PLC, Power Systems",5,3,Yes,Placed
+STU0912,22311A0212,Pooja Kumar,Female,EEE,B,8.95,8.65,0,PASS,"SCADA, Circuit Design",3,2,Yes,Not Placed
+STU0913,22311A0213,Alekhya Sen,Female,EEE,A,9.23,9.31,0,PASS,"SCADA, Simulink, PLC, Circuit Design, MATLAB",4,1,Yes,Not Placed
+STU0914,22311A0214,Nandini Chatterjee,Female,EEE,B,6.02,6.11,0,PASS,"MATLAB, Python, PLC, Power Systems, ETAP",1,0,Yes,Not Placed
+STU0915,22311A0215,Divya Das,Female,EEE,A,9.37,10.0,0,PASS,"MATLAB, Circuit Design",4,2,Yes,Not Placed
+STU0916,22311A0216,Nandini Mohan,Female,EEE,B,9.48,9.27,0,PASS,"Excel, Power Systems, Electrical Design, PLC",4,3,Yes,Placed
+STU0917,22311A0217,Suresh Sekhar,Male,EEE,A,9.31,9.94,0,PASS,"PLC, Excel, Power Systems, AutoCAD, Circuit Design",5,3,Yes,Placed
+STU0918,22311A0218,Vikram Gupta,Male,EEE,B,9.14,9.73,0,PASS,"Circuit Design, Electrical Design",3,3,Yes,Placed
+STU0919,22311A0219,Pavani Chatterjee,Female,EEE,A,9.31,9.95,0,PASS,"ETAP, Electrical Design, Excel",6,1,Yes,Placed
+STU0920,22311A0220,Anjali Srinivas,Female,EEE,B,7.06,7.44,1,FAIL,"Python, Electrical Design, PLC, Simulink",1,0,Yes,Placed
+STU0921,22311A0221,Revanth Patel,Male,EEE,A,9.38,9.0,0,PASS,"Power Systems, AutoCAD, Python, Circuit Design, Excel",3,3,Yes,Placed
+STU0922,22311A0222,Vineeth Shetty,Male,EEE,B,6.58,6.44,0,PASS,"Power Systems, SCADA, C",0,0,Yes,Not Placed
+STU0923,22311A0223,Ishitha Rathod,Female,EEE,A,9.76,9.22,0,PASS,"MATLAB, PLC, Circuit Design, AutoCAD, C, Excel",3,1,Yes,Placed
+STU0924,22311A0224,Tarun Nair,Male,EEE,B,7.12,7.57,0,PASS,"MATLAB, C, SCADA, Excel, PLC, Python",1,2,Yes,Not Placed
+STU0925,22311A0225,Lokesh Subramaniam,Male,EEE,A,6.18,5.61,1,FAIL,"Circuit Design, MATLAB, ETAP",0,0,Yes,Not Placed
+STU0926,22311A0226,Sameera Babu,Female,EEE,B,9.02,9.49,0,PASS,"MATLAB, ETAP, SCADA, C, AutoCAD",2,1,Yes,Not Placed
+STU0927,22311A0227,Santhosh Mohan,Male,EEE,A,6.2,6.41,0,PASS,"SCADA, Electrical Design, PLC",1,1,Yes,Not Placed
+STU0928,22311A0228,Vineeth Natarajan,Male,EEE,B,6.8,7.05,0,PASS,"Python, SCADA, AutoCAD, Simulink",0,0,Yes,Not Placed
+STU0929,22311A0229,Naresh Shukla,Male,EEE,A,5.89,5.44,3,FAIL,"Electrical Design, Excel, Python",1,0,No,Not Placed
+STU0930,22311A0230,Yashwanth Kadam,Male,EEE,B,7.84,8.42,0,PASS,"Python, MATLAB",2,2,Yes,Placed
+STU0931,22311A0231,Santhosh Sen,Male,EEE,A,7.98,8.22,0,PASS,"Circuit Design, C, Excel, Python, Electrical Design",1,1,Yes,Not Placed
+STU0932,22311A0232,Arjun Chowdary,Male,EEE,B,9.38,9.58,0,PASS,"AutoCAD, MATLAB, Power Systems",3,3,Yes,Placed
+STU0933,22311A0233,Rekha Thakur,Female,EEE,A,7.66,8.32,0,PASS,"Circuit Design, Electrical Design, AutoCAD, MATLAB",4,0,Yes,Not Placed
+STU0934,22311A0234,Harika Sekhar,Female,EEE,B,9.02,9.21,0,PASS,"Simulink, PLC",3,1,Yes,Not Placed
+STU0935,22311A0235,Suraj Naidu,Male,EEE,A,4.65,4.7,1,FAIL,"Excel, MATLAB",1,1,No,Not Placed
+STU0936,22311A0236,Vineeth Chatterjee,Male,EEE,B,9.19,9.56,0,PASS,"ETAP, MATLAB",6,2,Yes,Placed
+STU0937,22311A0237,Goutham Mohan,Male,EEE,A,6.63,6.54,1,FAIL,"PLC, Power Systems, ETAP, C, Simulink, Circuit Design",1,0,Yes,Not Placed
+STU0938,22311A0238,Priyanka Thakur,Female,EEE,B,7.72,8.17,0,PASS,"SCADA, Power Systems, Simulink, AutoCAD, Python, C",3,2,Yes,Placed
+STU0939,22311A0239,Anand Dey,Male,EEE,A,5.54,5.65,2,FAIL,"Excel, Power Systems, C",1,1,No,Not Placed
+STU0940,22311A0240,Vamshi Babu,Male,EEE,B,9.82,10.0,0,PASS,"C, MATLAB, Simulink, AutoCAD, ETAP, PLC",6,3,Yes,Placed
+STU0941,22311A0241,Suresh Bhargav,Male,EEE,A,9.94,10.0,0,PASS,"Electrical Design, Excel, Power Systems, SCADA, AutoCAD",3,3,Yes,Placed
+STU0942,22311A0242,Praveen Srinivas,Male,EEE,B,9.5,10.0,0,PASS,"Electrical Design, SCADA, Python, Simulink",6,3,Yes,Not Placed
+STU0943,22311A0243,Namratha Srinivas,Female,EEE,A,4.05,3.62,2,FAIL,"AutoCAD, Python",0,0,No,Not Placed
+STU0944,22311A0244,Shiva Kumar,Male,EEE,B,6.81,6.81,0,PASS,"ETAP, Excel, Simulink, MATLAB, Circuit Design",2,0,Yes,Not Placed
+STU0945,22311A0245,Lasya Bose,Female,EEE,A,8.69,8.96,0,PASS,"ETAP, Circuit Design, MATLAB, SCADA",2,2,Yes,Not Placed
+STU0946,22311A0246,Harish Bose,Male,EEE,B,5.75,6.31,1,FAIL,"Circuit Design, SCADA",1,0,No,Not Placed
+STU0947,22311A0247,Ashwin Rathod,Male,EEE,A,8.41,7.82,0,PASS,"C, Circuit Design",1,1,Yes,Not Placed
+STU0948,22311A0248,Umesh Mishra,Male,EEE,B,9.12,9.24,0,PASS,"Circuit Design, Python, PLC",2,2,Yes,Placed
+STU0949,22311A0249,Akshay Krishnan,Male,EEE,A,7.22,6.97,0,PASS,"SCADA, MATLAB, Python",2,0,Yes,Not Placed
+STU0950,22311A0250,Waseem Sen,Male,EEE,B,9.1,8.69,0,PASS,"Excel, MATLAB, Circuit Design, Simulink, Power Systems, SCADA",5,1,Yes,Placed
+STU0951,22311A0251,Ajay Dey,Male,EEE,A,7.34,7.33,0,PASS,"ETAP, Power Systems, Circuit Design, SCADA",2,2,Yes,Not Placed
+STU0952,22311A0252,Mahesh Naidu,Male,EEE,B,10.0,9.92,0,PASS,"Circuit Design, AutoCAD, PLC, SCADA",2,3,Yes,Not Placed
+STU0953,22311A0253,Jhansi Yadav,Female,EEE,A,7.06,7.17,0,PASS,"ETAP, Python, Excel, C, MATLAB, PLC",2,0,Yes,Placed
+STU0954,22311A0254,Shravya Anjaiah,Female,EEE,B,8.39,8.68,0,PASS,"PLC, ETAP",2,2,Yes,Placed
+STU0955,22311A0255,Jyothi Gupta,Female,EEE,A,6.75,7.03,0,PASS,"Electrical Design, Python, SCADA, MATLAB",1,0,Yes,Not Placed
+STU0956,22311A0256,Priyanka Naidu,Female,EEE,B,7.17,7.74,0,PASS,"Circuit Design, Excel, C",4,1,Yes,Not Placed
+STU0957,22311A0257,Pradeep Sekhar,Male,EEE,A,9.03,8.52,0,PASS,"Simulink, PLC",2,2,Yes,Placed
+STU0958,22311A0258,Madhuri Kapoor,Female,EEE,B,7.75,8.0,1,FAIL,"C, Circuit Design, SCADA, Simulink, PLC",4,0,Yes,Not Placed
+STU0959,22311A0259,Hemanth Mandal,Male,EEE,A,6.9,6.68,0,PASS,"Electrical Design, Power Systems, ETAP, Simulink, C, PLC",2,0,Yes,Not Placed
+STU0960,22311A0260,Bhargavi Joshi,Female,EEE,B,8.61,9.11,0,PASS,"Electrical Design, ETAP, Power Systems, C",6,2,Yes,Placed
+STU0961,22311A0261,Sai Biswas,Female,EEE,A,9.21,9.72,0,PASS,"PLC, ETAP, Circuit Design, Power Systems",3,2,Yes,Placed
+STU0962,22311A0262,Vikram Malhotra,Male,EEE,B,6.11,5.86,3,FAIL,"SCADA, MATLAB, AutoCAD, Electrical Design, Python, C",0,1,No,Not Placed
+STU0963,22311A0263,Vignesh Roy,Male,EEE,A,7.14,7.91,0,PASS,"SCADA, Simulink, Power Systems, AutoCAD, PLC",2,0,Yes,Not Placed
+STU0964,22311A0264,Charan Goud,Male,EEE,B,9.78,10.0,0,PASS,"Electrical Design, MATLAB, Excel, ETAP, C",2,2,Yes,Placed
+STU0965,22311A0265,Vignesh Chandrasekhar,Male,EEE,A,9.27,9.44,0,PASS,"PLC, MATLAB, C",6,2,Yes,Placed
+STU0966,22311A0266,Rahul Mishra,Male,EEE,B,8.74,9.51,0,PASS,"Circuit Design, AutoCAD, ETAP, Electrical Design",5,1,Yes,Placed
+STU0967,22311A0267,Vidya Pillai,Female,EEE,A,6.5,6.84,0,PASS,"SCADA, Circuit Design, Electrical Design, Excel, AutoCAD, Simulink",0,1,Yes,Not Placed
+STU0968,22311A0268,Ritesh Dubey,Male,EEE,B,5.15,4.84,4,FAIL,"C, Power Systems, ETAP, MATLAB, Circuit Design",1,0,No,Not Placed
+STU0969,22311A0269,Santhosh Thakur,Male,EEE,A,6.34,6.7,0,PASS,"Electrical Design, Simulink, Power Systems, Excel, SCADA",0,1,Yes,Not Placed
+STU0970,22311A0270,Suraj Bose,Male,EEE,B,9.06,9.46,0,PASS,"SCADA, Excel",4,2,Yes,Placed
+STU0971,22311A0271,Goutham Agarwal,Male,EEE,A,6.88,6.6,0,PASS,"Circuit Design, PLC, ETAP, Electrical Design",2,0,Yes,Not Placed
+STU0972,22311A0272,Sai Rao,Male,EEE,B,8.92,8.45,0,PASS,"MATLAB, Python, AutoCAD, C, ETAP, Electrical Design",3,2,Yes,Placed
+STU0973,22311A0273,Rekha Bhuvanesh,Female,EEE,A,6.75,6.24,1,FAIL,"MATLAB, Excel, PLC, Python, Circuit Design, Electrical Design",2,0,Yes,Not Placed
+STU0974,22311A0274,Sai Singh,Male,EEE,B,6.32,5.97,0,PASS,"C, Power Systems, PLC, Excel, Simulink",0,0,Yes,Not Placed
+STU0975,22311A0275,Vikram Roy,Male,EEE,A,9.17,9.23,0,PASS,"Electrical Design, Excel, Power Systems",6,2,Yes,Placed
+STU0976,22311A0276,Balaji Nayak,Male,EEE,B,7.41,6.87,3,FAIL,"MATLAB, Python, Circuit Design",4,1,No,Not Placed
+STU0977,22311A0277,Roshan Shukla,Male,EEE,A,9.79,10.0,0,PASS,"Python, C, SCADA, PLC, Circuit Design",3,1,Yes,Placed
+STU0978,22311A0278,Varsha Thakur,Female,EEE,B,6.4,6.34,0,PASS,"Power Systems, Circuit Design",0,0,Yes,Not Placed
+STU0979,22311A0279,Nikhil Bansal,Male,EEE,A,9.3,9.04,0,PASS,"Electrical Design, Circuit Design",4,2,Yes,Placed
+STU0980,22311A0280,Chandra Thakur,Male,EEE,B,6.58,7.31,1,FAIL,"Python, Power Systems",0,0,Yes,Not Placed
+STU0981,22311A0281,Shashank Singh,Male,EEE,A,9.93,10.0,0,PASS,"AutoCAD, Power Systems, ETAP, Electrical Design, Python",6,1,Yes,Not Placed
+STU0982,22311A0282,Chaitanya Yadav,Female,EEE,B,7.26,7.54,0,PASS,"SCADA, Power Systems, Excel, Circuit Design, ETAP",3,0,Yes,Not Placed
+STU0983,22311A0283,Swathi Prasad,Female,EEE,A,7.27,7.6,0,PASS,"C, AutoCAD, PLC, SCADA, Power Systems, Circuit Design",4,1,Yes,Placed
+STU0984,22311A0284,Nikhil Yadav,Male,EEE,B,9.22,8.68,0,PASS,"PLC, Electrical Design",5,3,Yes,Placed
+STU0985,22311A0285,Meghana Patil,Female,EEE,A,8.99,8.62,0,PASS,"Python, Circuit Design",2,1,Yes,Placed
+STU0986,22311A0286,Rahul Sen,Male,EEE,B,9.73,9.65,0,PASS,"Python, Excel, C, ETAP, Power Systems",4,3,Yes,Not Placed
+STU0987,22311A0287,Bhargavi Biswas,Female,EEE,A,8.81,8.82,0,PASS,"Power Systems, C, Python, Circuit Design",5,1,Yes,Not Placed
+STU0988,22311A0288,Yashwanth Venkatarao,Male,EEE,B,5.72,6.22,2,FAIL,"Circuit Design, PLC, AutoCAD",1,0,No,Not Placed
+STU0989,22311A0289,Shiva Mehta,Male,EEE,A,7.43,8.16,0,PASS,"MATLAB, SCADA, ETAP, Excel",2,1,Yes,Not Placed
+STU0990,22311A0290,Nithish Thakur,Male,EEE,B,9.96,10.0,0,PASS,"SCADA, Electrical Design, Python, ETAP, PLC",4,1,Yes,Placed
+STU0991,22311A0291,Xitij Dubey,Male,EEE,A,5.58,6.01,0,PASS,"Circuit Design, AutoCAD, PLC, MATLAB, C",0,0,No,Not Placed
+STU0992,22311A0292,Padmaja Kadam,Female,EEE,B,9.09,8.72,0,PASS,"Power Systems, AutoCAD, MATLAB, ETAP",2,3,Yes,Placed
+STU0993,22311A0293,Jhansi Pillai,Female,EEE,A,9.29,9.86,0,PASS,"Excel, Python",3,1,Yes,Not Placed
+STU0994,22311A0294,Venkat Shetty,Male,EEE,B,7.41,7.77,0,PASS,"ETAP, PLC, Circuit Design, Excel",3,2,Yes,Not Placed
+STU0995,22311A0295,Sreshta Shukla,Female,EEE,A,9.67,9.36,0,PASS,"PLC, Simulink, MATLAB, AutoCAD, Excel",6,1,Yes,Placed
+STU0996,22311A0296,Sahithi Murthy,Female,EEE,B,6.27,6.63,1,FAIL,"SCADA, Simulink, AutoCAD, C, Python",2,0,Yes,Not Placed
+STU0997,22311A0297,Ashwin Kadam,Male,EEE,A,6.55,7.14,0,PASS,"Circuit Design, Simulink, SCADA",1,1,Yes,Not Placed
+STU0998,22311A0298,Surya Shah,Male,EEE,B,9.18,9.8,0,PASS,"Python, SCADA, AutoCAD",5,2,Yes,Not Placed
+STU0999,22311A0299,Tanuja Babu,Female,EEE,A,9.72,9.71,0,PASS,"ETAP, Power Systems",4,3,Yes,Not Placed
+STU1000,22311A02100,Akanksha Raju,Female,EEE,B,8.33,8.65,0,PASS,"Python, C, SCADA, ETAP, Electrical Design, Circuit Design",1,1,Yes,Placed
+STU1001,22311A02101,Sandeep Raghunath,Male,EEE,A,7.0,6.97,0,PASS,"Circuit Design, SCADA",4,2,Yes,Placed
+STU1002,22311A02102,Suresh Saidulu,Male,EEE,B,7.84,8.43,0,PASS,"Python, SCADA, Simulink, MATLAB, Electrical Design, C",2,2,Yes,Not Placed
+STU1003,22311A02103,Pavan Reddy,Male,EEE,A,9.81,9.98,0,PASS,"MATLAB, C, Python, Simulink, Circuit Design",6,1,Yes,Not Placed
+STU1004,22311A02104,Sandeep Chandrasekhar,Male,EEE,B,9.73,9.38,0,PASS,"MATLAB, ETAP, SCADA",2,2,Yes,Placed
+STU1005,22311A02105,Eshwar Sharma,Male,EEE,A,8.29,8.05,0,PASS,"Electrical Design, PLC, Power Systems, AutoCAD, Python",3,2,Yes,Not Placed
+STU1006,22311A02106,Dinesh Singh,Male,EEE,B,8.24,8.73,0,PASS,"PLC, AutoCAD, Circuit Design, Power Systems",1,1,Yes,Placed
+STU1007,22311A02107,Qasim Kapoor,Male,EEE,A,9.36,8.89,0,PASS,"SCADA, Electrical Design, C",4,3,Yes,Placed
+STU1008,22311A02108,Vasudha Nair,Female,EEE,B,5.84,5.97,1,FAIL,"Circuit Design, ETAP, Power Systems",0,1,No,Not Placed
+STU1009,22311A02109,Shashank Raju,Male,EEE,A,6.75,7.02,0,PASS,"Simulink, AutoCAD, Electrical Design, Circuit Design, C, Excel",0,0,Yes,Not Placed
+STU1010,22311A02110,Ashwin Bansal,Male,EEE,B,7.5,7.42,0,PASS,"Power Systems, Circuit Design",1,0,Yes,Not Placed
+STU1011,22311A02111,Swathi Krishnan,Female,EEE,A,9.76,9.33,0,PASS,"ETAP, Power Systems",3,2,Yes,Placed
+STU1012,22311A02112,Akshay Raghunath,Male,EEE,B,4.16,4.87,4,FAIL,"Simulink, Python, SCADA",2,0,No,Not Placed
+STU1013,22311A02113,Ganesh Das,Male,EEE,A,9.03,8.83,0,PASS,"Simulink, AutoCAD, PLC",6,3,Yes,Placed
+STU1014,22311A02114,Karthik Kadam,Male,EEE,B,9.12,9.33,0,PASS,"AutoCAD, Electrical Design, MATLAB, Python, C, SCADA",6,3,Yes,Not Placed
+STU1015,22311A02115,Girish Paul,Male,EEE,A,9.66,9.2,0,PASS,"MATLAB, Python, SCADA, AutoCAD, Power Systems",4,3,Yes,Placed
+STU1016,22311A02116,Apoorva Iyer,Female,EEE,B,7.22,7.28,0,PASS,"AutoCAD, Python, PLC, C, Electrical Design, MATLAB",3,0,Yes,Placed
+STU1017,22311A02117,Umesh Raju,Male,EEE,A,5.72,6.11,0,PASS,"Electrical Design, SCADA, MATLAB, C, Python, Circuit Design",1,1,No,Not Placed
+STU1018,22311A02118,Trisha Sekhar,Female,EEE,B,8.53,8.41,0,PASS,"Excel, SCADA, Simulink, Python, C",3,3,Yes,Placed
+STU1019,22311A02119,Mahesh Mehta,Male,EEE,A,6.67,6.9,0,PASS,"Excel, PLC, Simulink",0,0,Yes,Not Placed
+STU1020,22311A02120,Ananya Mohan,Female,EEE,B,9.13,8.84,0,PASS,"Excel, MATLAB",3,3,Yes,Placed
+STU1021,22311A0301,Tej Raju,Male,Mechanical,A,7.47,7.04,0,PASS,"3D Printing, GD&T, Excel, MATLAB, C",2,2,Yes,Not Placed
+STU1022,22311A0302,Pratyusha Waghmare,Female,Mechanical,B,8.49,8.27,0,PASS,"3D Printing, C",2,0,Yes,Not Placed
+STU1023,22311A0303,Deepak Malhotra,Male,Mechanical,A,6.93,6.73,0,PASS,"C, Excel",0,0,Yes,Not Placed
+STU1024,22311A0304,Kavya Bansal,Female,Mechanical,B,9.27,9.34,0,PASS,"CATIA, AutoCAD, ANSYS, C, 3D Printing",3,3,Yes,Placed
+STU1025,22311A0305,Nikhil Krishnan,Male,Mechanical,A,6.65,7.26,0,PASS,"FEA, 3D Printing, AutoCAD, SolidWorks",1,1,Yes,Placed
+STU1026,22311A0306,Manasa Venkatarao,Female,Mechanical,B,9.61,10.0,0,PASS,"CATIA, GD&T, C, Excel, AutoCAD, SolidWorks",2,2,Yes,Placed
+STU1027,22311A0307,Sandeep Mehta,Male,Mechanical,A,5.69,5.24,0,PASS,"MATLAB, FEA, Python, ANSYS, 3D Printing",1,1,No,Not Placed
+STU1028,22311A0308,Nitin Iyer,Male,Mechanical,B,9.86,9.76,0,PASS,"Excel, Manufacturing, C",3,2,Yes,Placed
+STU1029,22311A0309,Akhil Singh,Male,Mechanical,A,7.8,7.49,0,PASS,"SolidWorks, GD&T",4,1,Yes,Not Placed
+STU1030,22311A0310,Kalyani Anjaiah,Female,Mechanical,B,5.51,5.73,0,PASS,"GD&T, Python, C, ANSYS",0,1,No,Not Placed
+STU1031,22311A0311,Harish Venkatarao,Male,Mechanical,A,9.04,9.4,0,PASS,"CATIA, GD&T, AutoCAD, C, ANSYS, 3D Printing",5,2,Yes,Placed
+STU1032,22311A0312,Sravani Mohan,Female,Mechanical,B,7.02,6.92,0,PASS,"AutoCAD, SolidWorks, Python",1,1,Yes,Not Placed
+STU1033,22311A0313,Namratha Shetty,Female,Mechanical,A,5.68,6.24,0,PASS,"C, AutoCAD, FEA, ANSYS",1,0,No,Not Placed
+STU1034,22311A0314,Santhosh Kadam,Male,Mechanical,B,7.53,7.15,0,PASS,"C, 3D Printing, AutoCAD",2,1,Yes,Not Placed
+STU1035,22311A0315,Revanth Raju,Male,Mechanical,A,5.57,5.55,0,PASS,"MATLAB, Excel, GD&T",2,0,No,Not Placed
+STU1036,22311A0316,Xitij Bhargav,Male,Mechanical,B,6.5,6.65,0,PASS,"3D Printing, CATIA, Python, C, MATLAB",0,0,Yes,Not Placed
+STU1037,22311A0317,Akhil Venkatesh,Male,Mechanical,A,9.87,9.43,0,PASS,"AutoCAD, ANSYS, Excel",2,3,Yes,Placed
+STU1038,22311A0318,Waseem Babu,Male,Mechanical,B,6.38,6.9,0,PASS,"Excel, Python",1,0,Yes,Not Placed
+STU1039,22311A0319,Girish Jangam,Male,Mechanical,A,5.76,5.93,2,FAIL,"3D Printing, C",2,0,No,Not Placed
+STU1040,22311A0320,Srikanth Nair,Male,Mechanical,B,7.58,7.75,0,PASS,"C, CATIA, MATLAB, Manufacturing",1,0,Yes,Placed
+STU1041,22311A0321,Alekhya Naidu,Female,Mechanical,A,6.75,7.19,0,PASS,"SolidWorks, ANSYS",0,1,Yes,Not Placed
+STU1042,22311A0322,Qasim Thakur,Male,Mechanical,B,8.15,8.04,0,PASS,"Excel, GD&T",3,1,Yes,Not Placed
+STU1043,22311A0323,Bhavana Dey,Female,Mechanical,A,9.49,10.0,0,PASS,"CATIA, FEA",4,3,Yes,Placed
+STU1044,22311A0324,Bharath Saidulu,Male,Mechanical,B,5.93,5.37,1,FAIL,"GD&T, MATLAB",2,0,No,Not Placed
+STU1045,22311A0325,Harish Kadam,Male,Mechanical,A,7.07,6.64,0,PASS,"Excel, ANSYS, Manufacturing, Python",1,1,Yes,Not Placed
+STU1046,22311A0326,Vamshi Dubey,Male,Mechanical,B,7.2,7.17,0,PASS,"Python, Excel, C, Manufacturing, AutoCAD, 3D Printing",2,0,Yes,Not Placed
+STU1047,22311A0327,Meghana Chowdary,Female,Mechanical,A,7.29,7.94,2,FAIL,"MATLAB, GD&T",3,2,Yes,Placed
+STU1048,22311A0328,Sandeep Bose,Male,Mechanical,B,9.76,9.9,0,PASS,"3D Printing, MATLAB",3,1,Yes,Placed
+STU1049,22311A0329,Nikhil Shukla,Male,Mechanical,A,7.36,7.7,0,PASS,"MATLAB, CATIA, AutoCAD, ANSYS, 3D Printing",2,1,Yes,Not Placed
+STU1050,22311A0330,Pranav Agarwal,Male,Mechanical,B,8.87,9.42,0,PASS,"GD&T, 3D Printing, CATIA, Manufacturing",4,2,Yes,Placed
+STU1051,22311A0331,Bharath Devi,Male,Mechanical,A,9.68,9.49,0,PASS,"GD&T, SolidWorks",5,2,Yes,Placed
+STU1052,22311A0332,Lavanya Bhuvanesh,Female,Mechanical,B,9.92,9.35,0,PASS,"FEA, SolidWorks, Manufacturing",3,3,Yes,Placed
+STU1053,22311A0333,Omkar Nayak,Male,Mechanical,A,8.61,8.99,0,PASS,"AutoCAD, MATLAB, FEA, GD&T",3,1,Yes,Placed
+STU1054,22311A0334,Santhosh Waghmare,Male,Mechanical,B,9.12,9.54,0,PASS,"SolidWorks, FEA, GD&T",6,2,Yes,Placed
+STU1055,22311A0335,Mahesh Dey,Male,Mechanical,A,5.46,5.2,1,FAIL,"C, ANSYS, CATIA",0,0,No,Not Placed
+STU1056,22311A0336,Tanuja Joshi,Female,Mechanical,B,9.61,9.72,0,PASS,"3D Printing, SolidWorks, C, Excel",5,3,Yes,Placed
+STU1057,22311A0337,Pranav Kumar,Male,Mechanical,A,4.28,4.83,6,FAIL,"Python, SolidWorks",0,0,No,Not Placed
+STU1058,22311A0338,Yashas Das,Male,Mechanical,B,7.21,7.59,0,PASS,"Python, SolidWorks, 3D Printing, AutoCAD",2,1,Yes,Not Placed
+STU1059,22311A0339,Dileep Babu,Male,Mechanical,A,6.1,6.63,2,FAIL,"MATLAB, SolidWorks, Excel, FEA, ANSYS, GD&T",0,0,Yes,Not Placed
+STU1060,22311A0340,Xitij Babu,Male,Mechanical,B,7.58,8.3,0,PASS,"CATIA, SolidWorks, ANSYS, C, MATLAB, FEA",3,1,Yes,Not Placed
+STU1061,22311A0341,Ananya Raghunath,Female,Mechanical,A,8.37,7.8,0,PASS,"C, 3D Printing, GD&T",4,2,Yes,Placed
+STU1062,22311A0342,Omkar Iyer,Male,Mechanical,B,6.28,5.71,0,PASS,"AutoCAD, Excel, ANSYS",0,0,Yes,Not Placed
+STU1063,22311A0343,Arjun Mishra,Male,Mechanical,A,7.62,7.16,0,PASS,"MATLAB, Manufacturing, GD&T",1,2,Yes,Placed
+STU1064,22311A0344,Ravi Agarwal,Male,Mechanical,B,9.56,10.0,0,PASS,"ANSYS, Excel, MATLAB, Python, AutoCAD, C",3,2,Yes,Placed
+STU1065,22311A0345,Aditya Das,Male,Mechanical,A,6.86,7.47,2,FAIL,"CATIA, 3D Printing, AutoCAD, ANSYS, Excel, Manufacturing",0,1,Yes,Not Placed
+STU1066,22311A0346,Ankita Thakur,Female,Mechanical,B,8.37,8.56,0,PASS,"MATLAB, Python, CATIA, AutoCAD",4,2,Yes,Placed
+STU1067,22311A0347,Rahul Shukla,Male,Mechanical,A,9.77,9.97,0,PASS,"GD&T, MATLAB, Excel, C, SolidWorks",6,2,Yes,Placed
+STU1068,22311A0348,Lavanya Kadam,Female,Mechanical,B,8.57,8.38,0,PASS,"MATLAB, Python, GD&T, ANSYS, CATIA, SolidWorks",2,1,Yes,Not Placed
+STU1069,22311A0349,Srikanth Raghunath,Male,Mechanical,A,7.35,8.09,0,PASS,"FEA, AutoCAD, Excel, C, CATIA, ANSYS",1,1,Yes,Not Placed
+STU1070,22311A0350,Arjun Chopra,Male,Mechanical,B,9.23,9.48,0,PASS,"GD&T, FEA, Python, Manufacturing",3,3,Yes,Not Placed
+STU1071,22311A0351,Usha Sharma,Female,Mechanical,A,9.96,10.0,0,PASS,"CATIA, Python",6,2,Yes,Placed
+STU1072,22311A0352,Trisha Yadav,Female,Mechanical,B,8.66,8.19,0,PASS,"3D Printing, Python, FEA, Manufacturing, GD&T, Excel",2,1,Yes,Placed
+STU1073,22311A0353,Shravya Shah,Female,Mechanical,A,9.81,9.65,0,PASS,"SolidWorks, MATLAB, ANSYS, GD&T",5,3,Yes,Not Placed
+STU1074,22311A0354,Vaishnavi Jagadeesh,Female,Mechanical,B,9.83,9.46,0,PASS,"AutoCAD, FEA, Excel",5,3,Yes,Placed
+STU1075,22311A0355,Ritesh Gupta,Male,Mechanical,A,6.48,6.42,0,PASS,"GD&T, ANSYS",1,0,Yes,Not Placed
+STU1076,22311A0356,Arjun Chowdary,Male,Mechanical,B,7.47,6.98,0,PASS,"FEA, Manufacturing",1,1,Yes,Not Placed
+STU1077,22311A0357,Omkar Venkatesh,Male,Mechanical,A,9.05,8.97,0,PASS,"MATLAB, AutoCAD, C, Python",5,3,Yes,Not Placed
+STU1078,22311A0358,Haritha Varma,Female,Mechanical,B,7.1,7.71,0,PASS,"CATIA, Manufacturing, AutoCAD, Excel, SolidWorks, GD&T",4,1,Yes,Placed
+STU1079,22311A0359,Ritesh Chowdary,Male,Mechanical,A,8.78,8.21,0,PASS,"GD&T, Excel, MATLAB, SolidWorks, ANSYS, FEA",3,2,Yes,Not Placed
+STU1080,22311A0360,Divya Saidulu,Female,Mechanical,B,7.87,7.83,0,PASS,"C, AutoCAD",2,2,Yes,Not Placed
+STU1081,22311A0361,Rahul Raju,Male,Mechanical,A,5.88,5.59,0,PASS,"GD&T, Manufacturing, CATIA, C, Excel, MATLAB",1,0,No,Not Placed
+STU1082,22311A0362,Kalyani Bansal,Female,Mechanical,B,6.9,6.37,2,FAIL,"Manufacturing, AutoCAD, CATIA, 3D Printing, MATLAB, C",0,1,Yes,Not Placed
+STU1083,22311A0363,Vineeth Chowdary,Male,Mechanical,A,6.65,6.71,0,PASS,"C, FEA, Excel",0,0,Yes,Not Placed
+STU1084,22311A0364,Haritha Nair,Female,Mechanical,B,9.1,8.77,0,PASS,"3D Printing, CATIA, Python, Excel, Manufacturing, C",5,3,Yes,Placed
+STU1085,22311A0365,Abhishek Mohan,Male,Mechanical,A,7.73,7.47,0,PASS,"CATIA, Excel, Manufacturing, 3D Printing, AutoCAD, FEA",2,1,Yes,Placed
+STU1086,22311A0366,Akhil Sen,Male,Mechanical,B,9.68,10.0,0,PASS,"C, AutoCAD, 3D Printing, FEA, ANSYS",5,3,Yes,Placed
+STU1087,22311A0367,Nikhil Kumar,Male,Mechanical,A,6.04,5.56,2,FAIL,"ANSYS, GD&T, Manufacturing",0,0,Yes,Not Placed
+STU1088,22311A0368,Harsha Kumar,Male,Mechanical,B,6.66,6.43,0,PASS,"Excel, GD&T",1,0,Yes,Not Placed
+STU1089,22311A0369,Naveen Rathod,Male,Mechanical,A,9.56,9.71,0,PASS,"ANSYS, 3D Printing, Python, Excel",4,3,Yes,Placed
+STU1090,22311A0370,Pradeep Murthy,Male,Mechanical,B,5.83,5.28,1,FAIL,"GD&T, Excel, 3D Printing",2,0,No,Not Placed
+STU1091,22311A0371,Madhav Raghunath,Male,Mechanical,A,9.61,9.78,0,PASS,"GD&T, SolidWorks",4,2,Yes,Placed
+STU1092,22311A0372,Roshan Ghosh,Male,Mechanical,B,9.44,9.34,0,PASS,"ANSYS, Excel, 3D Printing",5,2,Yes,Placed
+STU1093,22311A0373,Roshan Devi,Male,Mechanical,A,4.92,4.7,4,FAIL,"SolidWorks, GD&T, C, Python, Excel, ANSYS",1,1,No,Not Placed
+STU1094,22311A0374,Shashank Ghosh,Male,Mechanical,B,8.52,8.19,0,PASS,"GD&T, Excel",4,3,Yes,Placed
+STU1095,22311A0375,Shiva Devi,Male,Mechanical,A,7.54,8.18,0,PASS,"3D Printing, FEA, Python, Manufacturing",4,1,Yes,Placed
+STU1096,22311A0376,Deepthi Pillai,Female,Mechanical,B,9.37,9.12,0,PASS,"3D Printing, C, Python, FEA, ANSYS, SolidWorks",4,3,Yes,Placed
+STU1097,22311A0377,Yamini Ramaiah,Female,Mechanical,A,6.03,6.24,0,PASS,"ANSYS, FEA, Excel, SolidWorks, Manufacturing",0,0,Yes,Not Placed
+STU1098,22311A0378,Surya Devi,Male,Mechanical,B,9.91,9.79,0,PASS,"Python, CATIA, 3D Printing",6,1,Yes,Not Placed
+STU1099,22311A0379,Srikanth Jangam,Male,Mechanical,A,6.84,7.63,0,PASS,"FEA, 3D Printing, Manufacturing, Python, AutoCAD, Excel",0,0,Yes,Not Placed
+STU1100,22311A0380,Teja Rathod,Male,Mechanical,B,4.48,4.56,4,FAIL,"ANSYS, AutoCAD, FEA, MATLAB",1,0,No,Not Placed
+STU1101,22311A0381,Naresh Singh,Male,Mechanical,A,5.98,6.06,0,PASS,"FEA, Manufacturing, Python, ANSYS, MATLAB, 3D Printing",0,1,No,Not Placed
+STU1102,22311A0382,Mounika Nair,Female,Mechanical,B,6.99,6.54,0,PASS,"Python, ANSYS, 3D Printing, C",1,1,Yes,Placed
+STU1103,22311A0383,Meghana Shah,Female,Mechanical,A,7.43,8.16,0,PASS,"MATLAB, SolidWorks",1,1,Yes,Not Placed
+STU1104,22311A0384,Pratyusha Das,Female,Mechanical,B,6.09,6.15,0,PASS,"C, AutoCAD, MATLAB",0,0,Yes,Not Placed
+STU1105,22311A0385,Teja Pawar,Male,Mechanical,A,9.91,10.0,0,PASS,"AutoCAD, Manufacturing, Python, Excel, 3D Printing",5,3,Yes,Placed
+STU1106,22311A0386,Yashwanth Pillai,Male,Mechanical,B,9.89,9.68,0,PASS,"FEA, Python, 3D Printing, Manufacturing",4,3,Yes,Placed
+STU1107,22311A0387,Vineeth Nayak,Male,Mechanical,A,8.08,8.45,2,FAIL,"CATIA, AutoCAD",1,0,Yes,Not Placed
+STU1108,22311A0388,Ajay Mohan,Male,Mechanical,B,6.85,7.15,1,FAIL,"Manufacturing, FEA",0,0,Yes,Not Placed
+STU1109,22311A0389,Ananya Biswas,Female,Mechanical,A,8.1,7.92,0,PASS,"Python, 3D Printing, GD&T, C, CATIA, ANSYS",2,1,Yes,Not Placed
+STU1110,22311A0390,Abhishek Raghunath,Male,Mechanical,B,5.51,5.42,1,FAIL,"Manufacturing, MATLAB, ANSYS",2,0,No,Not Placed
+STU1111,22311A0101,Roshan Raju,Male,Civil,A,6.8,6.4,1,FAIL,"QGIS, GIS",1,0,Yes,Not Placed
+STU1112,22311A0102,Harish Biswas,Male,Civil,A,7.58,7.63,0,PASS,"Primavera, Excel, Survey",1,1,Yes,Placed
+STU1113,22311A0103,Ishitha Pawar,Female,Civil,A,9.63,9.71,0,PASS,"STAAD Pro, SAP2000, AutoCAD, MS Project, Tekla",6,1,Yes,Not Placed
+STU1114,22311A0104,Balaji Dubey,Male,Civil,A,9.55,9.2,0,PASS,"Revit, QGIS, Primavera, STAAD Pro, Tekla",5,3,Yes,Not Placed
+STU1115,22311A0105,Sahithi Anjaiah,Female,Civil,A,9.93,9.79,0,PASS,"STAAD Pro, SAP2000, QGIS",6,1,Yes,Placed
+STU1116,22311A0106,Rahul Iyer,Male,Civil,A,9.64,9.37,0,PASS,"STAAD Pro, ETABS, Tekla, MS Project, Survey, Primavera",3,3,Yes,Not Placed
+STU1117,22311A0107,Roshan Lakshmi,Male,Civil,A,6.68,7.09,0,PASS,"ETABS, STAAD Pro, Excel, GIS, Tekla",2,0,Yes,Not Placed
+STU1118,22311A0108,Lasya Sen,Female,Civil,A,7.17,7.72,1,FAIL,"AutoCAD, STAAD Pro, SAP2000, QGIS, Primavera",1,0,Yes,Not Placed
+STU1119,22311A0109,Ankita Kapoor,Female,Civil,A,8.71,9.25,0,PASS,"SAP2000, Survey, QGIS",3,1,Yes,Not Placed
+STU1120,22311A0110,Meghana Iyer,Female,Civil,A,9.05,8.71,0,PASS,"AutoCAD, GIS",6,2,Yes,Placed
+STU1121,22311A0111,Chandra Biswas,Male,Civil,A,7.53,7.9,0,PASS,"QGIS, Survey, MS Project, STAAD Pro",2,1,Yes,Not Placed
+STU1122,22311A0112,Deepak Goud,Male,Civil,A,7.88,8.18,0,PASS,"MS Project, Revit, Primavera, QGIS, Tekla, Excel",2,2,Yes,Placed
+STU1123,22311A0113,Vamshi Nair,Male,Civil,A,4.22,4.43,4,FAIL,"Tekla, MS Project, AutoCAD, Revit, GIS, Survey",0,0,No,Not Placed
+STU1124,22311A0114,Rohit Varma,Male,Civil,A,7.12,7.18,0,PASS,"Primavera, Revit, SAP2000, QGIS, STAAD Pro, ETABS",1,1,Yes,Not Placed
+STU1125,22311A0115,Lokesh Lakshmi,Male,Civil,A,9.41,9.86,0,PASS,"AutoCAD, Revit, SAP2000",2,1,Yes,Not Placed
+STU1126,22311A0116,Priyanka Raju,Female,Civil,A,7.58,7.61,0,PASS,"Primavera, ETABS, QGIS, SAP2000, AutoCAD, STAAD Pro",2,1,Yes,Not Placed
+STU1127,22311A0117,Tejaswini Kumar,Female,Civil,A,9.78,9.33,0,PASS,"STAAD Pro, Revit, QGIS, GIS",2,3,Yes,Placed
+STU1128,22311A0118,Pranav Babu,Male,Civil,A,9.13,9.36,0,PASS,"STAAD Pro, AutoCAD, SAP2000, ETABS, MS Project",4,3,Yes,Not Placed
+STU1129,22311A0119,Dinesh Reddy,Male,Civil,A,9.13,9.5,0,PASS,"AutoCAD, Revit, ETABS, Primavera, QGIS",3,2,Yes,Not Placed
+STU1130,22311A0120,Pavani Paul,Female,Civil,A,7.89,7.59,0,PASS,"Tekla, STAAD Pro",1,0,Yes,Not Placed
+STU1131,22311A0121,Charan Shah,Male,Civil,A,9.28,8.91,0,PASS,"AutoCAD, Primavera, Revit, Excel, Survey, QGIS",6,1,Yes,Not Placed
+STU1132,22311A0122,Manoj Murthy,Male,Civil,A,8.32,9.05,0,PASS,"ETABS, GIS",1,0,Yes,Not Placed
+STU1133,22311A0123,Vidya Kadam,Female,Civil,A,9.64,9.56,0,PASS,"SAP2000, Revit, MS Project, Primavera",6,3,Yes,Not Placed
+STU1134,22311A0124,Dileep Thakur,Male,Civil,A,9.84,9.43,0,PASS,"Primavera, Excel, AutoCAD, Revit",2,3,Yes,Placed
+STU1135,22311A0125,Deepthi Roy,Female,Civil,A,9.41,9.13,0,PASS,"Excel, GIS, Revit, Primavera, STAAD Pro",5,3,Yes,Placed
+STU1136,22311A0126,Akanksha Biswas,Female,Civil,A,6.66,6.89,1,FAIL,"MS Project, AutoCAD",0,0,Yes,Not Placed
+STU1137,22311A0127,Sahithi Raju,Female,Civil,A,6.62,6.09,1,FAIL,"Survey, GIS, Primavera, QGIS",0,0,Yes,Not Placed
+STU1138,22311A0128,Jhansi Naidu,Female,Civil,A,4.65,4.54,5,FAIL,"Primavera, Excel, QGIS, GIS",0,0,No,Not Placed
+STU1139,22311A0129,Nithish Venkatesh,Male,Civil,A,9.16,9.69,0,PASS,"GIS, Excel, QGIS, SAP2000, STAAD Pro",2,2,Yes,Placed
+STU1140,22311A0130,Pranav Sekhar,Male,Civil,A,8.98,8.94,0,PASS,"Revit, GIS, MS Project, AutoCAD, Tekla",2,1,Yes,Placed
+STU1141,22311A0131,Goutham Kapoor,Male,Civil,A,7.48,7.7,0,PASS,"Revit, SAP2000, GIS, AutoCAD, MS Project, Tekla",1,0,Yes,Not Placed
+STU1142,22311A0132,Lasya Ghosh,Female,Civil,A,4.88,5.19,3,FAIL,"Excel, SAP2000, Survey, Primavera, ETABS",1,0,No,Not Placed
+STU1143,22311A0133,Mahesh Mehta,Male,Civil,A,7.12,7.05,0,PASS,"Primavera, GIS, AutoCAD",4,1,Yes,Placed
+STU1144,22311A0134,Kavya Nayak,Female,Civil,A,7.53,7.65,0,PASS,"SAP2000, Tekla, Revit, Primavera",1,0,Yes,Not Placed
+STU1145,22311A0135,Venkat Pillai,Male,Civil,A,8.21,7.68,0,PASS,"STAAD Pro, Revit, QGIS, Excel, AutoCAD, Survey",2,1,Yes,Not Placed
+STU1146,22311A0136,Venkat Iyer,Male,Civil,A,9.08,9.0,0,PASS,"SAP2000, Survey, Tekla, QGIS, Primavera, Revit",2,1,Yes,Not Placed
+STU1147,22311A0137,Akhil Mandal,Male,Civil,A,7.49,6.93,1,FAIL,"Survey, Excel",3,0,Yes,Placed
+STU1148,22311A0138,Jyothi Prasad,Female,Civil,A,7.27,7.97,0,PASS,"Survey, MS Project, Primavera, AutoCAD, STAAD Pro",1,2,Yes,Not Placed
+STU1149,22311A0139,Ananya Mehta,Female,Civil,A,7.76,8.34,0,PASS,"GIS, SAP2000",4,0,Yes,Placed
+STU1150,22311A0140,Girish Shetty,Male,Civil,A,9.17,9.51,0,PASS,"Survey, STAAD Pro, Primavera, Excel, SAP2000, MS Project",2,2,Yes,Placed
+STU1151,22311A0141,Pavani Mohan,Female,Civil,A,9.42,9.32,0,PASS,"Primavera, Survey",3,1,Yes,Not Placed
+STU1152,22311A0142,Sandeep Das,Male,Civil,A,7.9,8.11,0,PASS,"STAAD Pro, GIS, AutoCAD, Excel, QGIS",4,1,Yes,Not Placed
+STU1153,22311A0143,Lasya Shah,Female,Civil,A,4.68,4.52,1,FAIL,"STAAD Pro, Survey",0,0,No,Not Placed
+STU1154,22311A0144,Pavani Ramaiah,Female,Civil,A,8.5,8.7,0,PASS,"GIS, Survey, Excel",6,3,Yes,Placed
+STU1155,22311A0145,Bharath Agarwal,Male,Civil,A,9.75,9.77,0,PASS,"Revit, Excel, AutoCAD, Tekla, Survey, STAAD Pro",2,1,Yes,Placed
+STU1156,22311A0146,Lokesh Ramaiah,Male,Civil,A,10.0,10.0,0,PASS,"Revit, ETABS, QGIS, Primavera, Excel",2,2,Yes,Not Placed
+STU1157,22311A0147,Keerthi Goud,Female,Civil,A,9.78,10.0,0,PASS,"MS Project, GIS, QGIS",5,1,Yes,Not Placed
+STU1158,22311A0148,Vidya Iyer,Female,Civil,A,9.27,9.77,0,PASS,"Excel, Revit, Primavera, SAP2000, QGIS",6,1,Yes,Not Placed
+STU1159,22311A0149,Yashas Mandal,Male,Civil,A,7.31,7.98,0,PASS,"Primavera, Survey, STAAD Pro, Revit, GIS",1,1,Yes,Not Placed
+STU1160,22311A0150,Krishna Das,Male,Civil,A,9.95,10.0,0,PASS,"QGIS, Survey, SAP2000, ETABS, Excel, MS Project",6,3,Yes,Not Placed
+STU1161,22311A0151,Madhav Dubey,Male,Civil,A,9.59,10.0,0,PASS,"Revit, Tekla",6,1,Yes,Not Placed
+STU1162,22311A0152,Ravi Varma,Male,Civil,A,8.93,9.57,0,PASS,"MS Project, Revit",2,2,Yes,Not Placed
+STU1163,22311A0153,Bhargavi Varma,Female,Civil,A,9.39,9.38,0,PASS,"Excel, QGIS, STAAD Pro",2,3,Yes,Not Placed
+STU1164,22311A0154,Surya Thakur,Male,Civil,A,6.54,6.86,0,PASS,"GIS, Survey, SAP2000",0,0,Yes,Not Placed
+STU1165,22311A0155,Suraj Bhuvanesh,Male,Civil,A,9.5,8.97,0,PASS,"GIS, STAAD Pro, AutoCAD, Tekla, MS Project",5,2,Yes,Not Placed
+STU1166,22311A0156,Abhishek Jangam,Male,Civil,A,5.95,6.68,2,FAIL,"ETABS, Survey, SAP2000",0,0,No,Not Placed
+STU1167,22311A0157,Ajay Subramaniam,Male,Civil,A,9.18,9.17,0,PASS,"AutoCAD, Revit, Excel, MS Project",6,3,Yes,Placed
+STU1168,22311A0158,Anjali Kumar,Female,Civil,A,6.78,6.42,0,PASS,"Excel, Primavera, QGIS, GIS, Tekla",0,0,Yes,Not Placed
+STU1169,22311A0159,Alekhya Raju,Female,Civil,A,8.91,9.5,0,PASS,"Survey, Tekla, Excel, AutoCAD",2,3,Yes,Not Placed
+STU1170,22311A0160,Shravya Biswas,Female,Civil,A,9.2,8.71,0,PASS,"SAP2000, MS Project, Primavera, AutoCAD, GIS, ETABS",3,3,Yes,Placed

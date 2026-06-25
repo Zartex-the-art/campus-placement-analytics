@@ -1,0 +1,81 @@
+Company_ID,Company_Name,Industry,Role,CTC_LPA,Base_LPA,Location,Work_Mode,Tier
+COM001,Microsoft,IT,Software Engineer,28,22,Hyderabad,Hybrid,Premium
+COM002,Google,IT,SDE,42,35,Hyderabad,Hybrid,Premium
+COM003,Amazon,IT,SDE,32,26,Hyderabad,Hybrid,Premium
+COM004,Salesforce,IT,Software Developer,26,20,Hyderabad,Hybrid,Premium
+COM005,Adobe,IT,Software Engineer,24,19,Hyderabad,Hybrid,Premium
+COM006,Qualcomm,Semiconductor,Embedded Engineer,22,18,Hyderabad,Onsite,Premium
+COM007,Intel,Semiconductor,VLSI Engineer,20,16,Hyderabad,Hybrid,Premium
+COM008,VMware,IT,Cloud Engineer,25,20,Hyderabad,Hybrid,Premium
+COM009,ServiceNow,IT,Software Developer,27,22,Hyderabad,Hybrid,Premium
+COM010,Goldman Sachs,Finance,Analyst,30,24,Hyderabad,Onsite,Premium
+COM011,DE Shaw,Finance,Analyst,28,22,Hyderabad,Onsite,Premium
+COM012,Uber,IT,SDE,32,25,Hyderabad,Hybrid,Premium
+COM013,Flipkart,E-commerce,SDE,22,18,Bangalore,Hybrid,Premium
+COM014,Zomato,Tech,SDE,20,16,Hyderabad,Hybrid,Premium
+COM015,Razorpay,Fintech,SDE,24,19,Hyderabad,Hybrid,Premium
+COM016,CRED,Fintech,SDE,22,18,Bangalore,Remote,Premium
+COM017,Swiggy,Tech,Data Engineer,18,14,Hyderabad,Hybrid,Premium
+COM018,Meesho,E-commerce,SDE,16,13,Bangalore,Hybrid,Premium
+COM019,PhonePe,Fintech,SDE,20,16,Hyderabad,Hybrid,Premium
+COM020,Paytm,Fintech,SDE,14,11,Noida,Hybrid,Premium
+COM021,TCS Digital,IT,Digital Specialist,10,8,Hyderabad,Hybrid,Mid Tier
+COM022,Infosys SP,IT,Systems Engineer,9,7,Hyderabad,Hybrid,Mid Tier
+COM023,Wipro Turbo,IT,Software Engineer,9,7,Hyderabad,Hybrid,Mid Tier
+COM024,HCL Tech,IT,Developer,8,6.5,Hyderabad,Onsite,Mid Tier
+COM025,Tech Mahindra,IT,Software Engineer,7,5.5,Hyderabad,Hybrid,Mid Tier
+COM026,Capgemini,IT,Software Analyst,8,6.5,Hyderabad,Hybrid,Mid Tier
+COM027,Hexaware,IT,Software Developer,8,6.5,Hyderabad,Hybrid,Mid Tier
+COM028,Mphasis,IT,Software Developer,9,7.5,Hyderabad,Hybrid,Mid Tier
+COM029,Mindtree,IT,Software Engineer,10,8,Hyderabad,Hybrid,Mid Tier
+COM030,L&T Infotech,IT,Software Engineer,9,7,Hyderabad,Hybrid,Mid Tier
+COM031,Cyient,Engineering,Software Engineer,8,6.5,Hyderabad,Hybrid,Mid Tier
+COM032,NIIT Technologies,IT,Developer,7,5.5,Hyderabad,Onsite,Mid Tier
+COM033,Persistent Systems,IT,Software Developer,10,8,Pune,Hybrid,Mid Tier
+COM034,Zensar,IT,Software Engineer,8,6.5,Hyderabad,Hybrid,Mid Tier
+COM035,Birlasoft,IT,Developer,8,6,Hyderabad,Hybrid,Mid Tier
+COM036,Sonata Software,IT,Software Engineer,9,7,Hyderabad,Hybrid,Mid Tier
+COM037,Tata Elxsi,Engineering,Engineer,10,8,Hyderabad,Hybrid,Mid Tier
+COM038,KPIT Technologies,Automotive,Software Engineer,9,7,Pune,Hybrid,Mid Tier
+COM039,Quest Global,Engineering,Engineer,8,6.5,Hyderabad,Hybrid,Mid Tier
+COM040,Sasken Technologies,Telecom,Engineer,9,7,Hyderabad,Hybrid,Mid Tier
+COM041,ValueMomentum,Insurance IT,Developer,9,7,Hyderabad,Hybrid,Mid Tier
+COM042,Maveric Systems,BFSI IT,Developer,8,6.5,Chennai,Hybrid,Mid Tier
+COM043,Sapient,IT,Consultant,10,8,Hyderabad,Hybrid,Mid Tier
+COM044,Nagarro,IT,Software Engineer,11,9,Hyderabad,Hybrid,Mid Tier
+COM045,EPAM Systems,IT,Software Engineer,12,10,Hyderabad,Hybrid,Mid Tier
+COM046,TCS,IT,Systems Engineer,3.5,3.5,Hyderabad,Hybrid,Mass Recruiter
+COM047,Infosys,IT,Systems Engineer,3.6,3.6,Hyderabad,Hybrid,Mass Recruiter
+COM048,Wipro,IT,Project Engineer,3.5,3.5,Hyderabad,Hybrid,Mass Recruiter
+COM049,Accenture,IT,Associate,4.5,4.5,Hyderabad,Hybrid,Mass Recruiter
+COM050,Cognizant,IT,Programmer Analyst,4.0,4.0,Hyderabad,Hybrid,Mass Recruiter
+COM051,IBM,IT,Associate,4.5,4.5,Hyderabad,Hybrid,Mass Recruiter
+COM052,Deloitte,IT,Analyst,6.5,6.5,Hyderabad,Hybrid,Mass Recruiter
+COM053,EY,IT,Analyst,6.0,6.0,Hyderabad,Hybrid,Mass Recruiter
+COM054,KPMG,IT,Analyst,6.5,6.5,Hyderabad,Hybrid,Mass Recruiter
+COM055,DXC Technology,IT,Associate,3.8,3.8,Hyderabad,Hybrid,Mass Recruiter
+COM056,Unisys,IT,Engineer,4.0,4.0,Hyderabad,Hybrid,Mass Recruiter
+COM057,CGI,IT,Programmer,4.5,4.5,Hyderabad,Hybrid,Mass Recruiter
+COM058,Syntel,IT,Associate,3.5,3.5,Hyderabad,Onsite,Mass Recruiter
+COM059,Sutherland,BPO,Technical Support,3.5,3.5,Hyderabad,Onsite,Mass Recruiter
+COM060,Conduent,IT,Analyst,4.0,4.0,Hyderabad,Onsite,Mass Recruiter
+COM061,Genpact,IT,Process Analyst,4.5,4.5,Hyderabad,Hybrid,Mass Recruiter
+COM062,WNS,BPO,Analyst,4.0,4.0,Hyderabad,Onsite,Mass Recruiter
+COM063,EXL Service,Analytics,Analyst,5.0,5.0,Hyderabad,Hybrid,Mass Recruiter
+COM064,Firstsource,BPO,Technical Analyst,3.5,3.5,Hyderabad,Onsite,Mass Recruiter
+COM065,Virtusa,IT,Software Engineer,5.0,5.0,Hyderabad,Hybrid,Mass Recruiter
+COM066,Mastech,IT,Consultant,4.5,4.5,Hyderabad,Hybrid,Mass Recruiter
+COM067,Harman,IT,Engineer,5.5,5.5,Hyderabad,Hybrid,Mass Recruiter
+COM068,Publicis Sapient,IT,Associate,5.5,5.5,Hyderabad,Hybrid,Mass Recruiter
+COM069,Zensar,IT,Engineer,4.5,4.5,Hyderabad,Hybrid,Mass Recruiter
+COM070,Byju's,EdTech,Technical Analyst,4.0,4.0,Hyderabad,Hybrid,Mass Recruiter
+COM071,Muthoot Fincorp,Finance,Tech Officer,3.5,3.5,Hyderabad,Onsite,Mass Recruiter
+COM072,NIIT,EdTech,Technical Trainer,3.5,3.5,Hyderabad,Onsite,Mass Recruiter
+COM073,iGate,IT,Programmer,3.8,3.8,Hyderabad,Hybrid,Mass Recruiter
+COM074,Kforce,Staffing,IT Associate,3.5,3.5,Hyderabad,Onsite,Mass Recruiter
+COM075,Mastech Digital,IT,Digital Analyst,4.0,4.0,Hyderabad,Hybrid,Mass Recruiter
+COM076,Hexaware BPS,BPO,Tech Analyst,4.0,4.0,Hyderabad,Onsite,Mass Recruiter
+COM077,Mphasis BPS,Finance,Analyst,4.0,4.0,Hyderabad,Onsite,Mass Recruiter
+COM078,UST Global,IT,Engineer,4.5,4.5,Hyderabad,Hybrid,Mass Recruiter
+COM079,Infoview Technologies,IT,Developer,4.5,4.5,Hyderabad,Hybrid,Mass Recruiter
+COM080,Birlasoft ERM,IT,Associate,4.0,4.0,Hyderabad,Onsite,Mass Recruiter
